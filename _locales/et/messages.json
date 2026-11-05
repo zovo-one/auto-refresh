@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Automaatne värskendus — lehe jälgija ja taaslaadija"
+  },
+  "ext_desc": {
+    "message": "Värskenda ja laadi mis tahes leht automaatselt taimeriga. Jälgi lehtede muutusi ja saa teavitusi."
+  },
+  "action_title": {
+    "message": "Automaatne värskendus — lehe jälgija ja taaslaadija"
+  },
+  "popup_title": {
+    "message": "Automaatne värskendus"
+  },
+  "popup_this_page": {
+    "message": "See leht"
+  },
+  "section_refresh": {
+    "message": "Automaatne värskendus"
+  },
+  "label_every": {
+    "message": "Iga"
+  },
+  "unit_seconds": {
+    "message": "sekundi tagant"
+  },
+  "opt_only_active": {
+    "message": "Värskenda ainult siis, kui see kaart on aktiivne"
+  },
+  "opt_preserve_form": {
+    "message": "Säilita see, mille vormidesse sisestasin"
+  },
+  "opt_save_rule": {
+    "message": "Aktiveeri see sait automaatselt, kui tagasi tulen"
+  },
+  "note_bg_floor": {
+    "message": "Taustakaardid värskenevad kõige rohkem iga 30 sekundi tagant (Chrome'i piirang) — esiplaanil olevad kaardid järgivad sinu täpset intervalli."
+  },
+  "btn_start": {
+    "message": "Alusta automaatset värskendamist"
+  },
+  "btn_stop": {
+    "message": "Peata"
+  },
+  "btn_pause": {
+    "message": "Paus"
+  },
+  "btn_resume": {
+    "message": "Jätka"
+  },
+  "btn_refresh_now": {
+    "message": "Värskenda kohe"
+  },
+  "section_monitor": {
+    "message": "Jälgi muutusi"
+  },
+  "monitor_help": {
+    "message": "Saa töölauateavitus, kui see leht muutub — isegi kui sulged kaardi."
+  },
+  "label_condition": {
+    "message": "Teavita, kui"
+  },
+  "cond_any": {
+    "message": "midagi muutub"
+  },
+  "cond_appears": {
+    "message": "ilmub sõna"
+  },
+  "cond_disappears": {
+    "message": "kaob sõna"
+  },
+  "cond_price": {
+    "message": "hind langeb alla"
+  },
+  "label_keyword": {
+    "message": "Sõna"
+  },
+  "btn_pick": {
+    "message": "Vali element"
+  },
+  "btn_watch_page": {
+    "message": "Jälgi kogu lehte"
+  },
+  "btn_add_watch": {
+    "message": "Alusta jälgimist"
+  },
+  "trust_line": {
+    "message": "Igavesti tasuta · Kontot pole vaja · Reklaamivaba · Jälgimisvaba"
+  },
+  "link_dashboard": {
+    "message": "Halda jälgimisnimekirja"
+  },
+  "status_paused": {
+    "message": "Peatatud"
+  },
+  "status_next": {
+    "message": "Järgmine värskendus"
+  },
+  "watch_label": {
+    "message": "Jälgin"
+  },
+  "status_bad_page": {
+    "message": "Seda lehte ei saa värskendada."
+  },
+  "status_perm_needed": {
+    "message": "Selle saidi värskendamiseks on vaja luba."
+  },
+  "pick_hint": {
+    "message": "Mine lehele ja klõpsa elementi, mida soovid jälgida."
+  },
+  "pick_done": {
+    "message": "Jälgin:"
+  },
+  "watch_added": {
+    "message": "Jälgimine algas."
+  },
+  "watch_cap_hit": {
+    "message": "Tasuta piirang saavutatud (3). Uuenda Zovo Pro peale piiramatute jälgijate saamiseks."
+  },
+  "notif_change_title": {
+    "message": "Jälgitav leht muutus"
+  },
+  "notif_change_body": {
+    "message": "Tuvastati muutus."
+  },
+  "dash_title": {
+    "message": "Automaatne värskendus — jälgimisnimekiri ja seaded"
+  },
+  "dash_watches": {
+    "message": "Lehemuutuste jälgijad"
+  },
+  "col_page": {
+    "message": "Leht"
+  },
+  "col_condition": {
+    "message": "Tingimus"
+  },
+  "col_mode": {
+    "message": "Režiim"
+  },
+  "col_status": {
+    "message": "Olek"
+  },
+  "col_actions": {
+    "message": "Toimingud"
+  },
+  "dash_no_watches": {
+    "message": "Jälgijaid veel pole. Ava mis tahes lehel hüpikaken ja vali Jälgi muutusi."
+  },
+  "dash_rules": {
+    "message": "Domeenipõhised automaatse aktiveerimise reeglid"
+  },
+  "col_site": {
+    "message": "Sait"
+  },
+  "col_interval": {
+    "message": "Intervall"
+  },
+  "dash_no_rules": {
+    "message": "Salvestatud saidireegleid veel pole."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro avab piiramatud jälgijad, täpsemad tingimused, seansi elushoidmise, ajaloo ja seadmeteülese sünkroonimise — kõik Zovo $$99 eluaegses paketis."
+  },
+  "label_license": {
+    "message": "Litsentsivõti"
+  },
+  "btn_activate": {
+    "message": "Aktiveeri"
+  },
+  "dash_settings": {
+    "message": "Seaded"
+  },
+  "opt_sound": {
+    "message": "Esita heli kinnitatud muutuse korral"
+  },
+  "mode_open": {
+    "message": "Avatud kaart"
+  },
+  "mode_closed": {
+    "message": "Suletud kaart"
+  },
+  "status_on": {
+    "message": "Sees"
+  },
+  "status_off": {
+    "message": "Väljas"
+  },
+  "btn_remove": {
+    "message": "Eemalda"
+  },
+  "license_active": {
+    "message": "Zovo Pro on aktiivne. Aitäh!"
+  },
+  "license_inactive": {
+    "message": "Tasuta pakett. Sisesta Zovo litsentsivõti Pro avamiseks."
+  },
+  "license_bad_key": {
+    "message": "See võti ei kehti. Vorming: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Automaatne värskendus — lehe jälgija ja taaslaadija"
+  },
+  "onb_tagline": {
+    "message": "Sea paika. Unusta ära. Ära kunagi enam vajuta taaslaadimist."
+  },
+  "onb_step1": {
+    "message": "1. Ava mis tahes leht, mida soovid värskena hoida — töölaud, otsetulemused, oksjon."
+  },
+  "onb_step2": {
+    "message": "2. Klõpsa Automaatse värskenduse ikoonil, vali intervall, vajuta Alusta. Otseloendus algab kohe."
+  },
+  "onb_step3": {
+    "message": "3. Soovid hoopis teavitust? Vali Jälgi muutusi, vali element ja sulge kaart — me jälgime seda ikkagi."
+  },
+  "onb_trust": {
+    "message": "Igavesti tasuta. Kontot pole vaja. Reklaamivaba. Jälgimisvaba. Taustakaardid värskenevad kõige rohkem iga 30 sekundi tagant (Chrome'i piirang); esiplaanil olevad kaardid järgivad sinu täpset intervalli."
+  },
+  "onb_cta": {
+    "message": "Selge — lähme"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

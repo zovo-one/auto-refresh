@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Tự động làm mới — Theo dõi & tải lại trang"
+  },
+  "ext_desc": {
+    "message": "Tự động làm mới và tải lại bất kỳ trang nào theo bộ hẹn giờ. Theo dõi các thay đổi trên trang và nhận thông báo."
+  },
+  "action_title": {
+    "message": "Tự động làm mới — Theo dõi & tải lại trang"
+  },
+  "popup_title": {
+    "message": "Tự động làm mới"
+  },
+  "popup_this_page": {
+    "message": "Trang này"
+  },
+  "section_refresh": {
+    "message": "Tự động làm mới"
+  },
+  "label_every": {
+    "message": "Mỗi"
+  },
+  "unit_seconds": {
+    "message": "giây"
+  },
+  "opt_only_active": {
+    "message": "Chỉ làm mới khi tab này đang hoạt động"
+  },
+  "opt_preserve_form": {
+    "message": "Giữ lại những gì tôi đã nhập trong biểu mẫu"
+  },
+  "opt_save_rule": {
+    "message": "Tự động bật cho trang này khi tôi quay lại"
+  },
+  "note_bg_floor": {
+    "message": "Các tab chạy nền làm mới tối đa mỗi 30 giây (giới hạn của Chrome) — các tab đang mở áp dụng đúng khoảng thời gian bạn đặt."
+  },
+  "btn_start": {
+    "message": "Bắt đầu tự động làm mới"
+  },
+  "btn_stop": {
+    "message": "Dừng"
+  },
+  "btn_pause": {
+    "message": "Tạm dừng"
+  },
+  "btn_resume": {
+    "message": "Tiếp tục"
+  },
+  "btn_refresh_now": {
+    "message": "Làm mới ngay"
+  },
+  "section_monitor": {
+    "message": "Theo dõi thay đổi"
+  },
+  "monitor_help": {
+    "message": "Nhận thông báo trên màn hình khi trang này thay đổi — ngay cả khi bạn đã đóng tab."
+  },
+  "label_condition": {
+    "message": "Thông báo khi"
+  },
+  "cond_any": {
+    "message": "có bất kỳ thay đổi nào"
+  },
+  "cond_appears": {
+    "message": "một từ xuất hiện"
+  },
+  "cond_disappears": {
+    "message": "một từ biến mất"
+  },
+  "cond_price": {
+    "message": "giá thấp hơn"
+  },
+  "label_keyword": {
+    "message": "Từ"
+  },
+  "btn_pick": {
+    "message": "Chọn một phần tử"
+  },
+  "btn_watch_page": {
+    "message": "Theo dõi toàn trang"
+  },
+  "btn_add_watch": {
+    "message": "Bắt đầu theo dõi"
+  },
+  "trust_line": {
+    "message": "Miễn phí vĩnh viễn · Không cần tài khoản · Không quảng cáo · Không theo dõi"
+  },
+  "link_dashboard": {
+    "message": "Quản lý danh sách theo dõi"
+  },
+  "status_paused": {
+    "message": "Đã tạm dừng"
+  },
+  "status_next": {
+    "message": "Làm mới tiếp theo sau"
+  },
+  "watch_label": {
+    "message": "Đang theo dõi"
+  },
+  "status_bad_page": {
+    "message": "Không thể làm mới trang này."
+  },
+  "status_perm_needed": {
+    "message": "Cần cấp quyền để làm mới trang này."
+  },
+  "pick_hint": {
+    "message": "Chuyển sang trang và nhấp vào phần tử cần theo dõi."
+  },
+  "pick_done": {
+    "message": "Đang theo dõi:"
+  },
+  "watch_added": {
+    "message": "Đã bắt đầu theo dõi."
+  },
+  "watch_cap_hit": {
+    "message": "Đã đạt giới hạn miễn phí (3). Nâng cấp lên Zovo Pro để theo dõi không giới hạn."
+  },
+  "notif_change_title": {
+    "message": "Một trang bạn đang theo dõi đã thay đổi"
+  },
+  "notif_change_body": {
+    "message": "Đã phát hiện một thay đổi."
+  },
+  "dash_title": {
+    "message": "Tự động làm mới — Danh sách theo dõi & Cài đặt"
+  },
+  "dash_watches": {
+    "message": "Bộ theo dõi thay đổi trang"
+  },
+  "col_page": {
+    "message": "Trang"
+  },
+  "col_condition": {
+    "message": "Điều kiện"
+  },
+  "col_mode": {
+    "message": "Chế độ"
+  },
+  "col_status": {
+    "message": "Trạng thái"
+  },
+  "col_actions": {
+    "message": "Thao tác"
+  },
+  "dash_no_watches": {
+    "message": "Chưa có bộ theo dõi nào. Mở cửa sổ trên bất kỳ trang nào và chọn Theo dõi thay đổi."
+  },
+  "dash_rules": {
+    "message": "Quy tắc tự động bật theo tên miền"
+  },
+  "col_site": {
+    "message": "Trang web"
+  },
+  "col_interval": {
+    "message": "Khoảng thời gian"
+  },
+  "dash_no_rules": {
+    "message": "Chưa có quy tắc trang web nào được lưu."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro mở khóa số lượng bộ theo dõi không giới hạn, điều kiện nâng cao, giữ phiên hoạt động, lịch sử và đồng bộ giữa các máy — đi kèm trong gói Zovo trọn đời $$99."
+  },
+  "label_license": {
+    "message": "Khóa bản quyền"
+  },
+  "btn_activate": {
+    "message": "Kích hoạt"
+  },
+  "dash_settings": {
+    "message": "Cài đặt"
+  },
+  "opt_sound": {
+    "message": "Phát âm thanh khi xác nhận có thay đổi"
+  },
+  "mode_open": {
+    "message": "Tab đang mở"
+  },
+  "mode_closed": {
+    "message": "Tab đã đóng"
+  },
+  "status_on": {
+    "message": "Bật"
+  },
+  "status_off": {
+    "message": "Tắt"
+  },
+  "btn_remove": {
+    "message": "Xóa"
+  },
+  "license_active": {
+    "message": "Zovo Pro đang hoạt động. Cảm ơn bạn!"
+  },
+  "license_inactive": {
+    "message": "Gói miễn phí. Nhập khóa bản quyền Zovo để mở khóa Pro."
+  },
+  "license_bad_key": {
+    "message": "Khóa đó không hợp lệ. Định dạng: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Tự động làm mới — Theo dõi & tải lại trang"
+  },
+  "onb_tagline": {
+    "message": "Cài đặt xong. Quên nó đi. Không bao giờ phải nhấn tải lại nữa."
+  },
+  "onb_step1": {
+    "message": "1. Mở bất kỳ trang nào bạn muốn luôn cập nhật — bảng điều khiển, tỉ số trực tiếp, phiên đấu giá."
+  },
+  "onb_step2": {
+    "message": "2. Nhấp vào biểu tượng Tự động làm mới, chọn khoảng thời gian, nhấn Bắt đầu. Đồng hồ đếm ngược trực tiếp bắt đầu ngay lập tức."
+  },
+  "onb_step3": {
+    "message": "3. Muốn nhận cảnh báo thay vì vậy? Chọn Theo dõi thay đổi, chọn một phần tử, rồi đóng tab — chúng tôi vẫn sẽ theo dõi nó."
+  },
+  "onb_trust": {
+    "message": "Miễn phí vĩnh viễn. Không cần tài khoản. Không quảng cáo. Không theo dõi. Các tab chạy nền làm mới tối đa mỗi 30 giây (giới hạn của Chrome); các tab đang mở áp dụng đúng khoảng thời gian bạn đặt."
+  },
+  "onb_cta": {
+    "message": "Đã hiểu — bắt đầu thôi"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

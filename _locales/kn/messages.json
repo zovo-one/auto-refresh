@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "ಸ್ವಯಂ ರಿಫ್ರೆಶ್ — ಪೇಜ್ ಮಾನಿಟರ್ ಮತ್ತು ರೀಲೋಡ್"
+  },
+  "ext_desc": {
+    "message": "ಟೈಮರ್ ಮೇಲೆ ಯಾವುದೇ ಪುಟವನ್ನು ಸ್ವಯಂ ರಿಫ್ರೆಶ್ ಮತ್ತು ರೀಲೋಡ್ ಮಾಡಿ. ಬದಲಾವಣೆಗಳಿಗಾಗಿ ಪುಟಗಳನ್ನು ಗಮನಿಸಿ ಮತ್ತು ಸೂಚನೆ ಪಡೆಯಿರಿ."
+  },
+  "action_title": {
+    "message": "ಸ್ವಯಂ ರಿಫ್ರೆಶ್ — ಪೇಜ್ ಮಾನಿಟರ್ ಮತ್ತು ರೀಲೋಡ್"
+  },
+  "popup_title": {
+    "message": "ಸ್ವಯಂ ರಿಫ್ರೆಶ್"
+  },
+  "popup_this_page": {
+    "message": "ಈ ಪುಟ"
+  },
+  "section_refresh": {
+    "message": "ಸ್ವಯಂ ರಿಫ್ರೆಶ್"
+  },
+  "label_every": {
+    "message": "ಪ್ರತಿ"
+  },
+  "unit_seconds": {
+    "message": "ಸೆಕೆಂಡುಗಳು"
+  },
+  "opt_only_active": {
+    "message": "ಈ ಟ್ಯಾಬ್ ಸಕ್ರಿಯವಾಗಿರುವಾಗ ಮಾತ್ರ ರಿಫ್ರೆಶ್ ಮಾಡಿ"
+  },
+  "opt_preserve_form": {
+    "message": "ಫಾರ್ಮ್‌ಗಳಲ್ಲಿ ನಾನು ಟೈಪ್ ಮಾಡಿದ್ದನ್ನು ಉಳಿಸಿಕೊಳ್ಳಿ"
+  },
+  "opt_save_rule": {
+    "message": "ನಾನು ಮರಳಿ ಬಂದಾಗ ಈ ಸೈಟ್ ಅನ್ನು ಸ್ವಯಂ-ಸಜ್ಜುಗೊಳಿಸಿ"
+  },
+  "note_bg_floor": {
+    "message": "ಹಿನ್ನೆಲೆ ಟ್ಯಾಬ್‌ಗಳು ಹೆಚ್ಚೆಂದರೆ ಪ್ರತಿ 30 ಸೆಕೆಂಡಿಗೊಮ್ಮೆ ರಿಫ್ರೆಶ್ ಆಗುತ್ತವೆ (Chrome ಮಿತಿ) — ಮುಂಚೂಣಿ ಟ್ಯಾಬ್‌ಗಳು ನಿಮ್ಮ ನಿಖರ ಮಧ್ಯಂತರವನ್ನು ಪಾಲಿಸುತ್ತವೆ."
+  },
+  "btn_start": {
+    "message": "ಸ್ವಯಂ-ರಿಫ್ರೆಶ್ ಪ್ರಾರಂಭಿಸಿ"
+  },
+  "btn_stop": {
+    "message": "ನಿಲ್ಲಿಸಿ"
+  },
+  "btn_pause": {
+    "message": "ವಿರಾಮ"
+  },
+  "btn_resume": {
+    "message": "ಮುಂದುವರಿಸಿ"
+  },
+  "btn_refresh_now": {
+    "message": "ಈಗ ರಿಫ್ರೆಶ್ ಮಾಡಿ"
+  },
+  "section_monitor": {
+    "message": "ಬದಲಾವಣೆಗಳಿಗಾಗಿ ಗಮನಿಸಿ"
+  },
+  "monitor_help": {
+    "message": "ಈ ಪುಟ ಬದಲಾದಾಗ ಡೆಸ್ಕ್‌ಟಾಪ್ ಸೂಚನೆ ಪಡೆಯಿರಿ — ನೀವು ಟ್ಯಾಬ್ ಮುಚ್ಚಿದರೂ ಸಹ."
+  },
+  "label_condition": {
+    "message": "ಯಾವಾಗ ಸೂಚಿಸಬೇಕು"
+  },
+  "cond_any": {
+    "message": "ಏನಾದರೂ ಬದಲಾದಾಗ"
+  },
+  "cond_appears": {
+    "message": "ಒಂದು ಪದ ಕಾಣಿಸಿಕೊಂಡಾಗ"
+  },
+  "cond_disappears": {
+    "message": "ಒಂದು ಪದ ಮಾಯವಾದಾಗ"
+  },
+  "cond_price": {
+    "message": "ಬೆಲೆ ಇದಕ್ಕಿಂತ ಕಡಿಮೆಯಾದಾಗ"
+  },
+  "label_keyword": {
+    "message": "ಪದ"
+  },
+  "btn_pick": {
+    "message": "ಒಂದು ಎಲಿಮೆಂಟ್ ಆಯ್ಕೆಮಾಡಿ"
+  },
+  "btn_watch_page": {
+    "message": "ಇಡೀ ಪುಟವನ್ನು ವೀಕ್ಷಿಸಿ"
+  },
+  "btn_add_watch": {
+    "message": "ವೀಕ್ಷಿಸಲು ಪ್ರಾರಂಭಿಸಿ"
+  },
+  "trust_line": {
+    "message": "ಶಾಶ್ವತವಾಗಿ ಉಚಿತ · ಖಾತೆ ಇಲ್ಲ · ಜಾಹೀರಾತು ಇಲ್ಲ · ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ"
+  },
+  "link_dashboard": {
+    "message": "ವೀಕ್ಷಣಾ-ಪಟ್ಟಿಯನ್ನು ನಿರ್ವಹಿಸಿ"
+  },
+  "status_paused": {
+    "message": "ವಿರಾಮಗೊಳಿಸಲಾಗಿದೆ"
+  },
+  "status_next": {
+    "message": "ಮುಂದಿನ ರಿಫ್ರೆಶ್ ಇಷ್ಟರೊಳಗೆ"
+  },
+  "watch_label": {
+    "message": "ವೀಕ್ಷಿಸುತ್ತಿದೆ"
+  },
+  "status_bad_page": {
+    "message": "ಈ ಪುಟವನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಲಾಗುವುದಿಲ್ಲ."
+  },
+  "status_perm_needed": {
+    "message": "ಈ ಸೈಟ್ ಅನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಲು ಅನುಮತಿ ಅಗತ್ಯವಿದೆ."
+  },
+  "pick_hint": {
+    "message": "ಪುಟಕ್ಕೆ ಬದಲಿಸಿ ಮತ್ತು ವೀಕ್ಷಿಸಬೇಕಾದ ಎಲಿಮೆಂಟ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ."
+  },
+  "pick_done": {
+    "message": "ವೀಕ್ಷಿಸುತ್ತಿದೆ:"
+  },
+  "watch_added": {
+    "message": "ಮಾನಿಟರ್ ಪ್ರಾರಂಭವಾಯಿತು."
+  },
+  "watch_cap_hit": {
+    "message": "ಉಚಿತ ಮಿತಿ ತಲುಪಿದೆ (3). ಅನಿಯಮಿತ ಮಾನಿಟರ್‌ಗಳಿಗಾಗಿ Zovo Pro ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+  },
+  "notif_change_title": {
+    "message": "ನೀವು ವೀಕ್ಷಿಸುತ್ತಿರುವ ಪುಟ ಬದಲಾಗಿದೆ"
+  },
+  "notif_change_body": {
+    "message": "ಒಂದು ಬದಲಾವಣೆ ಪತ್ತೆಯಾಗಿದೆ."
+  },
+  "dash_title": {
+    "message": "ಸ್ವಯಂ ರಿಫ್ರೆಶ್ — ವೀಕ್ಷಣಾ-ಪಟ್ಟಿ ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "dash_watches": {
+    "message": "ಪುಟ-ಬದಲಾವಣೆ ಮಾನಿಟರ್‌ಗಳು"
+  },
+  "col_page": {
+    "message": "ಪುಟ"
+  },
+  "col_condition": {
+    "message": "ಷರತ್ತು"
+  },
+  "col_mode": {
+    "message": "ಮೋಡ್"
+  },
+  "col_status": {
+    "message": "ಸ್ಥಿತಿ"
+  },
+  "col_actions": {
+    "message": "ಕ್ರಿಯೆಗಳು"
+  },
+  "dash_no_watches": {
+    "message": "ಇನ್ನೂ ಮಾನಿಟರ್‌ಗಳಿಲ್ಲ. ಯಾವುದೇ ಪುಟದಲ್ಲಿ ಪಾಪ್‌ಅಪ್ ತೆರೆದು ಬದಲಾವಣೆಗಳಿಗಾಗಿ ಗಮನಿಸಿ ಆಯ್ಕೆಮಾಡಿ."
+  },
+  "dash_rules": {
+    "message": "ಡೊಮೇನ್-ವಾರು ಸ್ವಯಂ-ಸಜ್ಜು ನಿಯಮಗಳು"
+  },
+  "col_site": {
+    "message": "ಸೈಟ್"
+  },
+  "col_interval": {
+    "message": "ಮಧ್ಯಂತರ"
+  },
+  "dash_no_rules": {
+    "message": "ಇನ್ನೂ ಉಳಿಸಿದ ಸೈಟ್ ನಿಯಮಗಳಿಲ್ಲ."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro ಅನಿಯಮಿತ ಮಾನಿಟರ್‌ಗಳು, ಸುಧಾರಿತ ಷರತ್ತುಗಳು, ಸೆಷನ್-ಜೀವಂತವಾಗಿ ಇರಿಸುವಿಕೆ, ಇತಿಹಾಸ ಮತ್ತು ಕ್ರಾಸ್-ಮಷೀನ್ ಸಿಂಕ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡುತ್ತದೆ — Zovo $$99 ಜೀವಮಾನದ ಪ್ಯಾಕೇಜ್‌ನಲ್ಲಿ ಒಳಗೊಂಡಿದೆ."
+  },
+  "label_license": {
+    "message": "ಲೈಸೆನ್ಸ್ ಕೀ"
+  },
+  "btn_activate": {
+    "message": "ಸಕ್ರಿಯಗೊಳಿಸಿ"
+  },
+  "dash_settings": {
+    "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+  },
+  "opt_sound": {
+    "message": "ದೃಢಪಟ್ಟ ಬದಲಾವಣೆ ಮೇಲೆ ಶಬ್ದ ಪ್ಲೇ ಮಾಡಿ"
+  },
+  "mode_open": {
+    "message": "ತೆರೆದ ಟ್ಯಾಬ್"
+  },
+  "mode_closed": {
+    "message": "ಮುಚ್ಚಿದ ಟ್ಯಾಬ್"
+  },
+  "status_on": {
+    "message": "ಆನ್"
+  },
+  "status_off": {
+    "message": "ಆಫ್"
+  },
+  "btn_remove": {
+    "message": "ತೆಗೆದುಹಾಕಿ"
+  },
+  "license_active": {
+    "message": "Zovo Pro ಸಕ್ರಿಯವಾಗಿದೆ. ಧನ್ಯವಾದಗಳು!"
+  },
+  "license_inactive": {
+    "message": "ಉಚಿತ ಯೋಜನೆ. Pro ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು Zovo ಲೈಸೆನ್ಸ್ ಕೀ ನಮೂದಿಸಿ."
+  },
+  "license_bad_key": {
+    "message": "ಆ ಕೀ ಮಾನ್ಯವಾಗಿಲ್ಲ. ಸ್ವರೂಪ: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "ಸ್ವಯಂ ರಿಫ್ರೆಶ್ — ಪೇಜ್ ಮಾನಿಟರ್ ಮತ್ತು ರೀಲೋಡ್"
+  },
+  "onb_tagline": {
+    "message": "ಹೊಂದಿಸಿ. ಮರೆತುಬಿಡಿ. ಇನ್ನೆಂದೂ ರೀಲೋಡ್ ಒತ್ತಬೇಡಿ."
+  },
+  "onb_step1": {
+    "message": "1. ನೀವು ತಾಜಾ ಆಗಿಡಬಯಸುವ ಯಾವುದೇ ಪುಟವನ್ನು ತೆರೆಯಿರಿ — ಡ್ಯಾಶ್‌ಬೋರ್ಡ್, ಲೈವ್ ಸ್ಕೋರ್‌ಗಳು, ಒಂದು ಹರಾಜು."
+  },
+  "onb_step2": {
+    "message": "2. ಸ್ವಯಂ ರಿಫ್ರೆಶ್ ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ, ಮಧ್ಯಂತರ ಆಯ್ಕೆಮಾಡಿ, ಪ್ರಾರಂಭಿಸಿ ಒತ್ತಿರಿ. ಒಂದು ಲೈವ್ ಕೌಂಟ್‌ಡೌನ್ ತಕ್ಷಣ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ."
+  },
+  "onb_step3": {
+    "message": "3. ಬದಲಿಗೆ ಅಲರ್ಟ್ ಬೇಕೇ? ಬದಲಾವಣೆಗಳಿಗಾಗಿ ಗಮನಿಸಿ ಆಯ್ಕೆಮಾಡಿ, ಒಂದು ಎಲಿಮೆಂಟ್ ಆರಿಸಿ, ಮತ್ತು ಟ್ಯಾಬ್ ಮುಚ್ಚಿ — ನಾವು ಇನ್ನೂ ಅದನ್ನು ವೀಕ್ಷಿಸುತ್ತೇವೆ."
+  },
+  "onb_trust": {
+    "message": "ಶಾಶ್ವತವಾಗಿ ಉಚಿತ. ಖಾತೆ ಇಲ್ಲ. ಜಾಹೀರಾತು ಇಲ್ಲ. ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ. ಹಿನ್ನೆಲೆ ಟ್ಯಾಬ್‌ಗಳು ಹೆಚ್ಚೆಂದರೆ ಪ್ರತಿ 30 ಸೆಕೆಂಡಿಗೊಮ್ಮೆ ರಿಫ್ರೆಶ್ ಆಗುತ್ತವೆ (Chrome ಮಿತಿ); ಮುಂಚೂಣಿ ಟ್ಯಾಬ್‌ಗಳು ನಿಮ್ಮ ನಿಖರ ಮಧ್ಯಂತರವನ್ನು ಪಾಲಿಸುತ್ತವೆ."
+  },
+  "onb_cta": {
+    "message": "ಅರ್ಥವಾಯಿತು — ಹೋಗೋಣ"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

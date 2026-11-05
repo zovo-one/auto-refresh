@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "자동 새로고침 — 페이지 모니터 및 새로고침"
+  },
+  "ext_desc": {
+    "message": "타이머로 모든 페이지를 자동 새로고침. 페이지 변화를 감시하고 알림을 받으세요."
+  },
+  "action_title": {
+    "message": "자동 새로고침 — 페이지 모니터 및 새로고침"
+  },
+  "popup_title": {
+    "message": "자동 새로고침"
+  },
+  "section_refresh": {
+    "message": "자동 새로고침"
+  },
+  "label_every": {
+    "message": "간격"
+  },
+  "unit_seconds": {
+    "message": "초"
+  },
+  "opt_only_active": {
+    "message": "이 탭이 활성일 때만 새로고침"
+  },
+  "opt_preserve_form": {
+    "message": "양식에 입력한 내용 유지"
+  },
+  "opt_save_rule": {
+    "message": "다시 방문하면 이 사이트 자동 시작"
+  },
+  "note_bg_floor": {
+    "message": "백그라운드 탭은 최소 30초마다 새로고침됩니다(Chrome 제한). 활성 탭은 지정한 정확한 간격으로 새로고침됩니다."
+  },
+  "btn_start": {
+    "message": "자동 새로고침 시작"
+  },
+  "btn_stop": {
+    "message": "중지"
+  },
+  "btn_pause": {
+    "message": "일시정지"
+  },
+  "btn_resume": {
+    "message": "재개"
+  },
+  "btn_refresh_now": {
+    "message": "지금 새로고침"
+  },
+  "section_monitor": {
+    "message": "변화 감시"
+  },
+  "monitor_help": {
+    "message": "이 페이지가 바뀌면 알림을 받으세요. 탭을 닫아도 계속 감시합니다."
+  },
+  "label_condition": {
+    "message": "알림 조건"
+  },
+  "cond_any": {
+    "message": "무엇이든 바뀌면"
+  },
+  "cond_appears": {
+    "message": "단어가 나타나면"
+  },
+  "cond_disappears": {
+    "message": "단어가 사라지면"
+  },
+  "label_keyword": {
+    "message": "단어"
+  },
+  "btn_pick": {
+    "message": "요소 선택"
+  },
+  "btn_watch_page": {
+    "message": "페이지 전체 감시"
+  },
+  "btn_add_watch": {
+    "message": "감시 시작"
+  },
+  "trust_line": {
+    "message": "영원히 무료 · 계정 불필요 · 광고 없음 · 추적 없음"
+  },
+  "link_dashboard": {
+    "message": "감시 목록 관리"
+  },
+  "status_paused": {
+    "message": "일시정지됨"
+  },
+  "status_next": {
+    "message": "다음 새로고침"
+  },
+  "watch_label": {
+    "message": "감시 중"
+  },
+  "notif_change_title": {
+    "message": "감시 중인 페이지가 변경되었습니다"
+  },
+  "dash_title": {
+    "message": "자동 새로고침 — 목록 및 설정"
+  },
+  "dash_watches": {
+    "message": "페이지 변화 감시"
+  },
+  "dash_rules": {
+    "message": "도메인별 자동 시작 규칙"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "dash_settings": {
+    "message": "설정"
+  },
+  "btn_activate": {
+    "message": "활성화"
+  },
+  "btn_remove": {
+    "message": "삭제"
+  },
+  "status_on": {
+    "message": "켜짐"
+  },
+  "status_off": {
+    "message": "꺼짐"
+  },
+  "mode_open": {
+    "message": "열린 탭"
+  },
+  "mode_closed": {
+    "message": "닫힌 탭"
+  },
+  "onb_tagline": {
+    "message": "설정하고 잊으세요. 다시는 새로고침하지 마세요."
+  },
+  "onb_cta": {
+    "message": "확인, 시작하기"
+  },
+  "popup_this_page": {
+    "message": "이 페이지"
+  },
+  "cond_price": {
+    "message": "가격이 이하로 내려가면"
+  },
+  "status_bad_page": {
+    "message": "이 페이지는 새로고침할 수 없습니다."
+  },
+  "status_perm_needed": {
+    "message": "이 사이트를 새로고침하려면 권한이 필요합니다."
+  },
+  "pick_hint": {
+    "message": "페이지로 이동하여 감시할 요소를 클릭하세요."
+  },
+  "pick_done": {
+    "message": "감시 중:"
+  },
+  "watch_added": {
+    "message": "모니터링을 시작했습니다."
+  },
+  "watch_cap_hit": {
+    "message": "무료 한도(3개)에 도달했습니다. 무제한 모니터링은 Zovo Pro로 업그레이드하세요."
+  },
+  "notif_change_body": {
+    "message": "변화가 감지되었습니다."
+  },
+  "col_page": {
+    "message": "페이지"
+  },
+  "col_condition": {
+    "message": "조건"
+  },
+  "col_mode": {
+    "message": "모드"
+  },
+  "col_status": {
+    "message": "상태"
+  },
+  "col_actions": {
+    "message": "작업"
+  },
+  "dash_no_watches": {
+    "message": "아직 모니터가 없습니다. 아무 페이지에서 팝업을 열고 '변화 감시'를 선택하세요."
+  },
+  "col_site": {
+    "message": "사이트"
+  },
+  "col_interval": {
+    "message": "간격"
+  },
+  "dash_no_rules": {
+    "message": "저장된 사이트 규칙이 아직 없습니다."
+  },
+  "pro_blurb": {
+    "message": "Pro는 무제한 모니터링, 고급 조건, 세션 유지, 기록, 기기 간 동기화를 제공합니다. Zovo $$99 평생 이용권에 포함되어 있습니다."
+  },
+  "label_license": {
+    "message": "라이선스 키"
+  },
+  "opt_sound": {
+    "message": "변화가 확인되면 소리 재생"
+  },
+  "license_active": {
+    "message": "Zovo Pro가 활성화되었습니다. 감사합니다!"
+  },
+  "license_inactive": {
+    "message": "무료 플랜입니다. Pro를 사용하려면 Zovo 라이선스 키를 입력하세요."
+  },
+  "license_bad_key": {
+    "message": "유효하지 않은 키입니다. 형식: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "자동 새로고침 — 페이지 모니터 및 새로고침"
+  },
+  "onb_step1": {
+    "message": "1. 최신 상태로 유지하고 싶은 페이지를 여세요. 대시보드, 실시간 점수, 경매 등."
+  },
+  "onb_step2": {
+    "message": "2. 자동 새로고침 아이콘을 클릭하고 간격을 선택한 뒤 시작을 누르세요. 실시간 카운트다운이 즉시 시작됩니다."
+  },
+  "onb_step3": {
+    "message": "3. 알림을 원하시나요? '변화 감시'를 선택하고 요소를 고른 뒤 탭을 닫으세요. 그래도 계속 감시합니다."
+  },
+  "onb_trust": {
+    "message": "영원히 무료. 계정 불필요. 광고 없음. 추적 없음. 백그라운드 탭은 최소 30초마다 새로고침됩니다(Chrome 제한). 활성 탭은 지정한 정확한 간격으로 새로고침됩니다."
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

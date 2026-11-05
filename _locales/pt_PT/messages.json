@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Atualização Automática — Monitor e Recarregamento de Páginas"
+  },
+  "ext_desc": {
+    "message": "Atualize e recarregue automaticamente qualquer página com temporizador. Monitorize páginas em busca de alterações e receba notificações."
+  },
+  "action_title": {
+    "message": "Atualização Automática — Monitor e Recarregamento de Páginas"
+  },
+  "popup_title": {
+    "message": "Atualização Automática"
+  },
+  "popup_this_page": {
+    "message": "Esta página"
+  },
+  "section_refresh": {
+    "message": "Atualização automática"
+  },
+  "label_every": {
+    "message": "A cada"
+  },
+  "unit_seconds": {
+    "message": "segundos"
+  },
+  "opt_only_active": {
+    "message": "Atualizar apenas enquanto este separador estiver ativo"
+  },
+  "opt_preserve_form": {
+    "message": "Preservar o que escrevi nos formulários"
+  },
+  "opt_save_rule": {
+    "message": "Ativar automaticamente este site quando eu voltar"
+  },
+  "note_bg_floor": {
+    "message": "Os separadores em segundo plano atualizam no máximo a cada 30 s (um limite do Chrome) — os separadores em primeiro plano respeitam o intervalo exato definido."
+  },
+  "btn_start": {
+    "message": "Iniciar atualização automática"
+  },
+  "btn_stop": {
+    "message": "Parar"
+  },
+  "btn_pause": {
+    "message": "Pausar"
+  },
+  "btn_resume": {
+    "message": "Retomar"
+  },
+  "btn_refresh_now": {
+    "message": "Atualizar agora"
+  },
+  "section_monitor": {
+    "message": "Monitorizar alterações"
+  },
+  "monitor_help": {
+    "message": "Receba uma notificação no ambiente de trabalho quando esta página mudar — mesmo que feche o separador."
+  },
+  "label_condition": {
+    "message": "Notificar quando"
+  },
+  "cond_any": {
+    "message": "algo mudar"
+  },
+  "cond_appears": {
+    "message": "surgir uma palavra"
+  },
+  "cond_disappears": {
+    "message": "desaparecer uma palavra"
+  },
+  "cond_price": {
+    "message": "preço abaixo de"
+  },
+  "label_keyword": {
+    "message": "Palavra"
+  },
+  "btn_pick": {
+    "message": "Escolher um elemento"
+  },
+  "btn_watch_page": {
+    "message": "Vigiar a página inteira"
+  },
+  "btn_add_watch": {
+    "message": "Começar a vigiar"
+  },
+  "trust_line": {
+    "message": "Gratuito para sempre · Sem conta · Sem anúncios · Sem rastreio"
+  },
+  "link_dashboard": {
+    "message": "Gerir lista de vigilância"
+  },
+  "status_paused": {
+    "message": "Em pausa"
+  },
+  "status_next": {
+    "message": "Próxima atualização em"
+  },
+  "watch_label": {
+    "message": "A vigiar"
+  },
+  "status_bad_page": {
+    "message": "Esta página não pode ser atualizada."
+  },
+  "status_perm_needed": {
+    "message": "É necessária permissão para atualizar este site."
+  },
+  "pick_hint": {
+    "message": "Mude para a página e clique no elemento a vigiar."
+  },
+  "pick_done": {
+    "message": "A vigiar:"
+  },
+  "watch_added": {
+    "message": "Monitorização iniciada."
+  },
+  "watch_cap_hit": {
+    "message": "Limite gratuito atingido (3). Atualize para o Zovo Pro para monitores ilimitados."
+  },
+  "notif_change_title": {
+    "message": "Uma página que está a vigiar foi alterada"
+  },
+  "notif_change_body": {
+    "message": "Foi detetada uma alteração."
+  },
+  "dash_title": {
+    "message": "Atualização Automática — Lista de Vigilância e Definições"
+  },
+  "dash_watches": {
+    "message": "Monitores de alterações de página"
+  },
+  "col_page": {
+    "message": "Página"
+  },
+  "col_condition": {
+    "message": "Condição"
+  },
+  "col_mode": {
+    "message": "Modo"
+  },
+  "col_status": {
+    "message": "Estado"
+  },
+  "col_actions": {
+    "message": "Ações"
+  },
+  "dash_no_watches": {
+    "message": "Ainda não existem monitores. Abra a janela em qualquer página e escolha Monitorizar alterações."
+  },
+  "dash_rules": {
+    "message": "Regras de ativação automática por domínio"
+  },
+  "col_site": {
+    "message": "Site"
+  },
+  "col_interval": {
+    "message": "Intervalo"
+  },
+  "dash_no_rules": {
+    "message": "Ainda não existem regras de site guardadas."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "O Pro desbloqueia monitores ilimitados, condições avançadas, manter sessão ativa, histórico e sincronização entre dispositivos — incluído no Zovo $$99 vitalício."
+  },
+  "label_license": {
+    "message": "Chave de licença"
+  },
+  "btn_activate": {
+    "message": "Ativar"
+  },
+  "dash_settings": {
+    "message": "Definições"
+  },
+  "opt_sound": {
+    "message": "Reproduzir um som numa alteração confirmada"
+  },
+  "mode_open": {
+    "message": "Separador aberto"
+  },
+  "mode_closed": {
+    "message": "Separador fechado"
+  },
+  "status_on": {
+    "message": "Ligado"
+  },
+  "status_off": {
+    "message": "Desligado"
+  },
+  "btn_remove": {
+    "message": "Remover"
+  },
+  "license_active": {
+    "message": "Zovo Pro ativo. Obrigado!"
+  },
+  "license_inactive": {
+    "message": "Plano gratuito. Introduza uma chave de licença Zovo para desbloquear o Pro."
+  },
+  "license_bad_key": {
+    "message": "Essa chave não é válida. Formato: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Atualização Automática — Monitor e Recarregamento de Páginas"
+  },
+  "onb_tagline": {
+    "message": "Configure. Esqueça. Nunca mais carregue em recarregar."
+  },
+  "onb_step1": {
+    "message": "1. Abra qualquer página que queira manter atualizada — um painel, resultados ao vivo, um leilão."
+  },
+  "onb_step2": {
+    "message": "2. Clique no ícone da Atualização Automática, escolha um intervalo e prima Iniciar. Uma contagem decrescente ao vivo começa de imediato."
+  },
+  "onb_step3": {
+    "message": "3. Prefere um alerta? Escolha Monitorizar alterações, selecione um elemento e feche o separador — continuaremos a vigiá-lo."
+  },
+  "onb_trust": {
+    "message": "Gratuito para sempre. Sem conta. Sem anúncios. Sem rastreio. Os separadores em segundo plano atualizam no máximo a cada 30 s (um limite do Chrome); os separadores em primeiro plano respeitam o intervalo exato definido."
+  },
+  "onb_cta": {
+    "message": "Percebi — vamos lá"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

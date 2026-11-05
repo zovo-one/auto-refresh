@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Muat Ulang Otomatis — Monitor & Pemuatan Ulang Halaman"
+  },
+  "ext_desc": {
+    "message": "Segarkan dan muat ulang halaman apa pun dengan timer. Pantau perubahan dan dapatkan notifikasi."
+  },
+  "action_title": {
+    "message": "Muat Ulang Otomatis — Monitor & Pemuatan Ulang Halaman"
+  },
+  "popup_title": {
+    "message": "Muat Ulang Otomatis"
+  },
+  "section_refresh": {
+    "message": "Muat ulang otomatis"
+  },
+  "label_every": {
+    "message": "Setiap"
+  },
+  "unit_seconds": {
+    "message": "detik"
+  },
+  "opt_only_active": {
+    "message": "Muat ulang hanya saat tab ini aktif"
+  },
+  "opt_preserve_form": {
+    "message": "Simpan yang saya ketik di formulir"
+  },
+  "opt_save_rule": {
+    "message": "Aktifkan situs ini otomatis saat saya kembali"
+  },
+  "note_bg_floor": {
+    "message": "Tab latar belakang dimuat ulang paling cepat setiap 30 dtk (batas Chrome); tab aktif sesuai interval tepat Anda."
+  },
+  "btn_start": {
+    "message": "Mulai muat ulang"
+  },
+  "btn_stop": {
+    "message": "Hentikan"
+  },
+  "btn_pause": {
+    "message": "Jeda"
+  },
+  "btn_resume": {
+    "message": "Lanjutkan"
+  },
+  "btn_refresh_now": {
+    "message": "Muat ulang sekarang"
+  },
+  "section_monitor": {
+    "message": "Pantau perubahan"
+  },
+  "monitor_help": {
+    "message": "Dapatkan notifikasi saat halaman ini berubah, meski tab ditutup."
+  },
+  "label_condition": {
+    "message": "Beri tahu saat"
+  },
+  "cond_any": {
+    "message": "ada yang berubah"
+  },
+  "cond_appears": {
+    "message": "sebuah kata muncul"
+  },
+  "cond_disappears": {
+    "message": "sebuah kata hilang"
+  },
+  "label_keyword": {
+    "message": "Kata"
+  },
+  "btn_pick": {
+    "message": "Pilih elemen"
+  },
+  "btn_watch_page": {
+    "message": "Pantau seluruh halaman"
+  },
+  "btn_add_watch": {
+    "message": "Mulai memantau"
+  },
+  "trust_line": {
+    "message": "Gratis selamanya · Tanpa akun · Tanpa iklan · Tanpa pelacakan"
+  },
+  "link_dashboard": {
+    "message": "Kelola daftar pantau"
+  },
+  "status_paused": {
+    "message": "Dijeda"
+  },
+  "status_next": {
+    "message": "Muat ulang berikutnya dalam"
+  },
+  "watch_label": {
+    "message": "Memantau"
+  },
+  "notif_change_title": {
+    "message": "Halaman yang Anda pantau berubah"
+  },
+  "dash_title": {
+    "message": "Muat Ulang Otomatis — Daftar & Pengaturan"
+  },
+  "dash_watches": {
+    "message": "Monitor perubahan"
+  },
+  "dash_rules": {
+    "message": "Aturan per domain"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "dash_settings": {
+    "message": "Pengaturan"
+  },
+  "btn_activate": {
+    "message": "Aktifkan"
+  },
+  "btn_remove": {
+    "message": "Hapus"
+  },
+  "status_on": {
+    "message": "Aktif"
+  },
+  "status_off": {
+    "message": "Nonaktif"
+  },
+  "mode_open": {
+    "message": "Tab terbuka"
+  },
+  "mode_closed": {
+    "message": "Tab tertutup"
+  },
+  "onb_tagline": {
+    "message": "Atur. Lupakan. Tak perlu muat ulang lagi."
+  },
+  "onb_cta": {
+    "message": "Paham, ayo mulai"
+  },
+  "popup_this_page": {
+    "message": "Halaman ini"
+  },
+  "cond_price": {
+    "message": "harga di bawah"
+  },
+  "status_bad_page": {
+    "message": "Halaman ini tidak dapat dimuat ulang."
+  },
+  "status_perm_needed": {
+    "message": "Izin diperlukan untuk memuat ulang situs ini."
+  },
+  "pick_hint": {
+    "message": "Beralih ke halaman dan klik elemen yang ingin dipantau."
+  },
+  "pick_done": {
+    "message": "Memantau:"
+  },
+  "watch_added": {
+    "message": "Pemantauan dimulai."
+  },
+  "watch_cap_hit": {
+    "message": "Batas gratis tercapai (3). Tingkatkan ke Zovo Pro untuk monitor tanpa batas."
+  },
+  "notif_change_body": {
+    "message": "Perubahan terdeteksi."
+  },
+  "col_page": {
+    "message": "Halaman"
+  },
+  "col_condition": {
+    "message": "Kondisi"
+  },
+  "col_mode": {
+    "message": "Mode"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Tindakan"
+  },
+  "dash_no_watches": {
+    "message": "Belum ada monitor. Buka popup di halaman mana pun dan pilih Pantau perubahan."
+  },
+  "col_site": {
+    "message": "Situs"
+  },
+  "col_interval": {
+    "message": "Interval"
+  },
+  "dash_no_rules": {
+    "message": "Belum ada aturan situs yang tersimpan."
+  },
+  "pro_blurb": {
+    "message": "Pro membuka monitor tanpa batas, kondisi lanjutan, menjaga sesi tetap aktif, riwayat, dan sinkronisasi lintas perangkat — termasuk dalam Zovo $$99 seumur hidup."
+  },
+  "label_license": {
+    "message": "Kunci lisensi"
+  },
+  "opt_sound": {
+    "message": "Putar suara saat perubahan terkonfirmasi"
+  },
+  "license_active": {
+    "message": "Zovo Pro aktif. Terima kasih!"
+  },
+  "license_inactive": {
+    "message": "Paket gratis. Masukkan kunci lisensi Zovo untuk membuka Pro."
+  },
+  "license_bad_key": {
+    "message": "Kunci itu tidak valid. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Muat Ulang Otomatis — Monitor & Pemuatan Ulang Halaman"
+  },
+  "onb_step1": {
+    "message": "1. Buka halaman mana pun yang ingin Anda perbarui — dasbor, skor langsung, atau lelang."
+  },
+  "onb_step2": {
+    "message": "2. Klik ikon Muat Ulang Otomatis, pilih interval, tekan Mulai. Hitung mundur langsung dimulai seketika."
+  },
+  "onb_step3": {
+    "message": "3. Ingin peringatan saja? Pilih Pantau perubahan, pilih elemen, dan tutup tab — kami tetap akan memantaunya."
+  },
+  "onb_trust": {
+    "message": "Gratis selamanya. Tanpa akun. Tanpa iklan. Tanpa pelacakan. Tab latar belakang dimuat ulang paling cepat setiap 30 dtk (batas Chrome); tab aktif sesuai interval tepat Anda."
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

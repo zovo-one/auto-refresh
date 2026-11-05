@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Automātiskā atsvaidzināšana — lapu pārraugs un pārlāde"
+  },
+  "ext_desc": {
+    "message": "Automātiski atsvaidziniet un pārlādējiet jebkuru lapu pēc taimera. Pārraugiet lapu izmaiņas un saņemiet paziņojumus."
+  },
+  "action_title": {
+    "message": "Automātiskā atsvaidzināšana — lapu pārraugs un pārlāde"
+  },
+  "popup_title": {
+    "message": "Automātiskā atsvaidzināšana"
+  },
+  "popup_this_page": {
+    "message": "Šī lapa"
+  },
+  "section_refresh": {
+    "message": "Automātiskā atsvaidzināšana"
+  },
+  "label_every": {
+    "message": "Ik pēc"
+  },
+  "unit_seconds": {
+    "message": "sekundēm"
+  },
+  "opt_only_active": {
+    "message": "Atsvaidzināt tikai tad, kad šī cilne ir aktīva"
+  },
+  "opt_preserve_form": {
+    "message": "Saglabāt to, ko ierakstīju veidlapās"
+  },
+  "opt_save_rule": {
+    "message": "Automātiski aktivizēt šo vietni, kad atgriežos"
+  },
+  "note_bg_floor": {
+    "message": "Fona cilnes tiek atsvaidzinātas ne biežāk kā ik pēc 30 s (Chrome ierobežojums) — priekšplāna cilnes ievēro jūsu precīzo intervālu."
+  },
+  "btn_start": {
+    "message": "Sākt automātisko atsvaidzināšanu"
+  },
+  "btn_stop": {
+    "message": "Apturēt"
+  },
+  "btn_pause": {
+    "message": "Pauzēt"
+  },
+  "btn_resume": {
+    "message": "Turpināt"
+  },
+  "btn_refresh_now": {
+    "message": "Atsvaidzināt tagad"
+  },
+  "section_monitor": {
+    "message": "Pārraudzīt izmaiņas"
+  },
+  "monitor_help": {
+    "message": "Saņemiet darbvirsmas paziņojumu, kad šī lapa mainās — pat ja aizverat cilni."
+  },
+  "label_condition": {
+    "message": "Paziņot, kad"
+  },
+  "cond_any": {
+    "message": "jebkas mainās"
+  },
+  "cond_appears": {
+    "message": "parādās vārds"
+  },
+  "cond_disappears": {
+    "message": "pazūd vārds"
+  },
+  "cond_price": {
+    "message": "cena zem"
+  },
+  "label_keyword": {
+    "message": "Vārds"
+  },
+  "btn_pick": {
+    "message": "Izvēlēties elementu"
+  },
+  "btn_watch_page": {
+    "message": "Novērot visu lapu"
+  },
+  "btn_add_watch": {
+    "message": "Sākt novērošanu"
+  },
+  "trust_line": {
+    "message": "Bezmaksas mūžīgi · Bez konta · Bez reklāmām · Bez izsekošanas"
+  },
+  "link_dashboard": {
+    "message": "Pārvaldīt novērošanas sarakstu"
+  },
+  "status_paused": {
+    "message": "Pauzēts"
+  },
+  "status_next": {
+    "message": "Nākamā atsvaidzināšana pēc"
+  },
+  "watch_label": {
+    "message": "Notiek novērošana"
+  },
+  "status_bad_page": {
+    "message": "Šo lapu nevar atsvaidzināt."
+  },
+  "status_perm_needed": {
+    "message": "Nepieciešama atļauja, lai atsvaidzinātu šo vietni."
+  },
+  "pick_hint": {
+    "message": "Pārslēdzieties uz lapu un noklikšķiniet uz elementa, ko novērot."
+  },
+  "pick_done": {
+    "message": "Notiek novērošana:"
+  },
+  "watch_added": {
+    "message": "Pārraudzība sākta."
+  },
+  "watch_cap_hit": {
+    "message": "Sasniegts bezmaksas ierobežojums (3). Jauniniet uz Zovo Pro, lai iegūtu neierobežotu pārraugu skaitu."
+  },
+  "notif_change_title": {
+    "message": "Lapa, ko novērojat, ir mainījusies"
+  },
+  "notif_change_body": {
+    "message": "Tika konstatēta izmaiņa."
+  },
+  "dash_title": {
+    "message": "Automātiskā atsvaidzināšana — novērošanas saraksts un iestatījumi"
+  },
+  "dash_watches": {
+    "message": "Lapu izmaiņu pārraugi"
+  },
+  "col_page": {
+    "message": "Lapa"
+  },
+  "col_condition": {
+    "message": "Nosacījums"
+  },
+  "col_mode": {
+    "message": "Režīms"
+  },
+  "col_status": {
+    "message": "Statuss"
+  },
+  "col_actions": {
+    "message": "Darbības"
+  },
+  "dash_no_watches": {
+    "message": "Vēl nav pārraugu. Atveriet uznirstošo logu jebkurā lapā un izvēlieties Pārraudzīt izmaiņas."
+  },
+  "dash_rules": {
+    "message": "Domēnu automātiskās aktivizēšanas noteikumi"
+  },
+  "col_site": {
+    "message": "Vietne"
+  },
+  "col_interval": {
+    "message": "Intervāls"
+  },
+  "dash_no_rules": {
+    "message": "Vēl nav saglabātu vietņu noteikumu."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro atbloķē neierobežotus pārraugus, uzlabotus nosacījumus, sesijas uzturēšanu, vēsturi un sinhronizāciju starp ierīcēm — iekļauts Zovo $$99 mūža licencē."
+  },
+  "label_license": {
+    "message": "Licences atslēga"
+  },
+  "btn_activate": {
+    "message": "Aktivizēt"
+  },
+  "dash_settings": {
+    "message": "Iestatījumi"
+  },
+  "opt_sound": {
+    "message": "Atskaņot skaņu apstiprinātas izmaiņas gadījumā"
+  },
+  "mode_open": {
+    "message": "Atvērta cilne"
+  },
+  "mode_closed": {
+    "message": "Aizvērta cilne"
+  },
+  "status_on": {
+    "message": "Ieslēgts"
+  },
+  "status_off": {
+    "message": "Izslēgts"
+  },
+  "btn_remove": {
+    "message": "Noņemt"
+  },
+  "license_active": {
+    "message": "Zovo Pro ir aktīvs. Paldies!"
+  },
+  "license_inactive": {
+    "message": "Bezmaksas plāns. Ievadiet Zovo licences atslēgu, lai atbloķētu Pro."
+  },
+  "license_bad_key": {
+    "message": "Šī atslēga nav derīga. Formāts: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Automātiskā atsvaidzināšana — lapu pārraugs un pārlāde"
+  },
+  "onb_tagline": {
+    "message": "Iestatiet to. Aizmirstiet to. Nekad vairs nespiediet pārlādēt."
+  },
+  "onb_step1": {
+    "message": "1. Atveriet jebkuru lapu, ko vēlaties uzturēt svaigu — informācijas paneli, tiešraides rezultātus, izsoli."
+  },
+  "onb_step2": {
+    "message": "2. Noklikšķiniet uz automātiskās atsvaidzināšanas ikonas, izvēlieties intervālu, nospiediet Sākt. Uzreiz sākas tiešraides atpakaļskaitīšana."
+  },
+  "onb_step3": {
+    "message": "3. Vēlaties saņemt brīdinājumu? Izvēlieties Pārraudzīt izmaiņas, izvēlieties elementu un aizveriet cilni — mēs to joprojām novērosim."
+  },
+  "onb_trust": {
+    "message": "Bezmaksas mūžīgi. Bez konta. Bez reklāmām. Bez izsekošanas. Fona cilnes tiek atsvaidzinātas ne biežāk kā ik pēc 30 s (Chrome ierobežojums); priekšplāna cilnes ievēro jūsu precīzo intervālu."
+  },
+  "onb_cta": {
+    "message": "Sapratu — sāksim"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

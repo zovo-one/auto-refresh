@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — моніторинг і перезавантаження сторінок"
+  },
+  "ext_desc": {
+    "message": "Автоматично оновлюйте та перезавантажуйте будь-яку сторінку за таймером. Стежте за змінами на сторінках і отримуйте сповіщення."
+  },
+  "action_title": {
+    "message": "Auto Refresh — моніторинг і перезавантаження сторінок"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Ця сторінка"
+  },
+  "section_refresh": {
+    "message": "Автооновлення"
+  },
+  "label_every": {
+    "message": "Кожні"
+  },
+  "unit_seconds": {
+    "message": "секунд"
+  },
+  "opt_only_active": {
+    "message": "Оновлювати лише поки ця вкладка активна"
+  },
+  "opt_preserve_form": {
+    "message": "Зберігати те, що я ввів у формах"
+  },
+  "opt_save_rule": {
+    "message": "Автоматично вмикати для цього сайту, коли я повертаюся"
+  },
+  "note_bg_floor": {
+    "message": "Фонові вкладки оновлюються не частіше ніж раз на 30 с (обмеження Chrome) — вкладки на передньому плані працюють за точно вказаним інтервалом."
+  },
+  "btn_start": {
+    "message": "Почати автооновлення"
+  },
+  "btn_stop": {
+    "message": "Зупинити"
+  },
+  "btn_pause": {
+    "message": "Призупинити"
+  },
+  "btn_resume": {
+    "message": "Відновити"
+  },
+  "btn_refresh_now": {
+    "message": "Оновити зараз"
+  },
+  "section_monitor": {
+    "message": "Моніторинг змін"
+  },
+  "monitor_help": {
+    "message": "Отримайте сповіщення на робочому столі, коли ця сторінка зміниться — навіть якщо ви закриєте вкладку."
+  },
+  "label_condition": {
+    "message": "Сповіщати, коли"
+  },
+  "cond_any": {
+    "message": "будь-що змінюється"
+  },
+  "cond_appears": {
+    "message": "з'являється слово"
+  },
+  "cond_disappears": {
+    "message": "зникає слово"
+  },
+  "cond_price": {
+    "message": "ціна нижче"
+  },
+  "label_keyword": {
+    "message": "Слово"
+  },
+  "btn_pick": {
+    "message": "Вибрати елемент"
+  },
+  "btn_watch_page": {
+    "message": "Стежити за всією сторінкою"
+  },
+  "btn_add_watch": {
+    "message": "Почати стеження"
+  },
+  "trust_line": {
+    "message": "Безкоштовно назавжди · Без облікового запису · Без реклами · Без відстеження"
+  },
+  "link_dashboard": {
+    "message": "Керувати списком стеження"
+  },
+  "status_paused": {
+    "message": "Призупинено"
+  },
+  "status_next": {
+    "message": "Наступне оновлення через"
+  },
+  "watch_label": {
+    "message": "Стеження"
+  },
+  "status_bad_page": {
+    "message": "Цю сторінку не можна оновити."
+  },
+  "status_perm_needed": {
+    "message": "Потрібен дозвіл, щоб оновити цей сайт."
+  },
+  "pick_hint": {
+    "message": "Перейдіть на сторінку та клацніть елемент, за яким потрібно стежити."
+  },
+  "pick_done": {
+    "message": "Стеження:"
+  },
+  "watch_added": {
+    "message": "Моніторинг запущено."
+  },
+  "watch_cap_hit": {
+    "message": "Досягнуто безкоштовного ліміту (3). Перейдіть на Zovo Pro для необмеженої кількості моніторів."
+  },
+  "notif_change_title": {
+    "message": "Сторінка, за якою ви стежите, змінилася"
+  },
+  "notif_change_body": {
+    "message": "Виявлено зміну."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — список стеження та налаштування"
+  },
+  "dash_watches": {
+    "message": "Монітори змін сторінок"
+  },
+  "col_page": {
+    "message": "Сторінка"
+  },
+  "col_condition": {
+    "message": "Умова"
+  },
+  "col_mode": {
+    "message": "Режим"
+  },
+  "col_status": {
+    "message": "Статус"
+  },
+  "col_actions": {
+    "message": "Дії"
+  },
+  "dash_no_watches": {
+    "message": "Ще немає моніторів. Відкрийте спливне вікно на будь-якій сторінці та виберіть «Моніторинг змін»."
+  },
+  "dash_rules": {
+    "message": "Правила автоввімкнення для доменів"
+  },
+  "col_site": {
+    "message": "Сайт"
+  },
+  "col_interval": {
+    "message": "Інтервал"
+  },
+  "dash_no_rules": {
+    "message": "Ще немає збережених правил для сайтів."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro відкриває необмежену кількість моніторів, розширені умови, підтримання сеансу активним, історію та синхронізацію між пристроями — усе включено в Zovo за $$99 довічно."
+  },
+  "label_license": {
+    "message": "Ліцензійний ключ"
+  },
+  "btn_activate": {
+    "message": "Активувати"
+  },
+  "dash_settings": {
+    "message": "Налаштування"
+  },
+  "opt_sound": {
+    "message": "Відтворювати звук при підтвердженій зміні"
+  },
+  "mode_open": {
+    "message": "Відкрита вкладка"
+  },
+  "mode_closed": {
+    "message": "Закрита вкладка"
+  },
+  "status_on": {
+    "message": "Увімкнено"
+  },
+  "status_off": {
+    "message": "Вимкнено"
+  },
+  "btn_remove": {
+    "message": "Видалити"
+  },
+  "license_active": {
+    "message": "Zovo Pro активний. Дякуємо!"
+  },
+  "license_inactive": {
+    "message": "Безкоштовний план. Введіть ліцензійний ключ Zovo, щоб відкрити Pro."
+  },
+  "license_bad_key": {
+    "message": "Цей ключ недійсний. Формат: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — моніторинг і перезавантаження сторінок"
+  },
+  "onb_tagline": {
+    "message": "Налаштуйте. Забудьте. Більше ніколи не тисніть «Оновити»."
+  },
+  "onb_step1": {
+    "message": "1. Відкрийте будь-яку сторінку, яку хочете тримати актуальною — панель керування, живий рахунок, аукціон."
+  },
+  "onb_step2": {
+    "message": "2. Клацніть значок Auto Refresh, виберіть інтервал, натисніть «Почати». Живий відлік починається миттєво."
+  },
+  "onb_step3": {
+    "message": "3. Хочете натомість сповіщення? Виберіть «Моніторинг змін», вкажіть елемент і закрийте вкладку — ми все одно стежитимемо за нею."
+  },
+  "onb_trust": {
+    "message": "Безкоштовно назавжди. Без облікового запису. Без реклами. Без відстеження. Фонові вкладки оновлюються не частіше ніж раз на 30 с (обмеження Chrome); вкладки на передньому плані працюють за точно вказаним інтервалом."
+  },
+  "onb_cta": {
+    "message": "Зрозуміло — почнімо"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

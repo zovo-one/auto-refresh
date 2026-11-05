@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — เฝ้าดูและรีโหลดหน้าเว็บ"
+  },
+  "ext_desc": {
+    "message": "รีเฟรชและรีโหลดหน้าเว็บใดก็ได้ตามเวลาที่ตั้งไว้ เฝ้าดูการเปลี่ยนแปลงของหน้าเว็บและรับการแจ้งเตือน"
+  },
+  "action_title": {
+    "message": "Auto Refresh — เฝ้าดูและรีโหลดหน้าเว็บ"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "หน้านี้"
+  },
+  "section_refresh": {
+    "message": "รีเฟรชอัตโนมัติ"
+  },
+  "label_every": {
+    "message": "ทุก ๆ"
+  },
+  "unit_seconds": {
+    "message": "วินาที"
+  },
+  "opt_only_active": {
+    "message": "รีเฟรชเฉพาะตอนที่แท็บนี้เปิดใช้งานอยู่"
+  },
+  "opt_preserve_form": {
+    "message": "เก็บสิ่งที่ฉันพิมพ์ในฟอร์มไว้"
+  },
+  "opt_save_rule": {
+    "message": "เปิดใช้งานเว็บไซต์นี้อัตโนมัติเมื่อฉันกลับมา"
+  },
+  "note_bg_floor": {
+    "message": "แท็บที่อยู่เบื้องหลังจะรีเฟรชได้อย่างมากทุก 30 วินาที (ข้อจำกัดของ Chrome) — ส่วนแท็บที่อยู่ด้านหน้าจะรีเฟรชตามช่วงเวลาที่คุณตั้งไว้เป๊ะ"
+  },
+  "btn_start": {
+    "message": "เริ่มรีเฟรชอัตโนมัติ"
+  },
+  "btn_stop": {
+    "message": "หยุด"
+  },
+  "btn_pause": {
+    "message": "พัก"
+  },
+  "btn_resume": {
+    "message": "ทำต่อ"
+  },
+  "btn_refresh_now": {
+    "message": "รีเฟรชตอนนี้"
+  },
+  "section_monitor": {
+    "message": "เฝ้าดูการเปลี่ยนแปลง"
+  },
+  "monitor_help": {
+    "message": "รับการแจ้งเตือนบนเดสก์ท็อปเมื่อหน้านี้เปลี่ยนแปลง — แม้คุณจะปิดแท็บไปแล้วก็ตาม"
+  },
+  "label_condition": {
+    "message": "แจ้งเตือนเมื่อ"
+  },
+  "cond_any": {
+    "message": "มีอะไรเปลี่ยนแปลง"
+  },
+  "cond_appears": {
+    "message": "คำหนึ่งปรากฏขึ้น"
+  },
+  "cond_disappears": {
+    "message": "คำหนึ่งหายไป"
+  },
+  "cond_price": {
+    "message": "ราคาต่ำกว่า"
+  },
+  "label_keyword": {
+    "message": "คำ"
+  },
+  "btn_pick": {
+    "message": "เลือกองค์ประกอบ"
+  },
+  "btn_watch_page": {
+    "message": "เฝ้าดูทั้งหน้า"
+  },
+  "btn_add_watch": {
+    "message": "เริ่มเฝ้าดู"
+  },
+  "trust_line": {
+    "message": "ฟรีตลอดกาล · ไม่ต้องมีบัญชี · ไม่มีโฆษณา · ไม่มีการติดตาม"
+  },
+  "link_dashboard": {
+    "message": "จัดการรายการเฝ้าดู"
+  },
+  "status_paused": {
+    "message": "พักอยู่"
+  },
+  "status_next": {
+    "message": "รีเฟรชครั้งถัดไปในอีก"
+  },
+  "watch_label": {
+    "message": "กำลังเฝ้าดู"
+  },
+  "status_bad_page": {
+    "message": "ไม่สามารถรีเฟรชหน้านี้ได้"
+  },
+  "status_perm_needed": {
+    "message": "ต้องได้รับสิทธิ์เพื่อรีเฟรชเว็บไซต์นี้"
+  },
+  "pick_hint": {
+    "message": "สลับไปที่หน้านั้นแล้วคลิกองค์ประกอบที่ต้องการเฝ้าดู"
+  },
+  "pick_done": {
+    "message": "กำลังเฝ้าดู:"
+  },
+  "watch_added": {
+    "message": "เริ่มเฝ้าดูแล้ว"
+  },
+  "watch_cap_hit": {
+    "message": "ถึงขีดจำกัดของแผนฟรีแล้ว (3) อัปเกรดเป็น Zovo Pro เพื่อเฝ้าดูได้ไม่จำกัด"
+  },
+  "notif_change_title": {
+    "message": "หน้าที่คุณกำลังเฝ้าดูมีการเปลี่ยนแปลง"
+  },
+  "notif_change_body": {
+    "message": "ตรวจพบการเปลี่ยนแปลง"
+  },
+  "dash_title": {
+    "message": "Auto Refresh — รายการเฝ้าดูและการตั้งค่า"
+  },
+  "dash_watches": {
+    "message": "ตัวเฝ้าดูการเปลี่ยนแปลงของหน้า"
+  },
+  "col_page": {
+    "message": "หน้า"
+  },
+  "col_condition": {
+    "message": "เงื่อนไข"
+  },
+  "col_mode": {
+    "message": "โหมด"
+  },
+  "col_status": {
+    "message": "สถานะ"
+  },
+  "col_actions": {
+    "message": "การดำเนินการ"
+  },
+  "dash_no_watches": {
+    "message": "ยังไม่มีตัวเฝ้าดู เปิดป๊อปอัปบนหน้าเว็บใดก็ได้แล้วเลือก เฝ้าดูการเปลี่ยนแปลง"
+  },
+  "dash_rules": {
+    "message": "กฎเปิดใช้งานอัตโนมัติต่อโดเมน"
+  },
+  "col_site": {
+    "message": "เว็บไซต์"
+  },
+  "col_interval": {
+    "message": "ช่วงเวลา"
+  },
+  "dash_no_rules": {
+    "message": "ยังไม่มีกฎของเว็บไซต์ที่บันทึกไว้"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro ปลดล็อกตัวเฝ้าดูไม่จำกัด เงื่อนไขขั้นสูง การคงเซสชันไว้ ประวัติ และการซิงก์ข้ามเครื่อง — รวมอยู่ใน Zovo แบบตลอดชีพราคา $$99"
+  },
+  "label_license": {
+    "message": "คีย์ลิขสิทธิ์"
+  },
+  "btn_activate": {
+    "message": "เปิดใช้งาน"
+  },
+  "dash_settings": {
+    "message": "การตั้งค่า"
+  },
+  "opt_sound": {
+    "message": "เล่นเสียงเมื่อยืนยันการเปลี่ยนแปลง"
+  },
+  "mode_open": {
+    "message": "แท็บที่เปิดอยู่"
+  },
+  "mode_closed": {
+    "message": "แท็บที่ปิดแล้ว"
+  },
+  "status_on": {
+    "message": "เปิด"
+  },
+  "status_off": {
+    "message": "ปิด"
+  },
+  "btn_remove": {
+    "message": "ลบออก"
+  },
+  "license_active": {
+    "message": "Zovo Pro เปิดใช้งานอยู่ ขอบคุณ!"
+  },
+  "license_inactive": {
+    "message": "แผนฟรี ป้อนคีย์ลิขสิทธิ์ Zovo เพื่อปลดล็อก Pro"
+  },
+  "license_bad_key": {
+    "message": "คีย์นี้ไม่ถูกต้อง รูปแบบ: ZOVO-XXXX-XXXX-XXXX"
+  },
+  "onb_title": {
+    "message": "Auto Refresh — เฝ้าดูและรีโหลดหน้าเว็บ"
+  },
+  "onb_tagline": {
+    "message": "ตั้งไว้ ลืมมันไปได้เลย ไม่ต้องกดรีโหลดอีกต่อไป"
+  },
+  "onb_step1": {
+    "message": "1. เปิดหน้าเว็บใดก็ได้ที่คุณต้องการให้อัปเดตอยู่เสมอ — แดชบอร์ด ผลสดๆ หรือการประมูล"
+  },
+  "onb_step2": {
+    "message": "2. คลิกไอคอน Auto Refresh เลือกช่วงเวลา แล้วกดเริ่ม การนับถอยหลังแบบสดจะเริ่มขึ้นทันที"
+  },
+  "onb_step3": {
+    "message": "3. อยากได้การแจ้งเตือนแทนใช่ไหม? เลือก เฝ้าดูการเปลี่ยนแปลง เลือกองค์ประกอบ แล้วปิดแท็บได้เลย — เราจะยังคงเฝ้าดูให้"
+  },
+  "onb_trust": {
+    "message": "ฟรีตลอดกาล ไม่ต้องมีบัญชี ไม่มีโฆษณา ไม่มีการติดตาม แท็บที่อยู่เบื้องหลังจะรีเฟรชได้อย่างมากทุก 30 วินาที (ข้อจำกัดของ Chrome) ส่วนแท็บที่อยู่ด้านหน้าจะรีเฟรชตามช่วงเวลาที่คุณตั้งไว้เป๊ะ"
+  },
+  "onb_cta": {
+    "message": "เข้าใจแล้ว — ไปกันเลย"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

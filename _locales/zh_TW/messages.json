@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "自動重新整理 — 網頁監控與重載"
+  },
+  "ext_desc": {
+    "message": "依計時器自動重新整理與重載任何網頁。監控網頁變化並接收通知。"
+  },
+  "action_title": {
+    "message": "自動重新整理 — 網頁監控與重載"
+  },
+  "popup_title": {
+    "message": "自動重新整理"
+  },
+  "popup_this_page": {
+    "message": "此頁面"
+  },
+  "section_refresh": {
+    "message": "自動重新整理"
+  },
+  "label_every": {
+    "message": "每隔"
+  },
+  "unit_seconds": {
+    "message": "秒"
+  },
+  "opt_only_active": {
+    "message": "僅在此分頁使用中時重新整理"
+  },
+  "opt_preserve_form": {
+    "message": "保留我在表單中輸入的內容"
+  },
+  "opt_save_rule": {
+    "message": "當我回到此網站時自動啟用"
+  },
+  "note_bg_floor": {
+    "message": "背景分頁最快每 30 秒重新整理一次（Chrome 的限制）— 前景分頁則會依你設定的確切間隔執行。"
+  },
+  "btn_start": {
+    "message": "開始自動重新整理"
+  },
+  "btn_stop": {
+    "message": "停止"
+  },
+  "btn_pause": {
+    "message": "暫停"
+  },
+  "btn_resume": {
+    "message": "繼續"
+  },
+  "btn_refresh_now": {
+    "message": "立即重新整理"
+  },
+  "section_monitor": {
+    "message": "監控變化"
+  },
+  "monitor_help": {
+    "message": "當此頁面變化時取得桌面通知 — 即使你關閉分頁也一樣。"
+  },
+  "label_condition": {
+    "message": "通知時機"
+  },
+  "cond_any": {
+    "message": "任何變化時"
+  },
+  "cond_appears": {
+    "message": "某個字詞出現時"
+  },
+  "cond_disappears": {
+    "message": "某個字詞消失時"
+  },
+  "cond_price": {
+    "message": "價格低於"
+  },
+  "label_keyword": {
+    "message": "字詞"
+  },
+  "btn_pick": {
+    "message": "選取一個元素"
+  },
+  "btn_watch_page": {
+    "message": "監看整個頁面"
+  },
+  "btn_add_watch": {
+    "message": "開始監看"
+  },
+  "trust_line": {
+    "message": "永久免費 · 免帳號 · 無廣告 · 不追蹤"
+  },
+  "link_dashboard": {
+    "message": "管理監看清單"
+  },
+  "status_paused": {
+    "message": "已暫停"
+  },
+  "status_next": {
+    "message": "下次重新整理倒數"
+  },
+  "watch_label": {
+    "message": "監看中"
+  },
+  "status_bad_page": {
+    "message": "此頁面無法重新整理。"
+  },
+  "status_perm_needed": {
+    "message": "需要權限才能重新整理此網站。"
+  },
+  "pick_hint": {
+    "message": "切換到該頁面並點擊要監看的元素。"
+  },
+  "pick_done": {
+    "message": "監看中："
+  },
+  "watch_added": {
+    "message": "監控已啟動。"
+  },
+  "watch_cap_hit": {
+    "message": "已達免費上限（3 個）。升級至 Zovo Pro 即可無限監控。"
+  },
+  "notif_change_title": {
+    "message": "你監看的頁面有變化"
+  },
+  "notif_change_body": {
+    "message": "偵測到變化。"
+  },
+  "dash_title": {
+    "message": "自動重新整理 — 監看清單與設定"
+  },
+  "dash_watches": {
+    "message": "頁面變化監控"
+  },
+  "col_page": {
+    "message": "頁面"
+  },
+  "col_condition": {
+    "message": "條件"
+  },
+  "col_mode": {
+    "message": "模式"
+  },
+  "col_status": {
+    "message": "狀態"
+  },
+  "col_actions": {
+    "message": "操作"
+  },
+  "dash_no_watches": {
+    "message": "尚無監控。在任何頁面開啟彈出視窗並選擇「監控變化」。"
+  },
+  "dash_rules": {
+    "message": "各網域自動啟用規則"
+  },
+  "col_site": {
+    "message": "網站"
+  },
+  "col_interval": {
+    "message": "間隔"
+  },
+  "dash_no_rules": {
+    "message": "尚未儲存任何網站規則。"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro 解鎖無限監控、進階條件、保持工作階段、歷史記錄與跨裝置同步 — 全部包含在 Zovo $$99 終身方案中。"
+  },
+  "label_license": {
+    "message": "授權金鑰"
+  },
+  "btn_activate": {
+    "message": "啟用"
+  },
+  "dash_settings": {
+    "message": "設定"
+  },
+  "opt_sound": {
+    "message": "確認變化時播放音效"
+  },
+  "mode_open": {
+    "message": "開啟分頁"
+  },
+  "mode_closed": {
+    "message": "關閉分頁"
+  },
+  "status_on": {
+    "message": "開啟"
+  },
+  "status_off": {
+    "message": "關閉"
+  },
+  "btn_remove": {
+    "message": "移除"
+  },
+  "license_active": {
+    "message": "Zovo Pro 已啟用。感謝你的支持！"
+  },
+  "license_inactive": {
+    "message": "免費方案。輸入 Zovo 授權金鑰以解鎖 Pro。"
+  },
+  "license_bad_key": {
+    "message": "此金鑰無效。格式：ZOVO-XXXX-XXXX-XXXX。"
+  },
+  "onb_title": {
+    "message": "自動重新整理 — 網頁監控與重載"
+  },
+  "onb_tagline": {
+    "message": "設定好，就忘掉它。再也不用手動重載。"
+  },
+  "onb_step1": {
+    "message": "1. 開啟任何你想保持最新的頁面 — 儀表板、即時比分或拍賣。"
+  },
+  "onb_step2": {
+    "message": "2. 點擊「自動重新整理」圖示，選擇間隔，按下開始。即時倒數會立刻開始。"
+  },
+  "onb_step3": {
+    "message": "3. 想改用提醒？選擇「監控變化」，選取一個元素，然後關閉分頁 — 我們仍會為你監看。"
+  },
+  "onb_trust": {
+    "message": "永久免費。免帳號。無廣告。不追蹤。背景分頁最快每 30 秒重新整理一次（Chrome 的限制）；前景分頁則會依你設定的確切間隔執行。"
+  },
+  "onb_cta": {
+    "message": "了解了 — 開始吧"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

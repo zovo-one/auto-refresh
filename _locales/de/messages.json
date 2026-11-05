@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Automatische Aktualisierung — Seiten-Monitor & Reload"
+  },
+  "ext_desc": {
+    "message": "Jede Seite per Timer automatisch aktualisieren und neu laden. Auf Änderungen überwachen und benachrichtigt werden."
+  },
+  "action_title": {
+    "message": "Automatische Aktualisierung — Seiten-Monitor & Reload"
+  },
+  "popup_title": {
+    "message": "Auto-Aktualisierung"
+  },
+  "section_refresh": {
+    "message": "Automatische Aktualisierung"
+  },
+  "label_every": {
+    "message": "Alle"
+  },
+  "unit_seconds": {
+    "message": "Sekunden"
+  },
+  "opt_only_active": {
+    "message": "Nur aktualisieren, wenn dieser Tab aktiv ist"
+  },
+  "opt_preserve_form": {
+    "message": "Meine Formulareingaben behalten"
+  },
+  "opt_save_rule": {
+    "message": "Diese Seite bei Rückkehr automatisch starten"
+  },
+  "note_bg_floor": {
+    "message": "Hintergrund-Tabs werden höchstens alle 30 s aktualisiert (Chrome-Limit); aktive Tabs exakt in deinem Intervall."
+  },
+  "btn_start": {
+    "message": "Aktualisierung starten"
+  },
+  "btn_stop": {
+    "message": "Stopp"
+  },
+  "btn_pause": {
+    "message": "Pause"
+  },
+  "btn_resume": {
+    "message": "Fortsetzen"
+  },
+  "btn_refresh_now": {
+    "message": "Jetzt aktualisieren"
+  },
+  "section_monitor": {
+    "message": "Auf Änderungen überwachen"
+  },
+  "monitor_help": {
+    "message": "Erhalte eine Benachrichtigung, wenn sich diese Seite ändert — auch bei geschlossenem Tab."
+  },
+  "label_condition": {
+    "message": "Benachrichtigen wenn"
+  },
+  "cond_any": {
+    "message": "sich etwas ändert"
+  },
+  "cond_appears": {
+    "message": "ein Wort erscheint"
+  },
+  "cond_disappears": {
+    "message": "ein Wort verschwindet"
+  },
+  "label_keyword": {
+    "message": "Wort"
+  },
+  "btn_pick": {
+    "message": "Element auswählen"
+  },
+  "btn_watch_page": {
+    "message": "Ganze Seite überwachen"
+  },
+  "btn_add_watch": {
+    "message": "Überwachung starten"
+  },
+  "trust_line": {
+    "message": "Für immer kostenlos · Kein Konto · Keine Werbung · Kein Tracking"
+  },
+  "link_dashboard": {
+    "message": "Watch-Liste verwalten"
+  },
+  "status_paused": {
+    "message": "Pausiert"
+  },
+  "status_next": {
+    "message": "Nächste Aktualisierung in"
+  },
+  "watch_label": {
+    "message": "Überwacht"
+  },
+  "notif_change_title": {
+    "message": "Eine überwachte Seite hat sich geändert"
+  },
+  "dash_title": {
+    "message": "Automatische Aktualisierung — Liste & Einstellungen"
+  },
+  "dash_watches": {
+    "message": "Änderungs-Monitore"
+  },
+  "dash_rules": {
+    "message": "Regeln pro Domain"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "dash_settings": {
+    "message": "Einstellungen"
+  },
+  "btn_activate": {
+    "message": "Aktivieren"
+  },
+  "btn_remove": {
+    "message": "Entfernen"
+  },
+  "status_on": {
+    "message": "An"
+  },
+  "status_off": {
+    "message": "Aus"
+  },
+  "mode_open": {
+    "message": "Offener Tab"
+  },
+  "mode_closed": {
+    "message": "Geschlossener Tab"
+  },
+  "onb_tagline": {
+    "message": "Einstellen. Vergessen. Nie wieder neu laden."
+  },
+  "onb_cta": {
+    "message": "Verstanden — los geht’s"
+  },
+  "popup_this_page": {
+    "message": "Diese Seite"
+  },
+  "cond_price": {
+    "message": "Preis unter"
+  },
+  "status_bad_page": {
+    "message": "Diese Seite kann nicht aktualisiert werden."
+  },
+  "status_perm_needed": {
+    "message": "Berechtigung erforderlich, um diese Seite zu aktualisieren."
+  },
+  "pick_hint": {
+    "message": "Wechsle zur Seite und klicke auf das zu überwachende Element."
+  },
+  "pick_done": {
+    "message": "Überwacht:"
+  },
+  "watch_added": {
+    "message": "Überwachung gestartet."
+  },
+  "watch_cap_hit": {
+    "message": "Kostenloses Limit erreicht (3). Upgrade auf Zovo Pro für unbegrenzte Monitore."
+  },
+  "notif_change_body": {
+    "message": "Eine Änderung wurde erkannt."
+  },
+  "col_page": {
+    "message": "Seite"
+  },
+  "col_condition": {
+    "message": "Bedingung"
+  },
+  "col_mode": {
+    "message": "Modus"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Aktionen"
+  },
+  "dash_no_watches": {
+    "message": "Noch keine Monitore. Öffne das Popup auf einer beliebigen Seite und wähle „Auf Änderungen überwachen“."
+  },
+  "col_site": {
+    "message": "Website"
+  },
+  "col_interval": {
+    "message": "Intervall"
+  },
+  "dash_no_rules": {
+    "message": "Noch keine gespeicherten Seitenregeln."
+  },
+  "pro_blurb": {
+    "message": "Pro schaltet unbegrenzte Monitore, erweiterte Bedingungen, Sitzung-aktiv-halten, Verlauf und geräteübergreifende Synchronisierung frei — enthalten in der Zovo $$99 Lifetime-Lizenz."
+  },
+  "label_license": {
+    "message": "Lizenzschlüssel"
+  },
+  "opt_sound": {
+    "message": "Bei einer bestätigten Änderung einen Ton abspielen"
+  },
+  "license_active": {
+    "message": "Zovo Pro aktiv. Vielen Dank!"
+  },
+  "license_inactive": {
+    "message": "Kostenloser Plan. Gib einen Zovo-Lizenzschlüssel ein, um Pro freizuschalten."
+  },
+  "license_bad_key": {
+    "message": "Dieser Schlüssel ist ungültig. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Automatische Aktualisierung — Seiten-Monitor & Reload"
+  },
+  "onb_step1": {
+    "message": "1. Öffne eine beliebige Seite, die aktuell bleiben soll — ein Dashboard, Live-Ergebnisse, eine Auktion."
+  },
+  "onb_step2": {
+    "message": "2. Klicke auf das Auto-Aktualisierung-Symbol, wähle ein Intervall und klicke auf Start. Ein Live-Countdown beginnt sofort."
+  },
+  "onb_step3": {
+    "message": "3. Lieber eine Benachrichtigung? Wähle „Auf Änderungen überwachen“, wähle ein Element und schließe den Tab — wir überwachen sie weiter."
+  },
+  "onb_trust": {
+    "message": "Für immer kostenlos. Kein Konto. Keine Werbung. Kein Tracking. Hintergrund-Tabs werden höchstens alle 30 s aktualisiert (Chrome-Limit); aktive Tabs exakt in deinem Intervall."
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

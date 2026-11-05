@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Otomatik Yenileme — Sayfa İzleyici ve Yeniden Yükleme"
+  },
+  "ext_desc": {
+    "message": "Herhangi bir sayfayı zamanlayıcıyla otomatik yenileyin. Değişiklikleri izleyin ve bildirim alın."
+  },
+  "action_title": {
+    "message": "Otomatik Yenileme — Sayfa İzleyici ve Yeniden Yükleme"
+  },
+  "popup_title": {
+    "message": "Otomatik Yenileme"
+  },
+  "section_refresh": {
+    "message": "Otomatik yenileme"
+  },
+  "label_every": {
+    "message": "Her"
+  },
+  "unit_seconds": {
+    "message": "saniye"
+  },
+  "opt_only_active": {
+    "message": "Yalnızca bu sekme etkinken yenile"
+  },
+  "opt_preserve_form": {
+    "message": "Formlara yazdıklarımı koru"
+  },
+  "opt_save_rule": {
+    "message": "Geri döndüğümde bu siteyi otomatik başlat"
+  },
+  "note_bg_floor": {
+    "message": "Arka plan sekmeleri en fazla 30 sn’de bir yenilenir (Chrome sınırı); etkin sekmeler tam aralığınızla yenilenir."
+  },
+  "btn_start": {
+    "message": "Yenilemeyi başlat"
+  },
+  "btn_stop": {
+    "message": "Durdur"
+  },
+  "btn_pause": {
+    "message": "Duraklat"
+  },
+  "btn_resume": {
+    "message": "Sürdür"
+  },
+  "btn_refresh_now": {
+    "message": "Şimdi yenile"
+  },
+  "section_monitor": {
+    "message": "Değişiklikleri izle"
+  },
+  "monitor_help": {
+    "message": "Bu sayfa değiştiğinde bildirim alın — sekmeyi kapatsanız bile izleriz."
+  },
+  "label_condition": {
+    "message": "Şu durumda bildir"
+  },
+  "cond_any": {
+    "message": "herhangi bir şey değişince"
+  },
+  "cond_appears": {
+    "message": "bir kelime görününce"
+  },
+  "cond_disappears": {
+    "message": "bir kelime kaybolunca"
+  },
+  "label_keyword": {
+    "message": "Kelime"
+  },
+  "btn_pick": {
+    "message": "Bir öğe seç"
+  },
+  "btn_watch_page": {
+    "message": "Tüm sayfayı izle"
+  },
+  "btn_add_watch": {
+    "message": "İzlemeye başla"
+  },
+  "trust_line": {
+    "message": "Sonsuza dek ücretsiz · Hesap yok · Reklam yok · Takip yok"
+  },
+  "link_dashboard": {
+    "message": "İzleme listesini yönet"
+  },
+  "status_paused": {
+    "message": "Duraklatıldı"
+  },
+  "status_next": {
+    "message": "Sonraki yenileme"
+  },
+  "watch_label": {
+    "message": "İzleniyor"
+  },
+  "notif_change_title": {
+    "message": "İzlediğin bir sayfa değişti"
+  },
+  "dash_title": {
+    "message": "Otomatik Yenileme — Liste ve Ayarlar"
+  },
+  "dash_watches": {
+    "message": "Değişiklik izleyicileri"
+  },
+  "dash_rules": {
+    "message": "Alan adına göre kurallar"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "dash_settings": {
+    "message": "Ayarlar"
+  },
+  "btn_activate": {
+    "message": "Etkinleştir"
+  },
+  "btn_remove": {
+    "message": "Kaldır"
+  },
+  "status_on": {
+    "message": "Açık"
+  },
+  "status_off": {
+    "message": "Kapalı"
+  },
+  "mode_open": {
+    "message": "Açık sekme"
+  },
+  "mode_closed": {
+    "message": "Kapalı sekme"
+  },
+  "onb_tagline": {
+    "message": "Ayarla. Unut. Bir daha asla yenileme."
+  },
+  "onb_cta": {
+    "message": "Anladım, başlayalım"
+  },
+  "popup_this_page": {
+    "message": "Bu sayfa"
+  },
+  "cond_price": {
+    "message": "fiyat şunun altına düşünce"
+  },
+  "status_bad_page": {
+    "message": "Bu sayfa yenilenemez."
+  },
+  "status_perm_needed": {
+    "message": "Bu siteyi yenilemek için izin gerekiyor."
+  },
+  "pick_hint": {
+    "message": "Sayfaya geçin ve izlemek istediğiniz öğeye tıklayın."
+  },
+  "pick_done": {
+    "message": "İzleniyor:"
+  },
+  "watch_added": {
+    "message": "İzleme başladı."
+  },
+  "watch_cap_hit": {
+    "message": "Ücretsiz sınıra ulaşıldı (3). Sınırsız izleyici için Zovo Pro’ya yükseltin."
+  },
+  "notif_change_body": {
+    "message": "Bir değişiklik algılandı."
+  },
+  "col_page": {
+    "message": "Sayfa"
+  },
+  "col_condition": {
+    "message": "Koşul"
+  },
+  "col_mode": {
+    "message": "Mod"
+  },
+  "col_status": {
+    "message": "Durum"
+  },
+  "col_actions": {
+    "message": "İşlemler"
+  },
+  "dash_no_watches": {
+    "message": "Henüz izleyici yok. Herhangi bir sayfada açılır pencereyi açın ve Değişiklikleri izle seçeneğini belirleyin."
+  },
+  "col_site": {
+    "message": "Site"
+  },
+  "col_interval": {
+    "message": "Aralık"
+  },
+  "dash_no_rules": {
+    "message": "Henüz kayıtlı site kuralı yok."
+  },
+  "pro_blurb": {
+    "message": "Pro; sınırsız izleyici, gelişmiş koşullar, oturumu canlı tutma, geçmiş ve cihazlar arası eşitleme sunar — Zovo $$99 ömür boyu pakete dahildir."
+  },
+  "label_license": {
+    "message": "Lisans anahtarı"
+  },
+  "opt_sound": {
+    "message": "Onaylanmış bir değişiklikte ses çal"
+  },
+  "license_active": {
+    "message": "Zovo Pro etkin. Teşekkürler!"
+  },
+  "license_inactive": {
+    "message": "Ücretsiz plan. Pro’yu açmak için bir Zovo lisans anahtarı girin."
+  },
+  "license_bad_key": {
+    "message": "Bu anahtar geçerli değil. Biçim: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Otomatik Yenileme — Sayfa İzleyici ve Yeniden Yükleme"
+  },
+  "onb_step1": {
+    "message": "1. Güncel tutmak istediğiniz herhangi bir sayfayı açın — bir kontrol paneli, canlı skorlar, bir açık artırma."
+  },
+  "onb_step2": {
+    "message": "2. Otomatik Yenileme simgesine tıklayın, bir aralık seçin, Başlat’a basın. Canlı geri sayım anında başlar."
+  },
+  "onb_step3": {
+    "message": "3. Bunun yerine uyarı mı istiyorsunuz? Değişiklikleri izle seçeneğini belirleyin, bir öğe seçin ve sekmeyi kapatın — biz yine de izleriz."
+  },
+  "onb_trust": {
+    "message": "Sonsuza dek ücretsiz. Hesap yok. Reklam yok. Takip yok. Arka plan sekmeleri en fazla 30 sn’de bir yenilenir (Chrome sınırı); etkin sekmeler tam aralığınızla yenilenir."
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

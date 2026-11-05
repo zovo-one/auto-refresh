@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — Paginamonitor & Herladen"
+  },
+  "ext_desc": {
+    "message": "Ververs en herlaad elke pagina automatisch met een timer. Houd pagina's in de gaten op wijzigingen en ontvang een melding."
+  },
+  "action_title": {
+    "message": "Auto Refresh — Paginamonitor & Herladen"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Deze pagina"
+  },
+  "section_refresh": {
+    "message": "Automatisch verversen"
+  },
+  "label_every": {
+    "message": "Elke"
+  },
+  "unit_seconds": {
+    "message": "seconden"
+  },
+  "opt_only_active": {
+    "message": "Alleen verversen zolang dit tabblad actief is"
+  },
+  "opt_preserve_form": {
+    "message": "Bewaar wat ik in formulieren heb getypt"
+  },
+  "opt_save_rule": {
+    "message": "Deze site automatisch inschakelen als ik terugkom"
+  },
+  "note_bg_floor": {
+    "message": "Achtergrondtabbladen verversen hooguit elke 30s (een Chrome-limiet) — voorgrondtabbladen halen precies jouw interval."
+  },
+  "btn_start": {
+    "message": "Automatisch verversen starten"
+  },
+  "btn_stop": {
+    "message": "Stoppen"
+  },
+  "btn_pause": {
+    "message": "Pauzeren"
+  },
+  "btn_resume": {
+    "message": "Hervatten"
+  },
+  "btn_refresh_now": {
+    "message": "Nu verversen"
+  },
+  "section_monitor": {
+    "message": "Monitoren op wijzigingen"
+  },
+  "monitor_help": {
+    "message": "Ontvang een bureaubladmelding wanneer deze pagina verandert — zelfs als je het tabblad sluit."
+  },
+  "label_condition": {
+    "message": "Melden wanneer"
+  },
+  "cond_any": {
+    "message": "er iets verandert"
+  },
+  "cond_appears": {
+    "message": "een woord verschijnt"
+  },
+  "cond_disappears": {
+    "message": "een woord verdwijnt"
+  },
+  "cond_price": {
+    "message": "prijs onder"
+  },
+  "label_keyword": {
+    "message": "Woord"
+  },
+  "btn_pick": {
+    "message": "Kies een element"
+  },
+  "btn_watch_page": {
+    "message": "Hele pagina volgen"
+  },
+  "btn_add_watch": {
+    "message": "Volgen starten"
+  },
+  "trust_line": {
+    "message": "Voor altijd gratis · Geen account · Geen advertenties · Geen tracking"
+  },
+  "link_dashboard": {
+    "message": "Volglijst beheren"
+  },
+  "status_paused": {
+    "message": "Gepauzeerd"
+  },
+  "status_next": {
+    "message": "Volgende verversing over"
+  },
+  "watch_label": {
+    "message": "Volgen"
+  },
+  "status_bad_page": {
+    "message": "Deze pagina kan niet worden ververst."
+  },
+  "status_perm_needed": {
+    "message": "Toestemming nodig om deze site te verversen."
+  },
+  "pick_hint": {
+    "message": "Ga naar de pagina en klik op het element dat je wilt volgen."
+  },
+  "pick_done": {
+    "message": "Volgen:"
+  },
+  "watch_added": {
+    "message": "Monitor gestart."
+  },
+  "watch_cap_hit": {
+    "message": "Gratis limiet bereikt (3). Upgrade naar Zovo Pro voor onbeperkte monitors."
+  },
+  "notif_change_title": {
+    "message": "Een pagina die je volgt is veranderd"
+  },
+  "notif_change_body": {
+    "message": "Er is een wijziging gedetecteerd."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — Volglijst & Instellingen"
+  },
+  "dash_watches": {
+    "message": "Monitors voor paginawijzigingen"
+  },
+  "col_page": {
+    "message": "Pagina"
+  },
+  "col_condition": {
+    "message": "Voorwaarde"
+  },
+  "col_mode": {
+    "message": "Modus"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Acties"
+  },
+  "dash_no_watches": {
+    "message": "Nog geen monitors. Open de pop-up op een willekeurige pagina en kies Monitoren op wijzigingen."
+  },
+  "dash_rules": {
+    "message": "Regels per domein voor automatisch inschakelen"
+  },
+  "col_site": {
+    "message": "Site"
+  },
+  "col_interval": {
+    "message": "Interval"
+  },
+  "dash_no_rules": {
+    "message": "Nog geen opgeslagen siteregels."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro ontgrendelt onbeperkte monitors, geavanceerde voorwaarden, sessie-in-leven-houden, geschiedenis en synchronisatie tussen apparaten — inbegrepen in de Zovo $$99 lifetime."
+  },
+  "label_license": {
+    "message": "Licentiesleutel"
+  },
+  "btn_activate": {
+    "message": "Activeren"
+  },
+  "dash_settings": {
+    "message": "Instellingen"
+  },
+  "opt_sound": {
+    "message": "Speel een geluid af bij een bevestigde wijziging"
+  },
+  "mode_open": {
+    "message": "Open tabblad"
+  },
+  "mode_closed": {
+    "message": "Gesloten tabblad"
+  },
+  "status_on": {
+    "message": "Aan"
+  },
+  "status_off": {
+    "message": "Uit"
+  },
+  "btn_remove": {
+    "message": "Verwijderen"
+  },
+  "license_active": {
+    "message": "Zovo Pro actief. Bedankt!"
+  },
+  "license_inactive": {
+    "message": "Gratis abonnement. Voer een Zovo-licentiesleutel in om Pro te ontgrendelen."
+  },
+  "license_bad_key": {
+    "message": "Die sleutel is niet geldig. Formaat: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — Paginamonitor & Herladen"
+  },
+  "onb_tagline": {
+    "message": "Instellen. Vergeten. Nooit meer op herladen drukken."
+  },
+  "onb_step1": {
+    "message": "1. Open een pagina die je actueel wilt houden — een dashboard, live scores, een veiling."
+  },
+  "onb_step2": {
+    "message": "2. Klik op het Auto Refresh-icoon, kies een interval en druk op Start. Een live aftelling begint meteen."
+  },
+  "onb_step3": {
+    "message": "3. Liever een melding? Kies Monitoren op wijzigingen, kies een element en sluit het tabblad — wij blijven het volgen."
+  },
+  "onb_trust": {
+    "message": "Voor altijd gratis. Geen account. Geen advertenties. Geen tracking. Achtergrondtabbladen verversen hooguit elke 30s (een Chrome-limiet); voorgrondtabbladen halen precies jouw interval."
+  },
+  "onb_cta": {
+    "message": "Begrepen — laten we gaan"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

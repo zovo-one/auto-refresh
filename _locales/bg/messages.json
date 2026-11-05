@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — монитор и презареждане на страници"
+  },
+  "ext_desc": {
+    "message": "Автоматично опреснявайте и презареждайте всяка страница по таймер. Наблюдавайте страници за промени и получавайте известия."
+  },
+  "action_title": {
+    "message": "Auto Refresh — монитор и презареждане на страници"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Тази страница"
+  },
+  "section_refresh": {
+    "message": "Автоматично опресняване"
+  },
+  "label_every": {
+    "message": "На всеки"
+  },
+  "unit_seconds": {
+    "message": "секунди"
+  },
+  "opt_only_active": {
+    "message": "Опресняване само докато този раздел е активен"
+  },
+  "opt_preserve_form": {
+    "message": "Запази това, което съм въвел във формуляри"
+  },
+  "opt_save_rule": {
+    "message": "Активирай автоматично този сайт при връщане"
+  },
+  "note_bg_floor": {
+    "message": "Разделите на заден план се опресняват най-често на всеки 30 секунди (ограничение на Chrome) — активните раздели спазват точния ви интервал."
+  },
+  "btn_start": {
+    "message": "Стартирай автоматичното опресняване"
+  },
+  "btn_stop": {
+    "message": "Спри"
+  },
+  "btn_pause": {
+    "message": "Пауза"
+  },
+  "btn_resume": {
+    "message": "Продължи"
+  },
+  "btn_refresh_now": {
+    "message": "Опресни сега"
+  },
+  "section_monitor": {
+    "message": "Наблюдение за промени"
+  },
+  "monitor_help": {
+    "message": "Получете известие на работния плот, когато тази страница се промени — дори ако затворите раздела."
+  },
+  "label_condition": {
+    "message": "Известявай, когато"
+  },
+  "cond_any": {
+    "message": "нещо се промени"
+  },
+  "cond_appears": {
+    "message": "се появи дума"
+  },
+  "cond_disappears": {
+    "message": "изчезне дума"
+  },
+  "cond_price": {
+    "message": "цената падне под"
+  },
+  "label_keyword": {
+    "message": "Дума"
+  },
+  "btn_pick": {
+    "message": "Избери елемент"
+  },
+  "btn_watch_page": {
+    "message": "Наблюдавай цялата страница"
+  },
+  "btn_add_watch": {
+    "message": "Започни наблюдение"
+  },
+  "trust_line": {
+    "message": "Безплатно завинаги · Без акаунт · Без реклами · Без проследяване"
+  },
+  "link_dashboard": {
+    "message": "Управление на списъка за наблюдение"
+  },
+  "status_paused": {
+    "message": "На пауза"
+  },
+  "status_next": {
+    "message": "Следващо опресняване след"
+  },
+  "watch_label": {
+    "message": "Наблюдава се"
+  },
+  "status_bad_page": {
+    "message": "Тази страница не може да бъде опреснена."
+  },
+  "status_perm_needed": {
+    "message": "Необходимо е разрешение за опресняване на този сайт."
+  },
+  "pick_hint": {
+    "message": "Превключете към страницата и щракнете върху елемента за наблюдение."
+  },
+  "pick_done": {
+    "message": "Наблюдава се:"
+  },
+  "watch_added": {
+    "message": "Наблюдението започна."
+  },
+  "watch_cap_hit": {
+    "message": "Достигнахте безплатния лимит (3). Преминете към Zovo Pro за неограничени монитори."
+  },
+  "notif_change_title": {
+    "message": "Страница, която наблюдавате, се промени"
+  },
+  "notif_change_body": {
+    "message": "Открита е промяна."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — списък за наблюдение и настройки"
+  },
+  "dash_watches": {
+    "message": "Монитори за промени на страници"
+  },
+  "col_page": {
+    "message": "Страница"
+  },
+  "col_condition": {
+    "message": "Условие"
+  },
+  "col_mode": {
+    "message": "Режим"
+  },
+  "col_status": {
+    "message": "Състояние"
+  },
+  "col_actions": {
+    "message": "Действия"
+  },
+  "dash_no_watches": {
+    "message": "Все още няма монитори. Отворете изскачащия прозорец на всяка страница и изберете Наблюдение за промени."
+  },
+  "dash_rules": {
+    "message": "Правила за автоматично активиране по домейн"
+  },
+  "col_site": {
+    "message": "Сайт"
+  },
+  "col_interval": {
+    "message": "Интервал"
+  },
+  "dash_no_rules": {
+    "message": "Все още няма запазени правила за сайтове."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro отключва неограничени монитори, разширени условия, поддържане на сесията активна, история и синхронизация между устройства — включени в Zovo $$99 доживотния лиценз."
+  },
+  "label_license": {
+    "message": "Лицензен ключ"
+  },
+  "btn_activate": {
+    "message": "Активирай"
+  },
+  "dash_settings": {
+    "message": "Настройки"
+  },
+  "opt_sound": {
+    "message": "Възпроизведи звук при потвърдена промяна"
+  },
+  "mode_open": {
+    "message": "Отворен раздел"
+  },
+  "mode_closed": {
+    "message": "Затворен раздел"
+  },
+  "status_on": {
+    "message": "Вкл."
+  },
+  "status_off": {
+    "message": "Изкл."
+  },
+  "btn_remove": {
+    "message": "Премахни"
+  },
+  "license_active": {
+    "message": "Zovo Pro е активен. Благодарим ви!"
+  },
+  "license_inactive": {
+    "message": "Безплатен план. Въведете лицензен ключ на Zovo, за да отключите Pro."
+  },
+  "license_bad_key": {
+    "message": "Този ключ не е валиден. Формат: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — монитор и презареждане на страници"
+  },
+  "onb_tagline": {
+    "message": "Настройте го. Забравете го. Никога повече не натискайте презареждане."
+  },
+  "onb_step1": {
+    "message": "1. Отворете всяка страница, която искате да поддържате актуална — табло, живи резултати, търг."
+  },
+  "onb_step2": {
+    "message": "2. Щракнете върху иконата Auto Refresh, изберете интервал, натиснете Старт. Веднага започва обратно отброяване на живо."
+  },
+  "onb_step3": {
+    "message": "3. Искате известие вместо това? Изберете Наблюдение за промени, изберете елемент и затворете раздела — ние пак ще го наблюдаваме."
+  },
+  "onb_trust": {
+    "message": "Безплатно завинаги. Без акаунт. Без реклами. Без проследяване. Разделите на заден план се опресняват най-често на всеки 30 секунди (ограничение на Chrome); активните раздели спазват точния ви интервал."
+  },
+  "onb_cta": {
+    "message": "Разбрах — да започваме"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

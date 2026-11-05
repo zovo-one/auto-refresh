@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — Page Monitor & Reload"
+  },
+  "ext_desc": {
+    "message": "Awtomatikong i-refresh at i-reload ang anumang pahina sa pamamagitan ng timer. Bantayan ang mga pahina para sa mga pagbabago at makatanggap ng abiso."
+  },
+  "action_title": {
+    "message": "Auto Refresh — Page Monitor & Reload"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Ang pahinang ito"
+  },
+  "section_refresh": {
+    "message": "Auto refresh"
+  },
+  "label_every": {
+    "message": "Bawat"
+  },
+  "unit_seconds": {
+    "message": "segundo"
+  },
+  "opt_only_active": {
+    "message": "I-refresh lamang habang aktibo ang tab na ito"
+  },
+  "opt_preserve_form": {
+    "message": "Panatilihin ang aking na-type sa mga form"
+  },
+  "opt_save_rule": {
+    "message": "Awtomatikong paganahin ang site na ito kapag bumalik ako"
+  },
+  "note_bg_floor": {
+    "message": "Ang mga background tab ay nire-refresh nang hindi hihigit sa bawat 30s (isang limitasyon ng Chrome) — ang mga foreground tab ay sumusunod sa iyong eksaktong agwat."
+  },
+  "btn_start": {
+    "message": "Simulan ang auto-refresh"
+  },
+  "btn_stop": {
+    "message": "Ihinto"
+  },
+  "btn_pause": {
+    "message": "I-pause"
+  },
+  "btn_resume": {
+    "message": "Ipagpatuloy"
+  },
+  "btn_refresh_now": {
+    "message": "I-refresh ngayon"
+  },
+  "section_monitor": {
+    "message": "Bantayan ang mga pagbabago"
+  },
+  "monitor_help": {
+    "message": "Makatanggap ng abiso sa desktop kapag nagbago ang pahinang ito — kahit isara mo ang tab."
+  },
+  "label_condition": {
+    "message": "Mag-abiso kapag"
+  },
+  "cond_any": {
+    "message": "may anumang nagbago"
+  },
+  "cond_appears": {
+    "message": "may lumitaw na salita"
+  },
+  "cond_disappears": {
+    "message": "may nawalang salita"
+  },
+  "cond_price": {
+    "message": "presyong mas mababa sa"
+  },
+  "label_keyword": {
+    "message": "Salita"
+  },
+  "btn_pick": {
+    "message": "Pumili ng elemento"
+  },
+  "btn_watch_page": {
+    "message": "Bantayan ang buong pahina"
+  },
+  "btn_add_watch": {
+    "message": "Simulan ang pagbabantay"
+  },
+  "trust_line": {
+    "message": "Libre magpakailanman · Walang account · Walang ad · Walang pagsubaybay"
+  },
+  "link_dashboard": {
+    "message": "Pamahalaan ang watch-list"
+  },
+  "status_paused": {
+    "message": "Naka-pause"
+  },
+  "status_next": {
+    "message": "Susunod na refresh sa"
+  },
+  "watch_label": {
+    "message": "Binabantayan"
+  },
+  "status_bad_page": {
+    "message": "Hindi ma-refresh ang pahinang ito."
+  },
+  "status_perm_needed": {
+    "message": "Kailangan ng pahintulot para i-refresh ang site na ito."
+  },
+  "pick_hint": {
+    "message": "Lumipat sa pahina at i-click ang elementong babantayan."
+  },
+  "pick_done": {
+    "message": "Binabantayan:"
+  },
+  "watch_added": {
+    "message": "Nagsimula ang pagbabantay."
+  },
+  "watch_cap_hit": {
+    "message": "Naabot na ang libreng limitasyon (3). Mag-upgrade sa Zovo Pro para sa walang limitasyong pagbabantay."
+  },
+  "notif_change_title": {
+    "message": "Nagbago ang isang pahinang binabantayan mo"
+  },
+  "notif_change_body": {
+    "message": "May natukoy na pagbabago."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — Watch-list at Mga Setting"
+  },
+  "dash_watches": {
+    "message": "Mga tagabantay ng pagbabago sa pahina"
+  },
+  "col_page": {
+    "message": "Pahina"
+  },
+  "col_condition": {
+    "message": "Kondisyon"
+  },
+  "col_mode": {
+    "message": "Mode"
+  },
+  "col_status": {
+    "message": "Katayuan"
+  },
+  "col_actions": {
+    "message": "Mga Aksyon"
+  },
+  "dash_no_watches": {
+    "message": "Wala pang tagabantay. Buksan ang popup sa anumang pahina at piliin ang Bantayan ang mga pagbabago."
+  },
+  "dash_rules": {
+    "message": "Mga panuntunan sa auto-arm bawat domain"
+  },
+  "col_site": {
+    "message": "Site"
+  },
+  "col_interval": {
+    "message": "Agwat"
+  },
+  "dash_no_rules": {
+    "message": "Wala pang naka-save na panuntunan sa site."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Ina-unlock ng Pro ang walang limitasyong tagabantay, mga advanced na kondisyon, keep-session-alive, kasaysayan at cross-machine sync — kasama sa Zovo $$99 lifetime."
+  },
+  "label_license": {
+    "message": "License key"
+  },
+  "btn_activate": {
+    "message": "I-activate"
+  },
+  "dash_settings": {
+    "message": "Mga Setting"
+  },
+  "opt_sound": {
+    "message": "Magpatugtog ng tunog sa nakumpirmang pagbabago"
+  },
+  "mode_open": {
+    "message": "Bukas na tab"
+  },
+  "mode_closed": {
+    "message": "Saradong tab"
+  },
+  "status_on": {
+    "message": "Naka-on"
+  },
+  "status_off": {
+    "message": "Naka-off"
+  },
+  "btn_remove": {
+    "message": "Alisin"
+  },
+  "license_active": {
+    "message": "Aktibo ang Zovo Pro. Salamat!"
+  },
+  "license_inactive": {
+    "message": "Libreng plano. Maglagay ng Zovo license key para i-unlock ang Pro."
+  },
+  "license_bad_key": {
+    "message": "Hindi wasto ang key na iyon. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — Page Monitor & Reload"
+  },
+  "onb_tagline": {
+    "message": "Itakda mo. Kalimutan mo na. Hindi na muling mag-reload."
+  },
+  "onb_step1": {
+    "message": "1. Buksan ang anumang pahinang gusto mong panatilihing sariwa — isang dashboard, live na iskor, isang auction."
+  },
+  "onb_step2": {
+    "message": "2. I-click ang Auto Refresh na icon, pumili ng agwat, pindutin ang Simulan. Isang live na countdown ang agad na magsisimula."
+  },
+  "onb_step3": {
+    "message": "3. Gusto mo ba ng abiso sa halip? Piliin ang Bantayan ang mga pagbabago, pumili ng elemento, at isara ang tab — babantayan pa rin namin ito."
+  },
+  "onb_trust": {
+    "message": "Libre magpakailanman. Walang account. Walang ad. Walang pagsubaybay. Ang mga background tab ay nire-refresh nang hindi hihigit sa bawat 30s (isang limitasyon ng Chrome); ang mga foreground tab ay sumusunod sa iyong eksaktong agwat."
+  },
+  "onb_cta": {
+    "message": "Naintindihan ko — tara na"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

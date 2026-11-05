@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — Pemantau & Muat Semula Halaman"
+  },
+  "ext_desc": {
+    "message": "Muat semula mana-mana halaman secara automatik mengikut pemasa. Pantau halaman untuk perubahan dan dapatkan pemberitahuan."
+  },
+  "action_title": {
+    "message": "Auto Refresh — Pemantau & Muat Semula Halaman"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Halaman ini"
+  },
+  "section_refresh": {
+    "message": "Muat semula automatik"
+  },
+  "label_every": {
+    "message": "Setiap"
+  },
+  "unit_seconds": {
+    "message": "saat"
+  },
+  "opt_only_active": {
+    "message": "Muat semula hanya semasa tab ini aktif"
+  },
+  "opt_preserve_form": {
+    "message": "Kekalkan apa yang saya taip dalam borang"
+  },
+  "opt_save_rule": {
+    "message": "Aktifkan tapak ini secara automatik apabila saya kembali"
+  },
+  "note_bg_floor": {
+    "message": "Tab latar belakang dimuat semula sekali setiap 30s pada kadar paling laju (had Chrome) — tab latar depan mengikut selang masa tepat anda."
+  },
+  "btn_start": {
+    "message": "Mula muat semula automatik"
+  },
+  "btn_stop": {
+    "message": "Berhenti"
+  },
+  "btn_pause": {
+    "message": "Jeda"
+  },
+  "btn_resume": {
+    "message": "Sambung semula"
+  },
+  "btn_refresh_now": {
+    "message": "Muat semula sekarang"
+  },
+  "section_monitor": {
+    "message": "Pantau perubahan"
+  },
+  "monitor_help": {
+    "message": "Dapatkan pemberitahuan desktop apabila halaman ini berubah — walaupun anda menutup tab."
+  },
+  "label_condition": {
+    "message": "Beritahu apabila"
+  },
+  "cond_any": {
+    "message": "apa-apa berubah"
+  },
+  "cond_appears": {
+    "message": "sesuatu perkataan muncul"
+  },
+  "cond_disappears": {
+    "message": "sesuatu perkataan hilang"
+  },
+  "cond_price": {
+    "message": "harga di bawah"
+  },
+  "label_keyword": {
+    "message": "Perkataan"
+  },
+  "btn_pick": {
+    "message": "Pilih elemen"
+  },
+  "btn_watch_page": {
+    "message": "Pantau seluruh halaman"
+  },
+  "btn_add_watch": {
+    "message": "Mula memantau"
+  },
+  "trust_line": {
+    "message": "Percuma selamanya · Tiada akaun · Tiada iklan · Tiada penjejakan"
+  },
+  "link_dashboard": {
+    "message": "Urus senarai pantau"
+  },
+  "status_paused": {
+    "message": "Dijeda"
+  },
+  "status_next": {
+    "message": "Muat semula seterusnya dalam"
+  },
+  "watch_label": {
+    "message": "Memantau"
+  },
+  "status_bad_page": {
+    "message": "Halaman ini tidak boleh dimuat semula."
+  },
+  "status_perm_needed": {
+    "message": "Kebenaran diperlukan untuk memuat semula tapak ini."
+  },
+  "pick_hint": {
+    "message": "Beralih ke halaman dan klik elemen yang hendak dipantau."
+  },
+  "pick_done": {
+    "message": "Memantau:"
+  },
+  "watch_added": {
+    "message": "Pemantau dimulakan."
+  },
+  "watch_cap_hit": {
+    "message": "Had percuma dicapai (3). Naik taraf ke Zovo Pro untuk pemantau tanpa had."
+  },
+  "notif_change_title": {
+    "message": "Halaman yang anda pantau telah berubah"
+  },
+  "notif_change_body": {
+    "message": "Perubahan telah dikesan."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — Senarai Pantau & Tetapan"
+  },
+  "dash_watches": {
+    "message": "Pemantau perubahan halaman"
+  },
+  "col_page": {
+    "message": "Halaman"
+  },
+  "col_condition": {
+    "message": "Syarat"
+  },
+  "col_mode": {
+    "message": "Mod"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Tindakan"
+  },
+  "dash_no_watches": {
+    "message": "Belum ada pemantau. Buka pop timbul pada mana-mana halaman dan pilih Pantau perubahan."
+  },
+  "dash_rules": {
+    "message": "Peraturan aktif automatik per domain"
+  },
+  "col_site": {
+    "message": "Tapak"
+  },
+  "col_interval": {
+    "message": "Selang masa"
+  },
+  "dash_no_rules": {
+    "message": "Belum ada peraturan tapak yang disimpan."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro membuka pemantau tanpa had, syarat lanjutan, kekalkan sesi hidup, sejarah dan penyegerakan merentas mesin — digabungkan dalam Zovo $$99 seumur hidup."
+  },
+  "label_license": {
+    "message": "Kunci lesen"
+  },
+  "btn_activate": {
+    "message": "Aktifkan"
+  },
+  "dash_settings": {
+    "message": "Tetapan"
+  },
+  "opt_sound": {
+    "message": "Mainkan bunyi apabila perubahan disahkan"
+  },
+  "mode_open": {
+    "message": "Tab terbuka"
+  },
+  "mode_closed": {
+    "message": "Tab tertutup"
+  },
+  "status_on": {
+    "message": "Hidup"
+  },
+  "status_off": {
+    "message": "Mati"
+  },
+  "btn_remove": {
+    "message": "Buang"
+  },
+  "license_active": {
+    "message": "Zovo Pro aktif. Terima kasih!"
+  },
+  "license_inactive": {
+    "message": "Pelan percuma. Masukkan kunci lesen Zovo untuk membuka Pro."
+  },
+  "license_bad_key": {
+    "message": "Kunci itu tidak sah. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — Pemantau & Muat Semula Halaman"
+  },
+  "onb_tagline": {
+    "message": "Tetapkan. Lupakan. Tidak perlu muat semula lagi."
+  },
+  "onb_step1": {
+    "message": "1. Buka mana-mana halaman yang anda mahu kekal segar — papan pemuka, skor langsung, lelongan."
+  },
+  "onb_step2": {
+    "message": "2. Klik ikon Auto Refresh, pilih selang masa, tekan Mula. Kiraan detik langsung bermula serta-merta."
+  },
+  "onb_step3": {
+    "message": "3. Mahu amaran sebaliknya? Pilih Pantau perubahan, pilih elemen, dan tutup tab — kami tetap akan memantaunya."
+  },
+  "onb_trust": {
+    "message": "Percuma selamanya. Tiada akaun. Tiada iklan. Tiada penjejakan. Tab latar belakang dimuat semula sekali setiap 30s pada kadar paling laju (had Chrome); tab latar depan mengikut selang masa tepat anda."
+  },
+  "onb_cta": {
+    "message": "Faham — mari mulakan"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

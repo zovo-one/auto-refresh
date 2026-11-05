@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Automatikus frissítés — Oldalfigyelő és újratöltő"
+  },
+  "ext_desc": {
+    "message": "Bármely oldal automatikus frissítése és újratöltése időzítővel. Figyeld az oldalak változásait, és kapj értesítést."
+  },
+  "action_title": {
+    "message": "Automatikus frissítés — Oldalfigyelő és újratöltő"
+  },
+  "popup_title": {
+    "message": "Automatikus frissítés"
+  },
+  "popup_this_page": {
+    "message": "Ez az oldal"
+  },
+  "section_refresh": {
+    "message": "Automatikus frissítés"
+  },
+  "label_every": {
+    "message": "Minden"
+  },
+  "unit_seconds": {
+    "message": "másodpercben"
+  },
+  "opt_only_active": {
+    "message": "Csak akkor frissítsen, amíg ez a lap aktív"
+  },
+  "opt_preserve_form": {
+    "message": "Őrizze meg, amit az űrlapokba beírtam"
+  },
+  "opt_save_rule": {
+    "message": "Aktiválja automatikusan ezt az oldalt, amikor visszatérek"
+  },
+  "note_bg_floor": {
+    "message": "A háttérben lévő lapok legfeljebb 30 másodpercenként frissülnek (ez a Chrome korlátja) — az előtérben lévő lapok pontosan a beállított időközzel frissülnek."
+  },
+  "btn_start": {
+    "message": "Automatikus frissítés indítása"
+  },
+  "btn_stop": {
+    "message": "Leállítás"
+  },
+  "btn_pause": {
+    "message": "Szünet"
+  },
+  "btn_resume": {
+    "message": "Folytatás"
+  },
+  "btn_refresh_now": {
+    "message": "Frissítés most"
+  },
+  "section_monitor": {
+    "message": "Változások figyelése"
+  },
+  "monitor_help": {
+    "message": "Kapj asztali értesítést, amikor ez az oldal megváltozik — még akkor is, ha bezárod a lapot."
+  },
+  "label_condition": {
+    "message": "Értesítés, amikor"
+  },
+  "cond_any": {
+    "message": "bármi megváltozik"
+  },
+  "cond_appears": {
+    "message": "egy szó megjelenik"
+  },
+  "cond_disappears": {
+    "message": "egy szó eltűnik"
+  },
+  "cond_price": {
+    "message": "az ár ez alá esik"
+  },
+  "label_keyword": {
+    "message": "Szó"
+  },
+  "btn_pick": {
+    "message": "Válassz egy elemet"
+  },
+  "btn_watch_page": {
+    "message": "Teljes oldal figyelése"
+  },
+  "btn_add_watch": {
+    "message": "Figyelés indítása"
+  },
+  "trust_line": {
+    "message": "Örökre ingyenes · Nincs fiók · Nincs reklám · Nincs nyomkövetés"
+  },
+  "link_dashboard": {
+    "message": "Figyelőlista kezelése"
+  },
+  "status_paused": {
+    "message": "Szüneteltetve"
+  },
+  "status_next": {
+    "message": "Következő frissítés"
+  },
+  "watch_label": {
+    "message": "Figyelés alatt"
+  },
+  "status_bad_page": {
+    "message": "Ez az oldal nem frissíthető."
+  },
+  "status_perm_needed": {
+    "message": "Engedély szükséges ennek az oldalnak a frissítéséhez."
+  },
+  "pick_hint": {
+    "message": "Válts át az oldalra, és kattints a figyelni kívánt elemre."
+  },
+  "pick_done": {
+    "message": "Figyelés alatt:"
+  },
+  "watch_added": {
+    "message": "A figyelés elindult."
+  },
+  "watch_cap_hit": {
+    "message": "Elérted az ingyenes korlátot (3). Frissíts a Zovo Pro csomagra a korlátlan figyelőkért."
+  },
+  "notif_change_title": {
+    "message": "Egy általad figyelt oldal megváltozott"
+  },
+  "notif_change_body": {
+    "message": "Változást észleltünk."
+  },
+  "dash_title": {
+    "message": "Automatikus frissítés — Figyelőlista és beállítások"
+  },
+  "dash_watches": {
+    "message": "Oldalváltozás-figyelők"
+  },
+  "col_page": {
+    "message": "Oldal"
+  },
+  "col_condition": {
+    "message": "Feltétel"
+  },
+  "col_mode": {
+    "message": "Mód"
+  },
+  "col_status": {
+    "message": "Állapot"
+  },
+  "col_actions": {
+    "message": "Műveletek"
+  },
+  "dash_no_watches": {
+    "message": "Még nincs figyelő. Nyisd meg a felugró ablakot bármely oldalon, és válaszd a Változások figyelése lehetőséget."
+  },
+  "dash_rules": {
+    "message": "Domainenkénti automatikus aktiválási szabályok"
+  },
+  "col_site": {
+    "message": "Oldal"
+  },
+  "col_interval": {
+    "message": "Időköz"
+  },
+  "dash_no_rules": {
+    "message": "Még nincsenek mentett oldalszabályok."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "A Pro feloldja a korlátlan figyelőket, a speciális feltételeket, a munkamenet életben tartását, az előzményeket és a gépek közötti szinkronizálást — mindezt a Zovo $$99 örökös csomagban."
+  },
+  "label_license": {
+    "message": "Licenckulcs"
+  },
+  "btn_activate": {
+    "message": "Aktiválás"
+  },
+  "dash_settings": {
+    "message": "Beállítások"
+  },
+  "opt_sound": {
+    "message": "Hang lejátszása megerősített változásnál"
+  },
+  "mode_open": {
+    "message": "Nyitott lap"
+  },
+  "mode_closed": {
+    "message": "Bezárt lap"
+  },
+  "status_on": {
+    "message": "Be"
+  },
+  "status_off": {
+    "message": "Ki"
+  },
+  "btn_remove": {
+    "message": "Eltávolítás"
+  },
+  "license_active": {
+    "message": "Zovo Pro aktív. Köszönjük!"
+  },
+  "license_inactive": {
+    "message": "Ingyenes csomag. Adj meg egy Zovo licenckulcsot a Pro feloldásához."
+  },
+  "license_bad_key": {
+    "message": "Ez a kulcs érvénytelen. Formátum: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Automatikus frissítés — Oldalfigyelő és újratöltő"
+  },
+  "onb_tagline": {
+    "message": "Állítsd be. Felejtsd el. Soha többé ne kelljen újratöltened."
+  },
+  "onb_step1": {
+    "message": "1. Nyisd meg bármelyik oldalt, amelyet frissen szeretnél tartani — egy irányítópultot, élő eredményeket, egy aukciót."
+  },
+  "onb_step2": {
+    "message": "2. Kattints az Automatikus frissítés ikonra, válassz időközt, és nyomd meg az Indítás gombot. Az élő visszaszámlálás azonnal elindul."
+  },
+  "onb_step3": {
+    "message": "3. Inkább értesítést szeretnél? Válaszd a Változások figyelése lehetőséget, jelölj ki egy elemet, és zárd be a lapot — mi továbbra is figyeljük."
+  },
+  "onb_trust": {
+    "message": "Örökre ingyenes. Nincs fiók. Nincs reklám. Nincs nyomkövetés. A háttérben lévő lapok legfeljebb 30 másodpercenként frissülnek (ez a Chrome korlátja); az előtérben lévő lapok pontosan a beállított időközzel frissülnek."
+  },
+  "onb_cta": {
+    "message": "Értem — kezdjük"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

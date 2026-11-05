@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — sidövervakare och omladdning"
+  },
+  "ext_desc": {
+    "message": "Uppdatera och ladda om valfri sida automatiskt med en timer. Övervaka sidor efter ändringar och få aviseringar."
+  },
+  "action_title": {
+    "message": "Auto Refresh — sidövervakare och omladdning"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Den här sidan"
+  },
+  "section_refresh": {
+    "message": "Automatisk uppdatering"
+  },
+  "label_every": {
+    "message": "Var"
+  },
+  "unit_seconds": {
+    "message": "sekund"
+  },
+  "opt_only_active": {
+    "message": "Uppdatera endast när den här fliken är aktiv"
+  },
+  "opt_preserve_form": {
+    "message": "Behåll det jag skrivit i formulär"
+  },
+  "opt_save_rule": {
+    "message": "Aktivera automatiskt på den här webbplatsen när jag återvänder"
+  },
+  "note_bg_floor": {
+    "message": "Bakgrundsflikar uppdateras som mest var 30:e sekund (en gräns i Chrome) — flikar i förgrunden följer ditt exakta intervall."
+  },
+  "btn_start": {
+    "message": "Starta automatisk uppdatering"
+  },
+  "btn_stop": {
+    "message": "Stoppa"
+  },
+  "btn_pause": {
+    "message": "Pausa"
+  },
+  "btn_resume": {
+    "message": "Återuppta"
+  },
+  "btn_refresh_now": {
+    "message": "Uppdatera nu"
+  },
+  "section_monitor": {
+    "message": "Övervaka ändringar"
+  },
+  "monitor_help": {
+    "message": "Få en skrivbordsavisering när den här sidan ändras — även om du stänger fliken."
+  },
+  "label_condition": {
+    "message": "Avisera när"
+  },
+  "cond_any": {
+    "message": "något ändras"
+  },
+  "cond_appears": {
+    "message": "ett ord dyker upp"
+  },
+  "cond_disappears": {
+    "message": "ett ord försvinner"
+  },
+  "cond_price": {
+    "message": "priset understiger"
+  },
+  "label_keyword": {
+    "message": "Ord"
+  },
+  "btn_pick": {
+    "message": "Välj ett element"
+  },
+  "btn_watch_page": {
+    "message": "Bevaka hela sidan"
+  },
+  "btn_add_watch": {
+    "message": "Börja bevaka"
+  },
+  "trust_line": {
+    "message": "Gratis för alltid · Inget konto · Inga annonser · Ingen spårning"
+  },
+  "link_dashboard": {
+    "message": "Hantera bevakningslista"
+  },
+  "status_paused": {
+    "message": "Pausad"
+  },
+  "status_next": {
+    "message": "Nästa uppdatering om"
+  },
+  "watch_label": {
+    "message": "Bevakar"
+  },
+  "status_bad_page": {
+    "message": "Den här sidan kan inte uppdateras."
+  },
+  "status_perm_needed": {
+    "message": "Behörighet krävs för att uppdatera den här webbplatsen."
+  },
+  "pick_hint": {
+    "message": "Växla till sidan och klicka på elementet du vill bevaka."
+  },
+  "pick_done": {
+    "message": "Bevakar:"
+  },
+  "watch_added": {
+    "message": "Övervakning startad."
+  },
+  "watch_cap_hit": {
+    "message": "Gratisgränsen nådd (3). Uppgradera till Zovo Pro för obegränsat antal övervakningar."
+  },
+  "notif_change_title": {
+    "message": "En sida du bevakar har ändrats"
+  },
+  "notif_change_body": {
+    "message": "En ändring upptäcktes."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — bevakningslista och inställningar"
+  },
+  "dash_watches": {
+    "message": "Övervakare av sidändringar"
+  },
+  "col_page": {
+    "message": "Sida"
+  },
+  "col_condition": {
+    "message": "Villkor"
+  },
+  "col_mode": {
+    "message": "Läge"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Åtgärder"
+  },
+  "dash_no_watches": {
+    "message": "Inga övervakare ännu. Öppna popupen på valfri sida och välj Övervaka ändringar."
+  },
+  "dash_rules": {
+    "message": "Regler för automatisk aktivering per domän"
+  },
+  "col_site": {
+    "message": "Webbplats"
+  },
+  "col_interval": {
+    "message": "Intervall"
+  },
+  "dash_no_rules": {
+    "message": "Inga sparade webbplatsregler ännu."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro låser upp obegränsat antal övervakare, avancerade villkor, håll-sessionen-vid-liv, historik och synkronisering mellan enheter — ingår i Zovo $$99 livstidslicens."
+  },
+  "label_license": {
+    "message": "Licensnyckel"
+  },
+  "btn_activate": {
+    "message": "Aktivera"
+  },
+  "dash_settings": {
+    "message": "Inställningar"
+  },
+  "opt_sound": {
+    "message": "Spela upp ett ljud vid en bekräftad ändring"
+  },
+  "mode_open": {
+    "message": "Öppen flik"
+  },
+  "mode_closed": {
+    "message": "Stängd flik"
+  },
+  "status_on": {
+    "message": "På"
+  },
+  "status_off": {
+    "message": "Av"
+  },
+  "btn_remove": {
+    "message": "Ta bort"
+  },
+  "license_active": {
+    "message": "Zovo Pro aktiv. Tack!"
+  },
+  "license_inactive": {
+    "message": "Gratisplan. Ange en Zovo-licensnyckel för att låsa upp Pro."
+  },
+  "license_bad_key": {
+    "message": "Den nyckeln är inte giltig. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — sidövervakare och omladdning"
+  },
+  "onb_tagline": {
+    "message": "Ställ in det. Glöm det. Ladda aldrig om manuellt igen."
+  },
+  "onb_step1": {
+    "message": "1. Öppna valfri sida du vill hålla färsk — en instrumentpanel, liveresultat, en auktion."
+  },
+  "onb_step2": {
+    "message": "2. Klicka på Auto Refresh-ikonen, välj ett intervall och tryck på Starta. En live-nedräkning börjar direkt."
+  },
+  "onb_step3": {
+    "message": "3. Vill du ha en avisering i stället? Välj Övervaka ändringar, välj ett element och stäng fliken — vi bevakar den ändå."
+  },
+  "onb_trust": {
+    "message": "Gratis för alltid. Inget konto. Inga annonser. Ingen spårning. Bakgrundsflikar uppdateras som mest var 30:e sekund (en gräns i Chrome); flikar i förgrunden följer ditt exakta intervall."
+  },
+  "onb_cta": {
+    "message": "Uppfattat — nu kör vi"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

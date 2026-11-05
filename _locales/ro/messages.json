@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — Monitorizare și reîncărcare pagină"
+  },
+  "ext_desc": {
+    "message": "Reîmprospătează și reîncarcă automat orice pagină pe bază de cronometru. Monitorizează paginile pentru modificări și primește notificări."
+  },
+  "action_title": {
+    "message": "Auto Refresh — Monitorizare și reîncărcare pagină"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Această pagină"
+  },
+  "section_refresh": {
+    "message": "Reîmprospătare automată"
+  },
+  "label_every": {
+    "message": "La fiecare"
+  },
+  "unit_seconds": {
+    "message": "secunde"
+  },
+  "opt_only_active": {
+    "message": "Reîmprospătează doar cât timp această filă este activă"
+  },
+  "opt_preserve_form": {
+    "message": "Păstrează ce am tastat în formulare"
+  },
+  "opt_save_rule": {
+    "message": "Activează automat acest site când revin"
+  },
+  "note_bg_floor": {
+    "message": "Filele din fundal se reîmprospătează cel mult la fiecare 30 s (o limită Chrome) — filele din prim-plan respectă intervalul exact stabilit."
+  },
+  "btn_start": {
+    "message": "Pornește reîmprospătarea automată"
+  },
+  "btn_stop": {
+    "message": "Oprește"
+  },
+  "btn_pause": {
+    "message": "Pauză"
+  },
+  "btn_resume": {
+    "message": "Reia"
+  },
+  "btn_refresh_now": {
+    "message": "Reîmprospătează acum"
+  },
+  "section_monitor": {
+    "message": "Monitorizează modificările"
+  },
+  "monitor_help": {
+    "message": "Primește o notificare pe desktop când această pagină se modifică — chiar dacă închizi fila."
+  },
+  "label_condition": {
+    "message": "Notifică atunci când"
+  },
+  "cond_any": {
+    "message": "se modifică orice"
+  },
+  "cond_appears": {
+    "message": "apare un cuvânt"
+  },
+  "cond_disappears": {
+    "message": "dispare un cuvânt"
+  },
+  "cond_price": {
+    "message": "prețul scade sub"
+  },
+  "label_keyword": {
+    "message": "Cuvânt"
+  },
+  "btn_pick": {
+    "message": "Alege un element"
+  },
+  "btn_watch_page": {
+    "message": "Urmărește toată pagina"
+  },
+  "btn_add_watch": {
+    "message": "Începe urmărirea"
+  },
+  "trust_line": {
+    "message": "Gratuit pentru totdeauna · Fără cont · Fără reclame · Fără urmărire"
+  },
+  "link_dashboard": {
+    "message": "Gestionează lista de urmărire"
+  },
+  "status_paused": {
+    "message": "În pauză"
+  },
+  "status_next": {
+    "message": "Următoarea reîmprospătare în"
+  },
+  "watch_label": {
+    "message": "Se urmărește"
+  },
+  "status_bad_page": {
+    "message": "Această pagină nu poate fi reîmprospătată."
+  },
+  "status_perm_needed": {
+    "message": "Este necesară permisiunea pentru a reîmprospăta acest site."
+  },
+  "pick_hint": {
+    "message": "Comută la pagină și fă clic pe elementul de urmărit."
+  },
+  "pick_done": {
+    "message": "Se urmărește:"
+  },
+  "watch_added": {
+    "message": "Monitorizarea a început."
+  },
+  "watch_cap_hit": {
+    "message": "Limita gratuită a fost atinsă (3). Treci la Zovo Pro pentru monitorizări nelimitate."
+  },
+  "notif_change_title": {
+    "message": "O pagină pe care o urmărești s-a modificat"
+  },
+  "notif_change_body": {
+    "message": "A fost detectată o modificare."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — Listă de urmărire și setări"
+  },
+  "dash_watches": {
+    "message": "Monitoare de modificări ale paginii"
+  },
+  "col_page": {
+    "message": "Pagină"
+  },
+  "col_condition": {
+    "message": "Condiție"
+  },
+  "col_mode": {
+    "message": "Mod"
+  },
+  "col_status": {
+    "message": "Stare"
+  },
+  "col_actions": {
+    "message": "Acțiuni"
+  },
+  "dash_no_watches": {
+    "message": "Încă niciun monitor. Deschide fereastra pop-up pe orice pagină și alege Monitorizează modificările."
+  },
+  "dash_rules": {
+    "message": "Reguli de activare automată per domeniu"
+  },
+  "col_site": {
+    "message": "Site"
+  },
+  "col_interval": {
+    "message": "Interval"
+  },
+  "dash_no_rules": {
+    "message": "Încă nicio regulă de site salvată."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro deblochează monitoare nelimitate, condiții avansate, menținerea sesiunii active, istoric și sincronizare între dispozitive — incluse în pachetul Zovo pe viață de $$99."
+  },
+  "label_license": {
+    "message": "Cheie de licență"
+  },
+  "btn_activate": {
+    "message": "Activează"
+  },
+  "dash_settings": {
+    "message": "Setări"
+  },
+  "opt_sound": {
+    "message": "Redă un sunet la o modificare confirmată"
+  },
+  "mode_open": {
+    "message": "Filă deschisă"
+  },
+  "mode_closed": {
+    "message": "Filă închisă"
+  },
+  "status_on": {
+    "message": "Activat"
+  },
+  "status_off": {
+    "message": "Dezactivat"
+  },
+  "btn_remove": {
+    "message": "Elimină"
+  },
+  "license_active": {
+    "message": "Zovo Pro este activ. Îți mulțumim!"
+  },
+  "license_inactive": {
+    "message": "Plan gratuit. Introdu o cheie de licență Zovo pentru a debloca Pro."
+  },
+  "license_bad_key": {
+    "message": "Cheia respectivă nu este validă. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — Monitorizare și reîncărcare pagină"
+  },
+  "onb_tagline": {
+    "message": "Setează-l. Uită de el. Nu mai apăsa niciodată pe reîncărcare."
+  },
+  "onb_step1": {
+    "message": "1. Deschide orice pagină pe care vrei să o menții actualizată — un panou de bord, scoruri live, o licitație."
+  },
+  "onb_step2": {
+    "message": "2. Fă clic pe pictograma Auto Refresh, alege un interval, apasă Pornește. Începe instantaneu o numărătoare inversă în timp real."
+  },
+  "onb_step3": {
+    "message": "3. Preferi o alertă în schimb? Alege Monitorizează modificările, selectează un element și închide fila — o vom urmări în continuare."
+  },
+  "onb_trust": {
+    "message": "Gratuit pentru totdeauna. Fără cont. Fără reclame. Fără urmărire. Filele din fundal se reîmprospătează cel mult la fiecare 30 s (o limită Chrome); filele din prim-plan respectă intervalul exact stabilit."
+  },
+  "onb_cta": {
+    "message": "Am înțeles — să începem"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

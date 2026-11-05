@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Automatinis atnaujinimas — puslapio stebėjimas ir perkrovimas"
+  },
+  "ext_desc": {
+    "message": "Automatiškai atnaujinkite ir perkraukite bet kurį puslapį pagal laikmatį. Stebėkite puslapių pokyčius ir gaukite pranešimus."
+  },
+  "action_title": {
+    "message": "Automatinis atnaujinimas — puslapio stebėjimas ir perkrovimas"
+  },
+  "popup_title": {
+    "message": "Automatinis atnaujinimas"
+  },
+  "popup_this_page": {
+    "message": "Šis puslapis"
+  },
+  "section_refresh": {
+    "message": "Automatinis atnaujinimas"
+  },
+  "label_every": {
+    "message": "Kas"
+  },
+  "unit_seconds": {
+    "message": "sek."
+  },
+  "opt_only_active": {
+    "message": "Atnaujinti tik kol šis skirtukas aktyvus"
+  },
+  "opt_preserve_form": {
+    "message": "Išsaugoti tai, ką įvedžiau formose"
+  },
+  "opt_save_rule": {
+    "message": "Automatiškai suaktyvinti šią svetainę, kai grįšiu"
+  },
+  "note_bg_floor": {
+    "message": "Foniniai skirtukai atnaujinami ne dažniau kaip kas 30 sek. (Chrome apribojimas) — pirmo plano skirtukai atitinka tikslų jūsų intervalą."
+  },
+  "btn_start": {
+    "message": "Pradėti automatinį atnaujinimą"
+  },
+  "btn_stop": {
+    "message": "Stabdyti"
+  },
+  "btn_pause": {
+    "message": "Pristabdyti"
+  },
+  "btn_resume": {
+    "message": "Tęsti"
+  },
+  "btn_refresh_now": {
+    "message": "Atnaujinti dabar"
+  },
+  "section_monitor": {
+    "message": "Stebėti pokyčius"
+  },
+  "monitor_help": {
+    "message": "Gaukite darbalaukio pranešimą, kai šis puslapis pasikeičia — net jei uždarysite skirtuką."
+  },
+  "label_condition": {
+    "message": "Pranešti, kai"
+  },
+  "cond_any": {
+    "message": "kas nors pasikeičia"
+  },
+  "cond_appears": {
+    "message": "atsiranda žodis"
+  },
+  "cond_disappears": {
+    "message": "dingsta žodis"
+  },
+  "cond_price": {
+    "message": "kaina žemiau"
+  },
+  "label_keyword": {
+    "message": "Žodis"
+  },
+  "btn_pick": {
+    "message": "Pasirinkti elementą"
+  },
+  "btn_watch_page": {
+    "message": "Stebėti visą puslapį"
+  },
+  "btn_add_watch": {
+    "message": "Pradėti stebėti"
+  },
+  "trust_line": {
+    "message": "Nemokama visam laikui · Be paskyros · Be reklamų · Be sekimo"
+  },
+  "link_dashboard": {
+    "message": "Tvarkyti stebėjimo sąrašą"
+  },
+  "status_paused": {
+    "message": "Pristabdyta"
+  },
+  "status_next": {
+    "message": "Kitas atnaujinimas po"
+  },
+  "watch_label": {
+    "message": "Stebima"
+  },
+  "status_bad_page": {
+    "message": "Šio puslapio negalima atnaujinti."
+  },
+  "status_perm_needed": {
+    "message": "Norint atnaujinti šią svetainę reikia leidimo."
+  },
+  "pick_hint": {
+    "message": "Pereikite į puslapį ir spustelėkite elementą, kurį norite stebėti."
+  },
+  "pick_done": {
+    "message": "Stebima:"
+  },
+  "watch_added": {
+    "message": "Stebėjimas pradėtas."
+  },
+  "watch_cap_hit": {
+    "message": "Pasiektas nemokamas limitas (3). Atnaujinkite į Zovo Pro, kad stebėtumėte neribotai."
+  },
+  "notif_change_title": {
+    "message": "Jūsų stebimas puslapis pasikeitė"
+  },
+  "notif_change_body": {
+    "message": "Aptiktas pokytis."
+  },
+  "dash_title": {
+    "message": "Automatinis atnaujinimas — stebėjimo sąrašas ir nustatymai"
+  },
+  "dash_watches": {
+    "message": "Puslapio pokyčių stebėtojai"
+  },
+  "col_page": {
+    "message": "Puslapis"
+  },
+  "col_condition": {
+    "message": "Sąlyga"
+  },
+  "col_mode": {
+    "message": "Režimas"
+  },
+  "col_status": {
+    "message": "Būsena"
+  },
+  "col_actions": {
+    "message": "Veiksmai"
+  },
+  "dash_no_watches": {
+    "message": "Dar nėra stebėtojų. Atverkite iškylantįjį langą bet kuriame puslapyje ir pasirinkite „Stebėti pokyčius“."
+  },
+  "dash_rules": {
+    "message": "Automatinio suaktyvinimo taisyklės pagal domeną"
+  },
+  "col_site": {
+    "message": "Svetainė"
+  },
+  "col_interval": {
+    "message": "Intervalas"
+  },
+  "dash_no_rules": {
+    "message": "Dar nėra išsaugotų svetainių taisyklių."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro atrakina neribotus stebėtojus, išplėstines sąlygas, sesijos palaikymą, istoriją ir sinchronizavimą tarp įrenginių — įtraukta į Zovo $$99 viso gyvenimo licenciją."
+  },
+  "label_license": {
+    "message": "Licencijos raktas"
+  },
+  "btn_activate": {
+    "message": "Aktyvinti"
+  },
+  "dash_settings": {
+    "message": "Nustatymai"
+  },
+  "opt_sound": {
+    "message": "Groti garsą, kai pokytis patvirtinamas"
+  },
+  "mode_open": {
+    "message": "Atvertas skirtukas"
+  },
+  "mode_closed": {
+    "message": "Uždarytas skirtukas"
+  },
+  "status_on": {
+    "message": "Įjungta"
+  },
+  "status_off": {
+    "message": "Išjungta"
+  },
+  "btn_remove": {
+    "message": "Pašalinti"
+  },
+  "license_active": {
+    "message": "Zovo Pro aktyvi. Ačiū!"
+  },
+  "license_inactive": {
+    "message": "Nemokamas planas. Įveskite Zovo licencijos raktą, kad atrakintumėte Pro."
+  },
+  "license_bad_key": {
+    "message": "Šis raktas netinkamas. Formatas: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Automatinis atnaujinimas — puslapio stebėjimas ir perkrovimas"
+  },
+  "onb_tagline": {
+    "message": "Nustatykite. Pamirškite. Daugiau niekada nespauskite atnaujinti."
+  },
+  "onb_step1": {
+    "message": "1. Atverkite bet kurį puslapį, kurį norite išlaikyti šviežią — informacijos skydelį, tiesioginius rezultatus, aukcioną."
+  },
+  "onb_step2": {
+    "message": "2. Spustelėkite Automatinio atnaujinimo piktogramą, pasirinkite intervalą, spauskite Pradėti. Tiesioginis atgalinis skaičiavimas prasideda iškart."
+  },
+  "onb_step3": {
+    "message": "3. Norite geriau gauti įspėjimą? Pasirinkite „Stebėti pokyčius“, pasirinkite elementą ir uždarykite skirtuką — mes vis tiek jį stebėsime."
+  },
+  "onb_trust": {
+    "message": "Nemokama visam laikui. Be paskyros. Be reklamų. Be sekimo. Foniniai skirtukai atnaujinami ne dažniau kaip kas 30 sek. (Chrome apribojimas); pirmo plano skirtukai atitinka tikslų jūsų intervalą."
+  },
+  "onb_cta": {
+    "message": "Supratau — pradėkime"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

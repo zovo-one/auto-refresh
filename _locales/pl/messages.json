@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — monitor i przeładowywanie stron"
+  },
+  "ext_desc": {
+    "message": "Automatycznie odświeżaj i przeładowuj dowolną stronę według czasomierza. Monitoruj strony pod kątem zmian i otrzymuj powiadomienia."
+  },
+  "action_title": {
+    "message": "Auto Refresh — monitor i przeładowywanie stron"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Ta strona"
+  },
+  "section_refresh": {
+    "message": "Automatyczne odświeżanie"
+  },
+  "label_every": {
+    "message": "Co"
+  },
+  "unit_seconds": {
+    "message": "sekund"
+  },
+  "opt_only_active": {
+    "message": "Odświeżaj tylko, gdy ta karta jest aktywna"
+  },
+  "opt_preserve_form": {
+    "message": "Zachowaj to, co wpisałem w formularzach"
+  },
+  "opt_save_rule": {
+    "message": "Automatycznie uruchamiaj na tej witrynie po powrocie"
+  },
+  "note_bg_floor": {
+    "message": "Karty w tle odświeżają się najczęściej co 30 s (ograniczenie Chrome) — karty na pierwszym planie trafiają w Twój dokładny interwał."
+  },
+  "btn_start": {
+    "message": "Rozpocznij automatyczne odświeżanie"
+  },
+  "btn_stop": {
+    "message": "Zatrzymaj"
+  },
+  "btn_pause": {
+    "message": "Wstrzymaj"
+  },
+  "btn_resume": {
+    "message": "Wznów"
+  },
+  "btn_refresh_now": {
+    "message": "Odśwież teraz"
+  },
+  "section_monitor": {
+    "message": "Monitoruj zmiany"
+  },
+  "monitor_help": {
+    "message": "Otrzymuj powiadomienie na pulpicie, gdy ta strona się zmieni — nawet jeśli zamkniesz kartę."
+  },
+  "label_condition": {
+    "message": "Powiadom, gdy"
+  },
+  "cond_any": {
+    "message": "cokolwiek się zmieni"
+  },
+  "cond_appears": {
+    "message": "pojawi się słowo"
+  },
+  "cond_disappears": {
+    "message": "zniknie słowo"
+  },
+  "cond_price": {
+    "message": "cena poniżej"
+  },
+  "label_keyword": {
+    "message": "Słowo"
+  },
+  "btn_pick": {
+    "message": "Wybierz element"
+  },
+  "btn_watch_page": {
+    "message": "Obserwuj całą stronę"
+  },
+  "btn_add_watch": {
+    "message": "Rozpocznij obserwowanie"
+  },
+  "trust_line": {
+    "message": "Zawsze bezpłatne · Bez konta · Bez reklam · Bez śledzenia"
+  },
+  "link_dashboard": {
+    "message": "Zarządzaj listą obserwowanych"
+  },
+  "status_paused": {
+    "message": "Wstrzymano"
+  },
+  "status_next": {
+    "message": "Następne odświeżenie za"
+  },
+  "watch_label": {
+    "message": "Obserwowanie"
+  },
+  "status_bad_page": {
+    "message": "Tej strony nie można odświeżyć."
+  },
+  "status_perm_needed": {
+    "message": "Aby odświeżyć tę witrynę, wymagane jest uprawnienie."
+  },
+  "pick_hint": {
+    "message": "Przejdź na stronę i kliknij element, który chcesz obserwować."
+  },
+  "pick_done": {
+    "message": "Obserwowanie:"
+  },
+  "watch_added": {
+    "message": "Monitor uruchomiony."
+  },
+  "watch_cap_hit": {
+    "message": "Osiągnięto limit bezpłatny (3). Przejdź na Zovo Pro, aby korzystać z nieograniczonej liczby monitorów."
+  },
+  "notif_change_title": {
+    "message": "Obserwowana przez Ciebie strona uległa zmianie"
+  },
+  "notif_change_body": {
+    "message": "Wykryto zmianę."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — lista obserwowanych i ustawienia"
+  },
+  "dash_watches": {
+    "message": "Monitory zmian stron"
+  },
+  "col_page": {
+    "message": "Strona"
+  },
+  "col_condition": {
+    "message": "Warunek"
+  },
+  "col_mode": {
+    "message": "Tryb"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Akcje"
+  },
+  "dash_no_watches": {
+    "message": "Brak monitorów. Otwórz okienko na dowolnej stronie i wybierz Monitoruj zmiany."
+  },
+  "dash_rules": {
+    "message": "Reguły automatycznego uruchamiania dla domen"
+  },
+  "col_site": {
+    "message": "Witryna"
+  },
+  "col_interval": {
+    "message": "Interwał"
+  },
+  "dash_no_rules": {
+    "message": "Brak zapisanych reguł witryn."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro odblokowuje nieograniczoną liczbę monitorów, zaawansowane warunki, utrzymywanie sesji, historię i synchronizację między urządzeniami — w pakiecie w ramach dożywotniej licencji Zovo za $$99."
+  },
+  "label_license": {
+    "message": "Klucz licencyjny"
+  },
+  "btn_activate": {
+    "message": "Aktywuj"
+  },
+  "dash_settings": {
+    "message": "Ustawienia"
+  },
+  "opt_sound": {
+    "message": "Odtwórz dźwięk przy potwierdzonej zmianie"
+  },
+  "mode_open": {
+    "message": "Otwarta karta"
+  },
+  "mode_closed": {
+    "message": "Zamknięta karta"
+  },
+  "status_on": {
+    "message": "Wł."
+  },
+  "status_off": {
+    "message": "Wył."
+  },
+  "btn_remove": {
+    "message": "Usuń"
+  },
+  "license_active": {
+    "message": "Zovo Pro aktywne. Dziękujemy!"
+  },
+  "license_inactive": {
+    "message": "Plan bezpłatny. Wprowadź klucz licencyjny Zovo, aby odblokować Pro."
+  },
+  "license_bad_key": {
+    "message": "Ten klucz jest nieprawidłowy. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — monitor i przeładowywanie stron"
+  },
+  "onb_tagline": {
+    "message": "Ustaw i zapomnij. Już nigdy nie klikaj odświeżania."
+  },
+  "onb_step1": {
+    "message": "1. Otwórz dowolną stronę, którą chcesz mieć zawsze aktualną — pulpit, wyniki na żywo, aukcję."
+  },
+  "onb_step2": {
+    "message": "2. Kliknij ikonę Auto Refresh, wybierz interwał, naciśnij Start. Natychmiast rozpocznie się odliczanie na żywo."
+  },
+  "onb_step3": {
+    "message": "3. Wolisz powiadomienie? Wybierz Monitoruj zmiany, wskaż element i zamknij kartę — my nadal będziemy ją obserwować."
+  },
+  "onb_trust": {
+    "message": "Zawsze bezpłatne. Bez konta. Bez reklam. Bez śledzenia. Karty w tle odświeżają się najczęściej co 30 s (ograniczenie Chrome); karty na pierwszym planie trafiają w Twój dokładny interwał."
+  },
+  "onb_cta": {
+    "message": "Rozumiem — działamy"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

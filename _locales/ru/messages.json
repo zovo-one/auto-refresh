@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Автообновление — монитор и перезагрузка страниц"
+  },
+  "ext_desc": {
+    "message": "Автообновление и перезагрузка любой страницы по таймеру. Следите за изменениями и получайте уведомления."
+  },
+  "action_title": {
+    "message": "Автообновление — монитор и перезагрузка страниц"
+  },
+  "popup_title": {
+    "message": "Автообновление"
+  },
+  "section_refresh": {
+    "message": "Автообновление"
+  },
+  "label_every": {
+    "message": "Каждые"
+  },
+  "unit_seconds": {
+    "message": "секунд"
+  },
+  "opt_only_active": {
+    "message": "Обновлять только когда эта вкладка активна"
+  },
+  "opt_preserve_form": {
+    "message": "Сохранять введённое в формы"
+  },
+  "opt_save_rule": {
+    "message": "Включать этот сайт автоматически при возврате"
+  },
+  "note_bg_floor": {
+    "message": "Фоновые вкладки обновляются не чаще чем раз в 30 с (ограничение Chrome); активные вкладки — точно по вашему интервалу."
+  },
+  "btn_start": {
+    "message": "Запустить автообновление"
+  },
+  "btn_stop": {
+    "message": "Остановить"
+  },
+  "btn_pause": {
+    "message": "Пауза"
+  },
+  "btn_resume": {
+    "message": "Продолжить"
+  },
+  "btn_refresh_now": {
+    "message": "Обновить сейчас"
+  },
+  "section_monitor": {
+    "message": "Отслеживать изменения"
+  },
+  "monitor_help": {
+    "message": "Получайте уведомление при изменении страницы, даже если вкладка закрыта."
+  },
+  "label_condition": {
+    "message": "Уведомлять когда"
+  },
+  "cond_any": {
+    "message": "что-либо изменится"
+  },
+  "cond_appears": {
+    "message": "появится слово"
+  },
+  "cond_disappears": {
+    "message": "исчезнет слово"
+  },
+  "label_keyword": {
+    "message": "Слово"
+  },
+  "btn_pick": {
+    "message": "Выбрать элемент"
+  },
+  "btn_watch_page": {
+    "message": "Следить за всей страницей"
+  },
+  "btn_add_watch": {
+    "message": "Начать слежение"
+  },
+  "trust_line": {
+    "message": "Навсегда бесплатно · Без аккаунта · Без рекламы · Без слежки"
+  },
+  "link_dashboard": {
+    "message": "Управлять списком"
+  },
+  "status_paused": {
+    "message": "Пауза"
+  },
+  "status_next": {
+    "message": "Следующее обновление через"
+  },
+  "watch_label": {
+    "message": "Отслеживается"
+  },
+  "notif_change_title": {
+    "message": "Отслеживаемая страница изменилась"
+  },
+  "dash_title": {
+    "message": "Автообновление — список и настройки"
+  },
+  "dash_watches": {
+    "message": "Мониторы изменений"
+  },
+  "dash_rules": {
+    "message": "Правила по доменам"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "dash_settings": {
+    "message": "Настройки"
+  },
+  "btn_activate": {
+    "message": "Активировать"
+  },
+  "btn_remove": {
+    "message": "Удалить"
+  },
+  "status_on": {
+    "message": "Вкл"
+  },
+  "status_off": {
+    "message": "Выкл"
+  },
+  "mode_open": {
+    "message": "Открытая вкладка"
+  },
+  "mode_closed": {
+    "message": "Закрытая вкладка"
+  },
+  "onb_tagline": {
+    "message": "Настройте и забудьте. Больше никаких перезагрузок вручную."
+  },
+  "onb_cta": {
+    "message": "Понятно, начнём"
+  },
+  "popup_this_page": {
+    "message": "Эта страница"
+  },
+  "cond_price": {
+    "message": "цена ниже"
+  },
+  "status_bad_page": {
+    "message": "Эту страницу нельзя обновить."
+  },
+  "status_perm_needed": {
+    "message": "Для обновления этого сайта нужно разрешение."
+  },
+  "pick_hint": {
+    "message": "Перейдите на страницу и нажмите на элемент, за которым нужно следить."
+  },
+  "pick_done": {
+    "message": "Отслеживается:"
+  },
+  "watch_added": {
+    "message": "Мониторинг запущен."
+  },
+  "watch_cap_hit": {
+    "message": "Достигнут лимит бесплатного плана (3). Перейдите на Zovo Pro для неограниченного числа мониторов."
+  },
+  "notif_change_body": {
+    "message": "Обнаружено изменение."
+  },
+  "col_page": {
+    "message": "Страница"
+  },
+  "col_condition": {
+    "message": "Условие"
+  },
+  "col_mode": {
+    "message": "Режим"
+  },
+  "col_status": {
+    "message": "Статус"
+  },
+  "col_actions": {
+    "message": "Действия"
+  },
+  "dash_no_watches": {
+    "message": "Мониторов пока нет. Откройте всплывающее окно на любой странице и выберите «Отслеживать изменения»."
+  },
+  "col_site": {
+    "message": "Сайт"
+  },
+  "col_interval": {
+    "message": "Интервал"
+  },
+  "dash_no_rules": {
+    "message": "Сохранённых правил для сайтов пока нет."
+  },
+  "pro_blurb": {
+    "message": "Pro открывает неограниченное число мониторов, расширенные условия, поддержание сессии, историю и синхронизацию между устройствами — всё включено в пожизненную подписку Zovo за $$99."
+  },
+  "label_license": {
+    "message": "Лицензионный ключ"
+  },
+  "opt_sound": {
+    "message": "Воспроизводить звук при подтверждённом изменении"
+  },
+  "license_active": {
+    "message": "Zovo Pro активен. Спасибо!"
+  },
+  "license_inactive": {
+    "message": "Бесплатный план. Введите лицензионный ключ Zovo, чтобы разблокировать Pro."
+  },
+  "license_bad_key": {
+    "message": "Этот ключ недействителен. Формат: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Автообновление — монитор и перезагрузка страниц"
+  },
+  "onb_step1": {
+    "message": "1. Откройте любую страницу, которую хотите держать актуальной, — панель, счёт матча, аукцион."
+  },
+  "onb_step2": {
+    "message": "2. Нажмите на значок «Автообновление», выберите интервал и нажмите «Старт». Обратный отсчёт начнётся сразу."
+  },
+  "onb_step3": {
+    "message": "3. Нужно уведомление? Выберите «Отслеживать изменения», укажите элемент и закройте вкладку — мы продолжим следить за ней."
+  },
+  "onb_trust": {
+    "message": "Навсегда бесплатно. Без аккаунта. Без рекламы. Без слежки. Фоновые вкладки обновляются не чаще чем раз в 30 с (ограничение Chrome); активные вкладки — точно по вашему интервалу."
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

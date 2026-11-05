@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Atualização automática — Monitor e recarga de páginas"
+  },
+  "ext_desc": {
+    "message": "Atualize e recarregue qualquer página por um timer. Monitore mudanças e receba avisos."
+  },
+  "action_title": {
+    "message": "Atualização automática — Monitor e recarga de páginas"
+  },
+  "popup_title": {
+    "message": "Atualização automática"
+  },
+  "section_refresh": {
+    "message": "Atualização automática"
+  },
+  "label_every": {
+    "message": "A cada"
+  },
+  "unit_seconds": {
+    "message": "segundos"
+  },
+  "opt_only_active": {
+    "message": "Atualizar apenas quando esta aba estiver ativa"
+  },
+  "opt_preserve_form": {
+    "message": "Preservar o que digitei nos formulários"
+  },
+  "opt_save_rule": {
+    "message": "Ativar este site automaticamente ao voltar"
+  },
+  "note_bg_floor": {
+    "message": "Abas em segundo plano atualizam no máximo a cada 30s (limite do Chrome); abas ativas usam seu intervalo exato."
+  },
+  "btn_start": {
+    "message": "Iniciar atualização"
+  },
+  "btn_stop": {
+    "message": "Parar"
+  },
+  "btn_pause": {
+    "message": "Pausar"
+  },
+  "btn_resume": {
+    "message": "Retomar"
+  },
+  "btn_refresh_now": {
+    "message": "Atualizar agora"
+  },
+  "section_monitor": {
+    "message": "Monitorar mudanças"
+  },
+  "monitor_help": {
+    "message": "Receba uma notificação quando esta página mudar, mesmo se fechar a aba."
+  },
+  "label_condition": {
+    "message": "Avisar quando"
+  },
+  "cond_any": {
+    "message": "qualquer coisa mudar"
+  },
+  "cond_appears": {
+    "message": "uma palavra aparecer"
+  },
+  "cond_disappears": {
+    "message": "uma palavra sumir"
+  },
+  "label_keyword": {
+    "message": "Palavra"
+  },
+  "btn_pick": {
+    "message": "Escolher um elemento"
+  },
+  "btn_watch_page": {
+    "message": "Monitorar a página toda"
+  },
+  "btn_add_watch": {
+    "message": "Começar a monitorar"
+  },
+  "trust_line": {
+    "message": "Grátis para sempre · Sem conta · Sem anúncios · Sem rastreio"
+  },
+  "link_dashboard": {
+    "message": "Gerenciar a lista"
+  },
+  "status_paused": {
+    "message": "Pausado"
+  },
+  "status_next": {
+    "message": "Próxima atualização em"
+  },
+  "watch_label": {
+    "message": "Monitorando"
+  },
+  "notif_change_title": {
+    "message": "Uma página que você monitora mudou"
+  },
+  "dash_title": {
+    "message": "Atualização automática — Lista e ajustes"
+  },
+  "dash_watches": {
+    "message": "Monitores de mudança"
+  },
+  "dash_rules": {
+    "message": "Regras por domínio"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "dash_settings": {
+    "message": "Ajustes"
+  },
+  "btn_activate": {
+    "message": "Ativar"
+  },
+  "btn_remove": {
+    "message": "Remover"
+  },
+  "status_on": {
+    "message": "Ativo"
+  },
+  "status_off": {
+    "message": "Inativo"
+  },
+  "mode_open": {
+    "message": "Aba aberta"
+  },
+  "mode_closed": {
+    "message": "Aba fechada"
+  },
+  "onb_tagline": {
+    "message": "Configure. Esqueça. Nunca mais recarregue."
+  },
+  "onb_cta": {
+    "message": "Entendi, vamos lá!"
+  },
+  "popup_this_page": {
+    "message": "Esta página"
+  },
+  "cond_price": {
+    "message": "preço abaixo de"
+  },
+  "status_bad_page": {
+    "message": "Esta página não pode ser atualizada."
+  },
+  "status_perm_needed": {
+    "message": "Permissão necessária para atualizar este site."
+  },
+  "pick_hint": {
+    "message": "Vá para a página e clique no elemento que deseja monitorar."
+  },
+  "pick_done": {
+    "message": "Monitorando:"
+  },
+  "watch_added": {
+    "message": "Monitoramento iniciado."
+  },
+  "watch_cap_hit": {
+    "message": "Limite grátis atingido (3). Atualize para o Zovo Pro e tenha monitores ilimitados."
+  },
+  "notif_change_body": {
+    "message": "Uma mudança foi detectada."
+  },
+  "col_page": {
+    "message": "Página"
+  },
+  "col_condition": {
+    "message": "Condição"
+  },
+  "col_mode": {
+    "message": "Modo"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Ações"
+  },
+  "dash_no_watches": {
+    "message": "Nenhum monitor ainda. Abra o popup em qualquer página e escolha Monitorar mudanças."
+  },
+  "col_site": {
+    "message": "Site"
+  },
+  "col_interval": {
+    "message": "Intervalo"
+  },
+  "dash_no_rules": {
+    "message": "Nenhuma regra de site salva ainda."
+  },
+  "pro_blurb": {
+    "message": "O Pro libera monitores ilimitados, condições avançadas, manter sessão ativa, histórico e sincronização entre dispositivos, tudo incluso no Zovo $$99 vitalício."
+  },
+  "label_license": {
+    "message": "Chave de licença"
+  },
+  "opt_sound": {
+    "message": "Tocar um som quando uma mudança for confirmada"
+  },
+  "license_active": {
+    "message": "Zovo Pro ativo. Obrigado!"
+  },
+  "license_inactive": {
+    "message": "Plano grátis. Insira uma chave de licença Zovo para desbloquear o Pro."
+  },
+  "license_bad_key": {
+    "message": "Essa chave não é válida. Formato: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Atualização automática — Monitor e recarga de páginas"
+  },
+  "onb_step1": {
+    "message": "1. Abra qualquer página que você queira manter atualizada: um painel, placares ao vivo, um leilão."
+  },
+  "onb_step2": {
+    "message": "2. Clique no ícone da Atualização automática, escolha um intervalo e toque em Iniciar. Uma contagem regressiva ao vivo começa na hora."
+  },
+  "onb_step3": {
+    "message": "3. Prefere um alerta? Escolha Monitorar mudanças, selecione um elemento e feche a aba — continuaremos monitorando."
+  },
+  "onb_trust": {
+    "message": "Grátis para sempre. Sem conta. Sem anúncios. Sem rastreio. Abas em segundo plano atualizam no máximo a cada 30s (limite do Chrome); abas ativas usam seu intervalo exato."
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

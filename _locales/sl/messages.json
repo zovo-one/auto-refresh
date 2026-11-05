@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Samodejno osveževanje — nadzor in ponovno nalaganje strani"
+  },
+  "ext_desc": {
+    "message": "Samodejno osvežujte in ponovno nalagajte katero koli stran po časovniku. Spremljajte spremembe strani in prejemajte obvestila."
+  },
+  "action_title": {
+    "message": "Samodejno osveževanje — nadzor in ponovno nalaganje strani"
+  },
+  "popup_title": {
+    "message": "Samodejno osveževanje"
+  },
+  "popup_this_page": {
+    "message": "Ta stran"
+  },
+  "section_refresh": {
+    "message": "Samodejno osveževanje"
+  },
+  "label_every": {
+    "message": "Vsakih"
+  },
+  "unit_seconds": {
+    "message": "sekund"
+  },
+  "opt_only_active": {
+    "message": "Osvežuj samo, ko je ta zavihek aktiven"
+  },
+  "opt_preserve_form": {
+    "message": "Ohrani, kar sem vnesel v obrazce"
+  },
+  "opt_save_rule": {
+    "message": "Samodejno aktiviraj to spletno mesto ob vrnitvi"
+  },
+  "note_bg_floor": {
+    "message": "Zavihki v ozadju se osvežujejo največ vsakih 30 s (omejitev Chroma) — zavihki v ospredju upoštevajo vaš točni interval."
+  },
+  "btn_start": {
+    "message": "Začni samodejno osveževanje"
+  },
+  "btn_stop": {
+    "message": "Ustavi"
+  },
+  "btn_pause": {
+    "message": "Zaustavi"
+  },
+  "btn_resume": {
+    "message": "Nadaljuj"
+  },
+  "btn_refresh_now": {
+    "message": "Osveži zdaj"
+  },
+  "section_monitor": {
+    "message": "Spremljaj spremembe"
+  },
+  "monitor_help": {
+    "message": "Prejmite obvestilo na namizju, ko se ta stran spremeni — tudi če zaprete zavihek."
+  },
+  "label_condition": {
+    "message": "Obvesti, ko"
+  },
+  "cond_any": {
+    "message": "se kar koli spremeni"
+  },
+  "cond_appears": {
+    "message": "se pojavi beseda"
+  },
+  "cond_disappears": {
+    "message": "beseda izgine"
+  },
+  "cond_price": {
+    "message": "cena pade pod"
+  },
+  "label_keyword": {
+    "message": "Beseda"
+  },
+  "btn_pick": {
+    "message": "Izberi element"
+  },
+  "btn_watch_page": {
+    "message": "Spremljaj celotno stran"
+  },
+  "btn_add_watch": {
+    "message": "Začni spremljati"
+  },
+  "trust_line": {
+    "message": "Vedno brezplačno · Brez računa · Brez oglasov · Brez sledenja"
+  },
+  "link_dashboard": {
+    "message": "Upravljaj seznam za spremljanje"
+  },
+  "status_paused": {
+    "message": "Zaustavljeno"
+  },
+  "status_next": {
+    "message": "Naslednje osveževanje čez"
+  },
+  "watch_label": {
+    "message": "Spremljanje"
+  },
+  "status_bad_page": {
+    "message": "Te strani ni mogoče osvežiti."
+  },
+  "status_perm_needed": {
+    "message": "Za osveževanje tega spletnega mesta je potrebno dovoljenje."
+  },
+  "pick_hint": {
+    "message": "Preklopite na stran in kliknite element, ki ga želite spremljati."
+  },
+  "pick_done": {
+    "message": "Spremljanje:"
+  },
+  "watch_added": {
+    "message": "Spremljanje se je začelo."
+  },
+  "watch_cap_hit": {
+    "message": "Dosežena brezplačna omejitev (3). Nadgradite na Zovo Pro za neomejeno spremljanje."
+  },
+  "notif_change_title": {
+    "message": "Stran, ki jo spremljate, se je spremenila"
+  },
+  "notif_change_body": {
+    "message": "Zaznana je bila sprememba."
+  },
+  "dash_title": {
+    "message": "Samodejno osveževanje — seznam za spremljanje in nastavitve"
+  },
+  "dash_watches": {
+    "message": "Nadzor sprememb strani"
+  },
+  "col_page": {
+    "message": "Stran"
+  },
+  "col_condition": {
+    "message": "Pogoj"
+  },
+  "col_mode": {
+    "message": "Način"
+  },
+  "col_status": {
+    "message": "Stanje"
+  },
+  "col_actions": {
+    "message": "Dejanja"
+  },
+  "dash_no_watches": {
+    "message": "Še ni nadzorov. Odprite pojavno okno na kateri koli strani in izberite Spremljaj spremembe."
+  },
+  "dash_rules": {
+    "message": "Pravila samodejnega aktiviranja po domeni"
+  },
+  "col_site": {
+    "message": "Spletno mesto"
+  },
+  "col_interval": {
+    "message": "Interval"
+  },
+  "dash_no_rules": {
+    "message": "Še ni shranjenih pravil za spletna mesta."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro odklene neomejeno spremljanje, napredne pogoje, ohranjanje seje, zgodovino in sinhronizacijo med napravami — vključeno v Zovo $$99 doživljenjsko naročnino."
+  },
+  "label_license": {
+    "message": "Licenčni ključ"
+  },
+  "btn_activate": {
+    "message": "Aktiviraj"
+  },
+  "dash_settings": {
+    "message": "Nastavitve"
+  },
+  "opt_sound": {
+    "message": "Predvajaj zvok ob potrjeni spremembi"
+  },
+  "mode_open": {
+    "message": "Odprt zavihek"
+  },
+  "mode_closed": {
+    "message": "Zaprt zavihek"
+  },
+  "status_on": {
+    "message": "Vklopljeno"
+  },
+  "status_off": {
+    "message": "Izklopljeno"
+  },
+  "btn_remove": {
+    "message": "Odstrani"
+  },
+  "license_active": {
+    "message": "Zovo Pro je aktiven. Hvala!"
+  },
+  "license_inactive": {
+    "message": "Brezplačni paket. Vnesite licenčni ključ Zovo za odklep Pro."
+  },
+  "license_bad_key": {
+    "message": "Ta ključ ni veljaven. Oblika: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Samodejno osveževanje — nadzor in ponovno nalaganje strani"
+  },
+  "onb_tagline": {
+    "message": "Nastavite. Pozabite. Nikoli več ne pritisnite ponovnega nalaganja."
+  },
+  "onb_step1": {
+    "message": "1. Odprite katero koli stran, ki jo želite ohranjati svežo — nadzorno ploščo, rezultate v živo, dražbo."
+  },
+  "onb_step2": {
+    "message": "2. Kliknite ikono Samodejno osveževanje, izberite interval in pritisnite Začni. Odštevanje v živo se začne takoj."
+  },
+  "onb_step3": {
+    "message": "3. Želite raje opozorilo? Izberite Spremljaj spremembe, izberite element in zaprite zavihek — mi ga bomo še naprej spremljali."
+  },
+  "onb_trust": {
+    "message": "Vedno brezplačno. Brez računa. Brez oglasov. Brez sledenja. Zavihki v ozadju se osvežujejo največ vsakih 30 s (omejitev Chroma); zavihki v ospredju upoštevajo vaš točni interval."
+  },
+  "onb_cta": {
+    "message": "Razumem — gremo"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

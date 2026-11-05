@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "自动刷新 — 页面监控与重新加载"
+  },
+  "ext_desc": {
+    "message": "按计时器自动刷新和重新加载任意页面。监控页面变化并接收通知。"
+  },
+  "action_title": {
+    "message": "自动刷新 — 页面监控与重新加载"
+  },
+  "popup_title": {
+    "message": "自动刷新"
+  },
+  "section_refresh": {
+    "message": "自动刷新"
+  },
+  "label_every": {
+    "message": "每"
+  },
+  "unit_seconds": {
+    "message": "秒"
+  },
+  "opt_only_active": {
+    "message": "仅在此标签页处于活动状态时刷新"
+  },
+  "opt_preserve_form": {
+    "message": "保留我在表单中输入的内容"
+  },
+  "opt_save_rule": {
+    "message": "返回此网站时自动启用"
+  },
+  "note_bg_floor": {
+    "message": "后台标签页最快每 30 秒刷新一次（Chrome 限制）；前台标签页按你的精确间隔刷新。"
+  },
+  "btn_start": {
+    "message": "开始自动刷新"
+  },
+  "btn_stop": {
+    "message": "停止"
+  },
+  "btn_pause": {
+    "message": "暂停"
+  },
+  "btn_resume": {
+    "message": "继续"
+  },
+  "btn_refresh_now": {
+    "message": "立即刷新"
+  },
+  "section_monitor": {
+    "message": "监控变化"
+  },
+  "monitor_help": {
+    "message": "当此页面发生变化时接收桌面通知，即使关闭标签页也能监控。"
+  },
+  "label_condition": {
+    "message": "通知条件"
+  },
+  "cond_any": {
+    "message": "任何内容变化"
+  },
+  "cond_appears": {
+    "message": "出现某个词"
+  },
+  "cond_disappears": {
+    "message": "某个词消失"
+  },
+  "label_keyword": {
+    "message": "关键词"
+  },
+  "btn_pick": {
+    "message": "选择一个元素"
+  },
+  "btn_watch_page": {
+    "message": "监控整个页面"
+  },
+  "btn_add_watch": {
+    "message": "开始监控"
+  },
+  "trust_line": {
+    "message": "永久免费 · 无需账户 · 无广告 · 不追踪"
+  },
+  "link_dashboard": {
+    "message": "管理监控列表"
+  },
+  "status_paused": {
+    "message": "已暂停"
+  },
+  "status_next": {
+    "message": "下次刷新"
+  },
+  "watch_label": {
+    "message": "正在监控"
+  },
+  "notif_change_title": {
+    "message": "你监控的页面已变化"
+  },
+  "dash_title": {
+    "message": "自动刷新 — 列表与设置"
+  },
+  "dash_watches": {
+    "message": "页面变化监控"
+  },
+  "dash_rules": {
+    "message": "按域名自动启用规则"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "dash_settings": {
+    "message": "设置"
+  },
+  "btn_activate": {
+    "message": "激活"
+  },
+  "btn_remove": {
+    "message": "移除"
+  },
+  "status_on": {
+    "message": "开启"
+  },
+  "status_off": {
+    "message": "关闭"
+  },
+  "mode_open": {
+    "message": "打开的标签页"
+  },
+  "mode_closed": {
+    "message": "关闭的标签页"
+  },
+  "onb_tagline": {
+    "message": "设置好，就放手，再也不用手动刷新。"
+  },
+  "onb_cta": {
+    "message": "知道了，开始吧"
+  },
+  "popup_this_page": {
+    "message": "本页面"
+  },
+  "cond_price": {
+    "message": "价格低于"
+  },
+  "status_bad_page": {
+    "message": "此页面无法刷新。"
+  },
+  "status_perm_needed": {
+    "message": "需要权限才能刷新此网站。"
+  },
+  "pick_hint": {
+    "message": "切换到该页面，点击要监控的元素。"
+  },
+  "pick_done": {
+    "message": "正在监控："
+  },
+  "watch_added": {
+    "message": "监控已启动。"
+  },
+  "watch_cap_hit": {
+    "message": "已达免费上限（3 个）。升级到 Zovo Pro 可获得无限监控。"
+  },
+  "notif_change_body": {
+    "message": "检测到变化。"
+  },
+  "col_page": {
+    "message": "页面"
+  },
+  "col_condition": {
+    "message": "条件"
+  },
+  "col_mode": {
+    "message": "模式"
+  },
+  "col_status": {
+    "message": "状态"
+  },
+  "col_actions": {
+    "message": "操作"
+  },
+  "dash_no_watches": {
+    "message": "暂无监控。在任意页面打开弹出窗口并选择“监控变化”。"
+  },
+  "col_site": {
+    "message": "网站"
+  },
+  "col_interval": {
+    "message": "间隔"
+  },
+  "dash_no_rules": {
+    "message": "暂无已保存的网站规则。"
+  },
+  "pro_blurb": {
+    "message": "Pro 解锁无限监控、高级条件、保持会话活动、历史记录和跨设备同步，全部包含在 Zovo $$99 终身版中。"
+  },
+  "label_license": {
+    "message": "许可证密钥"
+  },
+  "opt_sound": {
+    "message": "确认变化时播放声音"
+  },
+  "license_active": {
+    "message": "Zovo Pro 已激活。谢谢！"
+  },
+  "license_inactive": {
+    "message": "免费方案。输入 Zovo 许可证密钥以解锁 Pro。"
+  },
+  "license_bad_key": {
+    "message": "该密钥无效。格式：ZOVO-XXXX-XXXX-XXXX。"
+  },
+  "onb_title": {
+    "message": "自动刷新 — 页面监控与重新加载"
+  },
+  "onb_step1": {
+    "message": "1. 打开任何你想保持最新的页面 — 仪表板、实时比分或拍卖。"
+  },
+  "onb_step2": {
+    "message": "2. 点击自动刷新图标，选择间隔，点击开始。实时倒计时立即开始。"
+  },
+  "onb_step3": {
+    "message": "3. 想要提醒而不是刷新？选择“监控变化”，选取一个元素，然后关闭标签页 — 我们仍会持续监控。"
+  },
+  "onb_trust": {
+    "message": "永久免费。无需账户。无广告。不追踪。后台标签页最快每 30 秒刷新一次（Chrome 限制）；前台标签页按你的精确间隔刷新。"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

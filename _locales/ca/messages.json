@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Actualització automàtica — Monitor i recàrrega de pàgines"
+  },
+  "ext_desc": {
+    "message": "Actualitza i recarrega automàticament qualsevol pàgina amb un temporitzador. Vigila els canvis de les pàgines i rep notificacions."
+  },
+  "action_title": {
+    "message": "Actualització automàtica — Monitor i recàrrega de pàgines"
+  },
+  "popup_title": {
+    "message": "Actualització automàtica"
+  },
+  "popup_this_page": {
+    "message": "Aquesta pàgina"
+  },
+  "section_refresh": {
+    "message": "Actualització automàtica"
+  },
+  "label_every": {
+    "message": "Cada"
+  },
+  "unit_seconds": {
+    "message": "segons"
+  },
+  "opt_only_active": {
+    "message": "Actualitza només mentre aquesta pestanya estigui activa"
+  },
+  "opt_preserve_form": {
+    "message": "Conserva el que he escrit als formularis"
+  },
+  "opt_save_rule": {
+    "message": "Activa automàticament aquest lloc quan hi torni"
+  },
+  "note_bg_floor": {
+    "message": "Les pestanyes en segon pla s'actualitzen com a màxim cada 30 s (un límit de Chrome) — les pestanyes en primer pla respecten el teu interval exacte."
+  },
+  "btn_start": {
+    "message": "Comença l'actualització automàtica"
+  },
+  "btn_stop": {
+    "message": "Atura"
+  },
+  "btn_pause": {
+    "message": "Pausa"
+  },
+  "btn_resume": {
+    "message": "Reprèn"
+  },
+  "btn_refresh_now": {
+    "message": "Actualitza ara"
+  },
+  "section_monitor": {
+    "message": "Vigila els canvis"
+  },
+  "monitor_help": {
+    "message": "Rep una notificació d'escriptori quan aquesta pàgina canviï — fins i tot si tanques la pestanya."
+  },
+  "label_condition": {
+    "message": "Notifica quan"
+  },
+  "cond_any": {
+    "message": "canviï qualsevol cosa"
+  },
+  "cond_appears": {
+    "message": "aparegui una paraula"
+  },
+  "cond_disappears": {
+    "message": "desaparegui una paraula"
+  },
+  "cond_price": {
+    "message": "el preu baixi de"
+  },
+  "label_keyword": {
+    "message": "Paraula"
+  },
+  "btn_pick": {
+    "message": "Tria un element"
+  },
+  "btn_watch_page": {
+    "message": "Vigila tota la pàgina"
+  },
+  "btn_add_watch": {
+    "message": "Comença a vigilar"
+  },
+  "trust_line": {
+    "message": "Gratuït per sempre · Sense compte · Sense anuncis · Sense seguiment"
+  },
+  "link_dashboard": {
+    "message": "Gestiona la llista de vigilància"
+  },
+  "status_paused": {
+    "message": "En pausa"
+  },
+  "status_next": {
+    "message": "Propera actualització d'aquí a"
+  },
+  "watch_label": {
+    "message": "Vigilant"
+  },
+  "status_bad_page": {
+    "message": "Aquesta pàgina no es pot actualitzar."
+  },
+  "status_perm_needed": {
+    "message": "Cal permís per actualitzar aquest lloc."
+  },
+  "pick_hint": {
+    "message": "Ves a la pàgina i fes clic a l'element que vols vigilar."
+  },
+  "pick_done": {
+    "message": "Vigilant:"
+  },
+  "watch_added": {
+    "message": "Monitor iniciat."
+  },
+  "watch_cap_hit": {
+    "message": "S'ha assolit el límit gratuït (3). Passa a Zovo Pro per tenir monitors il·limitats."
+  },
+  "notif_change_title": {
+    "message": "Una pàgina que vigiles ha canviat"
+  },
+  "notif_change_body": {
+    "message": "S'ha detectat un canvi."
+  },
+  "dash_title": {
+    "message": "Actualització automàtica — Llista de vigilància i configuració"
+  },
+  "dash_watches": {
+    "message": "Monitors de canvis de pàgina"
+  },
+  "col_page": {
+    "message": "Pàgina"
+  },
+  "col_condition": {
+    "message": "Condició"
+  },
+  "col_mode": {
+    "message": "Mode"
+  },
+  "col_status": {
+    "message": "Estat"
+  },
+  "col_actions": {
+    "message": "Accions"
+  },
+  "dash_no_watches": {
+    "message": "Encara no hi ha monitors. Obre la finestra emergent en qualsevol pàgina i tria Vigila els canvis."
+  },
+  "dash_rules": {
+    "message": "Regles d'activació automàtica per domini"
+  },
+  "col_site": {
+    "message": "Lloc"
+  },
+  "col_interval": {
+    "message": "Interval"
+  },
+  "dash_no_rules": {
+    "message": "Encara no hi ha regles de lloc desades."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro desbloqueja monitors il·limitats, condicions avançades, mantenir la sessió activa, historial i sincronització entre màquines — inclòs a la llicència vitalícia de Zovo de $$99."
+  },
+  "label_license": {
+    "message": "Clau de llicència"
+  },
+  "btn_activate": {
+    "message": "Activa"
+  },
+  "dash_settings": {
+    "message": "Configuració"
+  },
+  "opt_sound": {
+    "message": "Reprodueix un so quan es confirmi un canvi"
+  },
+  "mode_open": {
+    "message": "Pestanya oberta"
+  },
+  "mode_closed": {
+    "message": "Pestanya tancada"
+  },
+  "status_on": {
+    "message": "Activat"
+  },
+  "status_off": {
+    "message": "Desactivat"
+  },
+  "btn_remove": {
+    "message": "Elimina"
+  },
+  "license_active": {
+    "message": "Zovo Pro actiu. Gràcies!"
+  },
+  "license_inactive": {
+    "message": "Pla gratuït. Introdueix una clau de llicència Zovo per desbloquejar Pro."
+  },
+  "license_bad_key": {
+    "message": "Aquesta clau no és vàlida. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Actualització automàtica — Monitor i recàrrega de pàgines"
+  },
+  "onb_tagline": {
+    "message": "Configura-ho. Oblida-te'n. No tornis a prémer recàrrega mai més."
+  },
+  "onb_step1": {
+    "message": "1. Obre qualsevol pàgina que vulguis mantenir actualitzada — un tauler, resultats en directe, una subhasta."
+  },
+  "onb_step2": {
+    "message": "2. Fes clic a la icona d'Actualització automàtica, tria un interval i prem Comença. Un compte enrere en directe comença a l'instant."
+  },
+  "onb_step3": {
+    "message": "3. Prefereixes una alerta? Tria Vigila els canvis, tria un element i tanca la pestanya — la seguirem vigilant igualment."
+  },
+  "onb_trust": {
+    "message": "Gratuït per sempre. Sense compte. Sense anuncis. Sense seguiment. Les pestanyes en segon pla s'actualitzen com a màxim cada 30 s (un límit de Chrome); les pestanyes en primer pla respecten el teu interval exacte."
+  },
+  "onb_cta": {
+    "message": "Entesos — som-hi"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

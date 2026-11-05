@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Automaattinen päivitys — sivuvahti ja uudelleenlataus"
+  },
+  "ext_desc": {
+    "message": "Päivitä ja lataa mikä tahansa sivu uudelleen ajastetusti. Seuraa sivujen muutoksia ja saa ilmoituksia."
+  },
+  "action_title": {
+    "message": "Automaattinen päivitys — sivuvahti ja uudelleenlataus"
+  },
+  "popup_title": {
+    "message": "Automaattinen päivitys"
+  },
+  "popup_this_page": {
+    "message": "Tämä sivu"
+  },
+  "section_refresh": {
+    "message": "Automaattinen päivitys"
+  },
+  "label_every": {
+    "message": "Joka"
+  },
+  "unit_seconds": {
+    "message": "sekunti"
+  },
+  "opt_only_active": {
+    "message": "Päivitä vain kun tämä välilehti on aktiivinen"
+  },
+  "opt_preserve_form": {
+    "message": "Säilytä lomakkeisiin kirjoittamani teksti"
+  },
+  "opt_save_rule": {
+    "message": "Aktivoi tämä sivusto automaattisesti palatessani"
+  },
+  "note_bg_floor": {
+    "message": "Taustavälilehdet päivittyvät enintään 30 sekunnin välein (Chromen rajoitus) — etualan välilehdet noudattavat tarkkaa aikaväliäsi."
+  },
+  "btn_start": {
+    "message": "Aloita automaattinen päivitys"
+  },
+  "btn_stop": {
+    "message": "Pysäytä"
+  },
+  "btn_pause": {
+    "message": "Keskeytä"
+  },
+  "btn_resume": {
+    "message": "Jatka"
+  },
+  "btn_refresh_now": {
+    "message": "Päivitä nyt"
+  },
+  "section_monitor": {
+    "message": "Seuraa muutoksia"
+  },
+  "monitor_help": {
+    "message": "Saa työpöytäilmoitus, kun tämä sivu muuttuu — vaikka sulkisit välilehden."
+  },
+  "label_condition": {
+    "message": "Ilmoita kun"
+  },
+  "cond_any": {
+    "message": "mikä tahansa muuttuu"
+  },
+  "cond_appears": {
+    "message": "sana ilmestyy"
+  },
+  "cond_disappears": {
+    "message": "sana katoaa"
+  },
+  "cond_price": {
+    "message": "hinta alle"
+  },
+  "label_keyword": {
+    "message": "Sana"
+  },
+  "btn_pick": {
+    "message": "Valitse elementti"
+  },
+  "btn_watch_page": {
+    "message": "Seuraa koko sivua"
+  },
+  "btn_add_watch": {
+    "message": "Aloita seuranta"
+  },
+  "trust_line": {
+    "message": "Ilmainen ikuisesti · Ei tiliä · Ei mainoksia · Ei seurantaa"
+  },
+  "link_dashboard": {
+    "message": "Hallitse seurantalistaa"
+  },
+  "status_paused": {
+    "message": "Keskeytetty"
+  },
+  "status_next": {
+    "message": "Seuraava päivitys"
+  },
+  "watch_label": {
+    "message": "Seurataan"
+  },
+  "status_bad_page": {
+    "message": "Tätä sivua ei voi päivittää."
+  },
+  "status_perm_needed": {
+    "message": "Tämän sivuston päivittämiseen tarvitaan lupa."
+  },
+  "pick_hint": {
+    "message": "Siirry sivulle ja napsauta seurattavaa elementtiä."
+  },
+  "pick_done": {
+    "message": "Seurataan:"
+  },
+  "watch_added": {
+    "message": "Seuranta aloitettu."
+  },
+  "watch_cap_hit": {
+    "message": "Ilmaisraja saavutettu (3). Päivitä Zovo Pro -versioon rajattomiin seurantoihin."
+  },
+  "notif_change_title": {
+    "message": "Seuraamasi sivu muuttui"
+  },
+  "notif_change_body": {
+    "message": "Havaittiin muutos."
+  },
+  "dash_title": {
+    "message": "Automaattinen päivitys — seurantalista ja asetukset"
+  },
+  "dash_watches": {
+    "message": "Sivumuutosten seuranta"
+  },
+  "col_page": {
+    "message": "Sivu"
+  },
+  "col_condition": {
+    "message": "Ehto"
+  },
+  "col_mode": {
+    "message": "Tila"
+  },
+  "col_status": {
+    "message": "Tila"
+  },
+  "col_actions": {
+    "message": "Toiminnot"
+  },
+  "dash_no_watches": {
+    "message": "Ei vielä seurantoja. Avaa ponnahdusikkuna millä tahansa sivulla ja valitse Seuraa muutoksia."
+  },
+  "dash_rules": {
+    "message": "Verkkotunnuskohtaiset automaattiaktivoinnit"
+  },
+  "col_site": {
+    "message": "Sivusto"
+  },
+  "col_interval": {
+    "message": "Aikaväli"
+  },
+  "dash_no_rules": {
+    "message": "Ei vielä tallennettuja sivustosääntöjä."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro avaa rajattomat seurannat, edistyneet ehdot, istunnon pitämisen aktiivisena, historian ja synkronoinnin laitteiden välillä — sisältyy Zovon 99 $ elinikäiseen versioon."
+  },
+  "label_license": {
+    "message": "Lisenssiavain"
+  },
+  "btn_activate": {
+    "message": "Aktivoi"
+  },
+  "dash_settings": {
+    "message": "Asetukset"
+  },
+  "opt_sound": {
+    "message": "Toista ääni vahvistetusta muutoksesta"
+  },
+  "mode_open": {
+    "message": "Avoin välilehti"
+  },
+  "mode_closed": {
+    "message": "Suljettu välilehti"
+  },
+  "status_on": {
+    "message": "Päällä"
+  },
+  "status_off": {
+    "message": "Pois"
+  },
+  "btn_remove": {
+    "message": "Poista"
+  },
+  "license_active": {
+    "message": "Zovo Pro aktiivinen. Kiitos!"
+  },
+  "license_inactive": {
+    "message": "Ilmainen versio. Syötä Zovo-lisenssiavain avataksesi Pron."
+  },
+  "license_bad_key": {
+    "message": "Tuo avain ei kelpaa. Muoto: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Automaattinen päivitys — sivuvahti ja uudelleenlataus"
+  },
+  "onb_tagline": {
+    "message": "Aseta se. Unohda se. Älä koskaan paina päivitä-nappia uudelleen."
+  },
+  "onb_step1": {
+    "message": "1. Avaa mikä tahansa sivu, jonka haluat pitää tuoreena — koontinäyttö, live-tulokset tai huutokauppa."
+  },
+  "onb_step2": {
+    "message": "2. Napsauta Automaattinen päivitys -kuvaketta, valitse aikaväli ja paina Aloita. Live-ajastin käynnistyy heti."
+  },
+  "onb_step3": {
+    "message": "3. Haluatko ilmoituksen sen sijaan? Valitse Seuraa muutoksia, valitse elementti ja sulje välilehti — seuraamme sitä silti."
+  },
+  "onb_trust": {
+    "message": "Ilmainen ikuisesti. Ei tiliä. Ei mainoksia. Ei seurantaa. Taustavälilehdet päivittyvät enintään 30 sekunnin välein (Chromen rajoitus); etualan välilehdet noudattavat tarkkaa aikaväliäsi."
+  },
+  "onb_cta": {
+    "message": "Selvä — mennään"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

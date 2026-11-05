@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Automatické obnovovanie — monitor a načítanie stránky"
+  },
+  "ext_desc": {
+    "message": "Automaticky obnovujte a znova načítajte ľubovoľnú stránku podľa časovača. Sledujte zmeny na stránkach a dostávajte upozornenia."
+  },
+  "action_title": {
+    "message": "Automatické obnovovanie — monitor a načítanie stránky"
+  },
+  "popup_title": {
+    "message": "Automatické obnovovanie"
+  },
+  "popup_this_page": {
+    "message": "Táto stránka"
+  },
+  "section_refresh": {
+    "message": "Automatické obnovovanie"
+  },
+  "label_every": {
+    "message": "Každých"
+  },
+  "unit_seconds": {
+    "message": "sekúnd"
+  },
+  "opt_only_active": {
+    "message": "Obnovovať len keď je táto karta aktívna"
+  },
+  "opt_preserve_form": {
+    "message": "Zachovať to, čo som napísal do formulárov"
+  },
+  "opt_save_rule": {
+    "message": "Automaticky aktivovať túto stránku pri návrate"
+  },
+  "note_bg_floor": {
+    "message": "Karty na pozadí sa obnovujú najviac raz za 30 s (obmedzenie Chromu) — karty v popredí dodržia váš presný interval."
+  },
+  "btn_start": {
+    "message": "Spustiť automatické obnovovanie"
+  },
+  "btn_stop": {
+    "message": "Zastaviť"
+  },
+  "btn_pause": {
+    "message": "Pozastaviť"
+  },
+  "btn_resume": {
+    "message": "Pokračovať"
+  },
+  "btn_refresh_now": {
+    "message": "Obnoviť teraz"
+  },
+  "section_monitor": {
+    "message": "Sledovať zmeny"
+  },
+  "monitor_help": {
+    "message": "Získajte upozornenie na ploche, keď sa táto stránka zmení — aj keď kartu zavriete."
+  },
+  "label_condition": {
+    "message": "Upozorniť keď"
+  },
+  "cond_any": {
+    "message": "sa čokoľvek zmení"
+  },
+  "cond_appears": {
+    "message": "sa objaví slovo"
+  },
+  "cond_disappears": {
+    "message": "zmizne slovo"
+  },
+  "cond_price": {
+    "message": "cena klesne pod"
+  },
+  "label_keyword": {
+    "message": "Slovo"
+  },
+  "btn_pick": {
+    "message": "Vybrať prvok"
+  },
+  "btn_watch_page": {
+    "message": "Sledovať celú stránku"
+  },
+  "btn_add_watch": {
+    "message": "Začať sledovať"
+  },
+  "trust_line": {
+    "message": "Navždy zadarmo · Bez účtu · Bez reklám · Bez sledovania"
+  },
+  "link_dashboard": {
+    "message": "Spravovať zoznam sledovaných"
+  },
+  "status_paused": {
+    "message": "Pozastavené"
+  },
+  "status_next": {
+    "message": "Ďalšie obnovenie o"
+  },
+  "watch_label": {
+    "message": "Sleduje sa"
+  },
+  "status_bad_page": {
+    "message": "Túto stránku nie je možné obnoviť."
+  },
+  "status_perm_needed": {
+    "message": "Na obnovenie tejto stránky je potrebné povolenie."
+  },
+  "pick_hint": {
+    "message": "Prepnite na stránku a kliknite na prvok, ktorý chcete sledovať."
+  },
+  "pick_done": {
+    "message": "Sleduje sa:"
+  },
+  "watch_added": {
+    "message": "Monitorovanie spustené."
+  },
+  "watch_cap_hit": {
+    "message": "Dosiahnutý bezplatný limit (3). Prejdite na Zovo Pro pre neobmedzený počet monitorov."
+  },
+  "notif_change_title": {
+    "message": "Sledovaná stránka sa zmenila"
+  },
+  "notif_change_body": {
+    "message": "Bola zistená zmena."
+  },
+  "dash_title": {
+    "message": "Automatické obnovovanie — zoznam sledovaných a nastavenia"
+  },
+  "dash_watches": {
+    "message": "Monitory zmien stránok"
+  },
+  "col_page": {
+    "message": "Stránka"
+  },
+  "col_condition": {
+    "message": "Podmienka"
+  },
+  "col_mode": {
+    "message": "Režim"
+  },
+  "col_status": {
+    "message": "Stav"
+  },
+  "col_actions": {
+    "message": "Akcie"
+  },
+  "dash_no_watches": {
+    "message": "Zatiaľ žiadne monitory. Otvorte vyskakovacie okno na ľubovoľnej stránke a zvoľte Sledovať zmeny."
+  },
+  "dash_rules": {
+    "message": "Pravidlá automatickej aktivácie podľa domény"
+  },
+  "col_site": {
+    "message": "Stránka"
+  },
+  "col_interval": {
+    "message": "Interval"
+  },
+  "dash_no_rules": {
+    "message": "Zatiaľ žiadne uložené pravidlá stránok."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro odomyká neobmedzené monitory, pokročilé podmienky, udržiavanie relácie, históriu a synchronizáciu medzi zariadeniami — súčasť doživotného Zovo za $$99."
+  },
+  "label_license": {
+    "message": "Licenčný kľúč"
+  },
+  "btn_activate": {
+    "message": "Aktivovať"
+  },
+  "dash_settings": {
+    "message": "Nastavenia"
+  },
+  "opt_sound": {
+    "message": "Prehrať zvuk pri potvrdenej zmene"
+  },
+  "mode_open": {
+    "message": "Otvorená karta"
+  },
+  "mode_closed": {
+    "message": "Zatvorená karta"
+  },
+  "status_on": {
+    "message": "Zapnuté"
+  },
+  "status_off": {
+    "message": "Vypnuté"
+  },
+  "btn_remove": {
+    "message": "Odstrániť"
+  },
+  "license_active": {
+    "message": "Zovo Pro je aktívne. Ďakujeme!"
+  },
+  "license_inactive": {
+    "message": "Bezplatný plán. Zadajte licenčný kľúč Zovo na odomknutie Pro."
+  },
+  "license_bad_key": {
+    "message": "Tento kľúč nie je platný. Formát: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Automatické obnovovanie — monitor a načítanie stránky"
+  },
+  "onb_tagline": {
+    "message": "Nastavte to. Zabudnite na to. Už nikdy nestláčajte znova načítať."
+  },
+  "onb_step1": {
+    "message": "1. Otvorte ľubovoľnú stránku, ktorú chcete udržiavať aktuálnu — prehľad, živé výsledky, aukciu."
+  },
+  "onb_step2": {
+    "message": "2. Kliknite na ikonu Automatické obnovovanie, vyberte interval a stlačte Spustiť. Okamžite sa spustí živé odpočítavanie."
+  },
+  "onb_step3": {
+    "message": "3. Chcete radšej upozornenie? Zvoľte Sledovať zmeny, vyberte prvok a zavrite kartu — budeme ju stále sledovať."
+  },
+  "onb_trust": {
+    "message": "Navždy zadarmo. Bez účtu. Bez reklám. Bez sledovania. Karty na pozadí sa obnovujú najviac raz za 30 s (obmedzenie Chromu); karty v popredí dodržia váš presný interval."
+  },
+  "onb_cta": {
+    "message": "Rozumiem — poďme na to"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

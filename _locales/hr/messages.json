@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — praćenje i ponovno učitavanje stranice"
+  },
+  "ext_desc": {
+    "message": "Automatski osvježavajte i ponovno učitavajte bilo koju stranicu prema mjeraču vremena. Pratite promjene na stranicama i primajte obavijesti."
+  },
+  "action_title": {
+    "message": "Auto Refresh — praćenje i ponovno učitavanje stranice"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Ova stranica"
+  },
+  "section_refresh": {
+    "message": "Automatsko osvježavanje"
+  },
+  "label_every": {
+    "message": "Svakih"
+  },
+  "unit_seconds": {
+    "message": "sekundi"
+  },
+  "opt_only_active": {
+    "message": "Osvježavaj samo dok je ova kartica aktivna"
+  },
+  "opt_preserve_form": {
+    "message": "Sačuvaj ono što sam upisao u obrasce"
+  },
+  "opt_save_rule": {
+    "message": "Automatski aktiviraj ovu stranicu kad se vratim"
+  },
+  "note_bg_floor": {
+    "message": "Kartice u pozadini osvježavaju se najviše svakih 30 s (ograničenje preglednika Chrome) — kartice u prvom planu koriste točno vaš interval."
+  },
+  "btn_start": {
+    "message": "Pokreni automatsko osvježavanje"
+  },
+  "btn_stop": {
+    "message": "Zaustavi"
+  },
+  "btn_pause": {
+    "message": "Pauziraj"
+  },
+  "btn_resume": {
+    "message": "Nastavi"
+  },
+  "btn_refresh_now": {
+    "message": "Osvježi odmah"
+  },
+  "section_monitor": {
+    "message": "Praćenje promjena"
+  },
+  "monitor_help": {
+    "message": "Primite obavijest na radnoj površini kad se ova stranica promijeni — čak i ako zatvorite karticu."
+  },
+  "label_condition": {
+    "message": "Obavijesti kad"
+  },
+  "cond_any": {
+    "message": "se bilo što promijeni"
+  },
+  "cond_appears": {
+    "message": "se pojavi riječ"
+  },
+  "cond_disappears": {
+    "message": "nestane riječ"
+  },
+  "cond_price": {
+    "message": "cijena padne ispod"
+  },
+  "label_keyword": {
+    "message": "Riječ"
+  },
+  "btn_pick": {
+    "message": "Odaberi element"
+  },
+  "btn_watch_page": {
+    "message": "Prati cijelu stranicu"
+  },
+  "btn_add_watch": {
+    "message": "Počni pratiti"
+  },
+  "trust_line": {
+    "message": "Zauvijek besplatno · Bez računa · Bez oglasa · Bez praćenja"
+  },
+  "link_dashboard": {
+    "message": "Upravljaj popisom za praćenje"
+  },
+  "status_paused": {
+    "message": "Pauzirano"
+  },
+  "status_next": {
+    "message": "Sljedeće osvježavanje za"
+  },
+  "watch_label": {
+    "message": "Praćenje"
+  },
+  "status_bad_page": {
+    "message": "Ovu stranicu nije moguće osvježiti."
+  },
+  "status_perm_needed": {
+    "message": "Za osvježavanje ove stranice potrebno je dopuštenje."
+  },
+  "pick_hint": {
+    "message": "Prebacite se na stranicu i kliknite element koji želite pratiti."
+  },
+  "pick_done": {
+    "message": "Praćenje:"
+  },
+  "watch_added": {
+    "message": "Praćenje je pokrenuto."
+  },
+  "watch_cap_hit": {
+    "message": "Dosegnuto besplatno ograničenje (3). Nadogradite na Zovo Pro za neograničeno praćenje."
+  },
+  "notif_change_title": {
+    "message": "Stranica koju pratite se promijenila"
+  },
+  "notif_change_body": {
+    "message": "Otkrivena je promjena."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — popis za praćenje i postavke"
+  },
+  "dash_watches": {
+    "message": "Praćenje promjena na stranici"
+  },
+  "col_page": {
+    "message": "Stranica"
+  },
+  "col_condition": {
+    "message": "Uvjet"
+  },
+  "col_mode": {
+    "message": "Način"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Radnje"
+  },
+  "dash_no_watches": {
+    "message": "Još nema praćenja. Otvorite skočni prozor na bilo kojoj stranici i odaberite Praćenje promjena."
+  },
+  "dash_rules": {
+    "message": "Pravila za automatsku aktivaciju po domeni"
+  },
+  "col_site": {
+    "message": "Stranica"
+  },
+  "col_interval": {
+    "message": "Interval"
+  },
+  "dash_no_rules": {
+    "message": "Još nema spremljenih pravila za stranice."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro otključava neograničeno praćenje, napredne uvjete, održavanje sesije na životu, povijest i sinkronizaciju među uređajima — sve uključeno u Zovo doživotnu licencu od $$99."
+  },
+  "label_license": {
+    "message": "Licencni ključ"
+  },
+  "btn_activate": {
+    "message": "Aktiviraj"
+  },
+  "dash_settings": {
+    "message": "Postavke"
+  },
+  "opt_sound": {
+    "message": "Reproduciraj zvuk kod potvrđene promjene"
+  },
+  "mode_open": {
+    "message": "Otvorena kartica"
+  },
+  "mode_closed": {
+    "message": "Zatvorena kartica"
+  },
+  "status_on": {
+    "message": "Uključeno"
+  },
+  "status_off": {
+    "message": "Isključeno"
+  },
+  "btn_remove": {
+    "message": "Ukloni"
+  },
+  "license_active": {
+    "message": "Zovo Pro je aktivan. Hvala vam!"
+  },
+  "license_inactive": {
+    "message": "Besplatni plan. Unesite Zovo licencni ključ za otključavanje Pro verzije."
+  },
+  "license_bad_key": {
+    "message": "Taj ključ nije valjan. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — praćenje i ponovno učitavanje stranice"
+  },
+  "onb_tagline": {
+    "message": "Postavite. Zaboravite. Nikad više ne pritišćite ponovno učitavanje."
+  },
+  "onb_step1": {
+    "message": "1. Otvorite bilo koju stranicu koju želite održavati svježom — nadzornu ploču, rezultate uživo, aukciju."
+  },
+  "onb_step2": {
+    "message": "2. Kliknite ikonu Auto Refresh, odaberite interval i pritisnite Pokreni. Odbrojavanje uživo počinje odmah."
+  },
+  "onb_step3": {
+    "message": "3. Želite li umjesto toga obavijest? Odaberite Praćenje promjena, odaberite element i zatvorite karticu — mi ćemo je i dalje pratiti."
+  },
+  "onb_trust": {
+    "message": "Zauvijek besplatno. Bez računa. Bez oglasa. Bez praćenja. Kartice u pozadini osvježavaju se najviše svakih 30 s (ograničenje preglednika Chrome); kartice u prvom planu koriste točno vaš interval."
+  },
+  "onb_cta": {
+    "message": "Razumijem — krenimo"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

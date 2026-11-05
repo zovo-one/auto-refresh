@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — पेज मॉनिटर और रीलोड"
+  },
+  "ext_desc": {
+    "message": "टाइमर पर किसी भी पेज को अपने आप रिफ्रेश और रीलोड करें। पेजों में बदलावों पर नज़र रखें और सूचना पाएं।"
+  },
+  "action_title": {
+    "message": "Auto Refresh — पेज मॉनिटर और रीलोड"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "यह पेज"
+  },
+  "section_refresh": {
+    "message": "ऑटो रिफ्रेश"
+  },
+  "label_every": {
+    "message": "हर"
+  },
+  "unit_seconds": {
+    "message": "सेकंड"
+  },
+  "opt_only_active": {
+    "message": "केवल तभी रिफ्रेश करें जब यह टैब सक्रिय हो"
+  },
+  "opt_preserve_form": {
+    "message": "फ़ॉर्म में मैंने जो टाइप किया है उसे सुरक्षित रखें"
+  },
+  "opt_save_rule": {
+    "message": "जब मैं लौटूं तो इस साइट को अपने आप चालू करें"
+  },
+  "note_bg_floor": {
+    "message": "बैकग्राउंड टैब अधिकतम हर 30 सेकंड में रिफ्रेश होते हैं (एक Chrome सीमा) — फ़ोरग्राउंड टैब आपके तय अंतराल पर रिफ्रेश होते हैं।"
+  },
+  "btn_start": {
+    "message": "ऑटो-रिफ्रेश शुरू करें"
+  },
+  "btn_stop": {
+    "message": "रोकें"
+  },
+  "btn_pause": {
+    "message": "रोकें (Pause)"
+  },
+  "btn_resume": {
+    "message": "फिर से शुरू करें"
+  },
+  "btn_refresh_now": {
+    "message": "अभी रिफ्रेश करें"
+  },
+  "section_monitor": {
+    "message": "बदलावों पर नज़र रखें"
+  },
+  "monitor_help": {
+    "message": "जब यह पेज बदले तो डेस्कटॉप सूचना पाएं — भले ही आप टैब बंद कर दें।"
+  },
+  "label_condition": {
+    "message": "सूचित करें जब"
+  },
+  "cond_any": {
+    "message": "कुछ भी बदले"
+  },
+  "cond_appears": {
+    "message": "कोई शब्द दिखाई दे"
+  },
+  "cond_disappears": {
+    "message": "कोई शब्द गायब हो जाए"
+  },
+  "cond_price": {
+    "message": "कीमत इससे कम हो"
+  },
+  "label_keyword": {
+    "message": "शब्द"
+  },
+  "btn_pick": {
+    "message": "एक एलिमेंट चुनें"
+  },
+  "btn_watch_page": {
+    "message": "पूरे पेज पर नज़र रखें"
+  },
+  "btn_add_watch": {
+    "message": "नज़र रखना शुरू करें"
+  },
+  "trust_line": {
+    "message": "हमेशा मुफ़्त · कोई अकाउंट नहीं · कोई विज्ञापन नहीं · कोई ट्रैकिंग नहीं"
+  },
+  "link_dashboard": {
+    "message": "वॉच-लिस्ट प्रबंधित करें"
+  },
+  "status_paused": {
+    "message": "रुका हुआ"
+  },
+  "status_next": {
+    "message": "अगला रिफ्रेश इतने में"
+  },
+  "watch_label": {
+    "message": "नज़र रखी जा रही है"
+  },
+  "status_bad_page": {
+    "message": "इस पेज को रिफ्रेश नहीं किया जा सकता।"
+  },
+  "status_perm_needed": {
+    "message": "इस साइट को रिफ्रेश करने के लिए अनुमति चाहिए।"
+  },
+  "pick_hint": {
+    "message": "पेज पर जाएं और जिस एलिमेंट पर नज़र रखनी है उस पर क्लिक करें।"
+  },
+  "pick_done": {
+    "message": "नज़र रखी जा रही है:"
+  },
+  "watch_added": {
+    "message": "मॉनिटर शुरू हो गया।"
+  },
+  "watch_cap_hit": {
+    "message": "मुफ़्त सीमा पूरी हो गई (3)। असीमित मॉनिटर के लिए Zovo Pro में अपग्रेड करें।"
+  },
+  "notif_change_title": {
+    "message": "जिस पेज पर आप नज़र रख रहे थे वह बदल गया"
+  },
+  "notif_change_body": {
+    "message": "एक बदलाव का पता चला।"
+  },
+  "dash_title": {
+    "message": "Auto Refresh — वॉच-लिस्ट और सेटिंग्स"
+  },
+  "dash_watches": {
+    "message": "पेज-बदलाव मॉनिटर"
+  },
+  "col_page": {
+    "message": "पेज"
+  },
+  "col_condition": {
+    "message": "शर्त"
+  },
+  "col_mode": {
+    "message": "मोड"
+  },
+  "col_status": {
+    "message": "स्थिति"
+  },
+  "col_actions": {
+    "message": "क्रियाएं"
+  },
+  "dash_no_watches": {
+    "message": "अभी तक कोई मॉनिटर नहीं। किसी भी पेज पर पॉपअप खोलें और बदलावों पर नज़र रखें चुनें।"
+  },
+  "dash_rules": {
+    "message": "प्रति-डोमेन ऑटो-चालू नियम"
+  },
+  "col_site": {
+    "message": "साइट"
+  },
+  "col_interval": {
+    "message": "अंतराल"
+  },
+  "dash_no_rules": {
+    "message": "अभी तक कोई सहेजा गया साइट नियम नहीं।"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro असीमित मॉनिटर, उन्नत शर्तें, सेशन-चालू-रखना, इतिहास और क्रॉस-मशीन सिंक अनलॉक करता है — Zovo $$99 लाइफटाइम में शामिल।"
+  },
+  "label_license": {
+    "message": "लाइसेंस कुंजी"
+  },
+  "btn_activate": {
+    "message": "सक्रिय करें"
+  },
+  "dash_settings": {
+    "message": "सेटिंग्स"
+  },
+  "opt_sound": {
+    "message": "पुष्ट बदलाव पर एक ध्वनि बजाएं"
+  },
+  "mode_open": {
+    "message": "खुला टैब"
+  },
+  "mode_closed": {
+    "message": "बंद टैब"
+  },
+  "status_on": {
+    "message": "चालू"
+  },
+  "status_off": {
+    "message": "बंद"
+  },
+  "btn_remove": {
+    "message": "हटाएं"
+  },
+  "license_active": {
+    "message": "Zovo Pro सक्रिय है। धन्यवाद!"
+  },
+  "license_inactive": {
+    "message": "मुफ़्त प्लान। Pro अनलॉक करने के लिए एक Zovo लाइसेंस कुंजी दर्ज करें।"
+  },
+  "license_bad_key": {
+    "message": "यह कुंजी मान्य नहीं है। प्रारूप: ZOVO-XXXX-XXXX-XXXX।"
+  },
+  "onb_title": {
+    "message": "Auto Refresh — पेज मॉनिटर और रीलोड"
+  },
+  "onb_tagline": {
+    "message": "एक बार सेट करें। भूल जाएं। फिर कभी रीलोड न दबाएं।"
+  },
+  "onb_step1": {
+    "message": "1. कोई भी पेज खोलें जिसे आप ताज़ा रखना चाहते हैं — एक डैशबोर्ड, लाइव स्कोर, एक नीलामी।"
+  },
+  "onb_step2": {
+    "message": "2. Auto Refresh आइकन पर क्लिक करें, एक अंतराल चुनें, Start दबाएं। एक लाइव काउंटडाउन तुरंत शुरू हो जाता है।"
+  },
+  "onb_step3": {
+    "message": "3. इसके बजाय एक अलर्ट चाहिए? बदलावों पर नज़र रखें चुनें, एक एलिमेंट चुनें, और टैब बंद कर दें — हम फिर भी उस पर नज़र रखेंगे।"
+  },
+  "onb_trust": {
+    "message": "हमेशा मुफ़्त। कोई अकाउंट नहीं। कोई विज्ञापन नहीं। कोई ट्रैकिंग नहीं। बैकग्राउंड टैब अधिकतम हर 30 सेकंड में रिफ्रेश होते हैं (एक Chrome सीमा); फ़ोरग्राउंड टैब आपके तय अंतराल पर रिफ्रेश होते हैं।"
+  },
+  "onb_cta": {
+    "message": "समझ गया — चलिए शुरू करें"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

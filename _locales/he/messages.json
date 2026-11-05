@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "רענון אוטומטי — ניטור וטעינה מחדש של דפים"
+  },
+  "ext_desc": {
+    "message": "רענון וטעינה מחדש אוטומטיים של כל דף לפי טיימר. עקוב אחר שינויים בדפים וקבל התראה."
+  },
+  "action_title": {
+    "message": "רענון אוטומטי — ניטור וטעינה מחדש של דפים"
+  },
+  "popup_title": {
+    "message": "רענון אוטומטי"
+  },
+  "popup_this_page": {
+    "message": "דף זה"
+  },
+  "section_refresh": {
+    "message": "רענון אוטומטי"
+  },
+  "label_every": {
+    "message": "כל"
+  },
+  "unit_seconds": {
+    "message": "שניות"
+  },
+  "opt_only_active": {
+    "message": "רענן רק כשלשונית זו פעילה"
+  },
+  "opt_preserve_form": {
+    "message": "שמור על מה שהקלדתי בטפסים"
+  },
+  "opt_save_rule": {
+    "message": "הפעל אתר זה אוטומטית כשאחזור"
+  },
+  "note_bg_floor": {
+    "message": "לשוניות ברקע מתרעננות לכל היותר כל 30 שניות (מגבלה של Chrome) — לשוניות בחזית מגיעות למרווח המדויק שלך."
+  },
+  "btn_start": {
+    "message": "התחל רענון אוטומטי"
+  },
+  "btn_stop": {
+    "message": "עצור"
+  },
+  "btn_pause": {
+    "message": "השהה"
+  },
+  "btn_resume": {
+    "message": "המשך"
+  },
+  "btn_refresh_now": {
+    "message": "רענן עכשיו"
+  },
+  "section_monitor": {
+    "message": "נטר שינויים"
+  },
+  "monitor_help": {
+    "message": "קבל התראה בשולחן העבודה כשדף זה משתנה — גם אם תסגור את הלשונית."
+  },
+  "label_condition": {
+    "message": "הודע כאשר"
+  },
+  "cond_any": {
+    "message": "משהו משתנה"
+  },
+  "cond_appears": {
+    "message": "מילה מופיעה"
+  },
+  "cond_disappears": {
+    "message": "מילה נעלמת"
+  },
+  "cond_price": {
+    "message": "מחיר יורד מתחת ל"
+  },
+  "label_keyword": {
+    "message": "מילה"
+  },
+  "btn_pick": {
+    "message": "בחר אלמנט"
+  },
+  "btn_watch_page": {
+    "message": "עקוב אחר כל הדף"
+  },
+  "btn_add_watch": {
+    "message": "התחל מעקב"
+  },
+  "trust_line": {
+    "message": "חינם לתמיד · ללא חשבון · ללא פרסומות · ללא מעקב"
+  },
+  "link_dashboard": {
+    "message": "נהל רשימת מעקב"
+  },
+  "status_paused": {
+    "message": "מושהה"
+  },
+  "status_next": {
+    "message": "הרענון הבא בעוד"
+  },
+  "watch_label": {
+    "message": "במעקב"
+  },
+  "status_bad_page": {
+    "message": "לא ניתן לרענן דף זה."
+  },
+  "status_perm_needed": {
+    "message": "נדרשת הרשאה לרענון אתר זה."
+  },
+  "pick_hint": {
+    "message": "עבור לדף ולחץ על האלמנט למעקב."
+  },
+  "pick_done": {
+    "message": "במעקב:"
+  },
+  "watch_added": {
+    "message": "הניטור התחיל."
+  },
+  "watch_cap_hit": {
+    "message": "הגעת למגבלת החינם (3). שדרג ל-Zovo Pro לניטורים ללא הגבלה."
+  },
+  "notif_change_title": {
+    "message": "דף שאתה עוקב אחריו השתנה"
+  },
+  "notif_change_body": {
+    "message": "זוהה שינוי."
+  },
+  "dash_title": {
+    "message": "רענון אוטומטי — רשימת מעקב והגדרות"
+  },
+  "dash_watches": {
+    "message": "ניטורי שינויים בדפים"
+  },
+  "col_page": {
+    "message": "דף"
+  },
+  "col_condition": {
+    "message": "תנאי"
+  },
+  "col_mode": {
+    "message": "מצב"
+  },
+  "col_status": {
+    "message": "סטטוס"
+  },
+  "col_actions": {
+    "message": "פעולות"
+  },
+  "dash_no_watches": {
+    "message": "אין עדיין ניטורים. פתח את החלון הקופץ בכל דף ובחר נטר שינויים."
+  },
+  "dash_rules": {
+    "message": "כללי הפעלה אוטומטית לפי דומיין"
+  },
+  "col_site": {
+    "message": "אתר"
+  },
+  "col_interval": {
+    "message": "מרווח"
+  },
+  "dash_no_rules": {
+    "message": "אין עדיין כללי אתר שמורים."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro פותח ניטורים ללא הגבלה, תנאים מתקדמים, שמירה על session פעיל, היסטוריה וסנכרון בין מכשירים — כלול ברישיון Zovo לכל החיים ב-$$99."
+  },
+  "label_license": {
+    "message": "מפתח רישיון"
+  },
+  "btn_activate": {
+    "message": "הפעל"
+  },
+  "dash_settings": {
+    "message": "הגדרות"
+  },
+  "opt_sound": {
+    "message": "השמע צליל בעת שינוי מאושר"
+  },
+  "mode_open": {
+    "message": "לשונית פתוחה"
+  },
+  "mode_closed": {
+    "message": "לשונית סגורה"
+  },
+  "status_on": {
+    "message": "פועל"
+  },
+  "status_off": {
+    "message": "כבוי"
+  },
+  "btn_remove": {
+    "message": "הסר"
+  },
+  "license_active": {
+    "message": "Zovo Pro פעיל. תודה!"
+  },
+  "license_inactive": {
+    "message": "תוכנית חינם. הזן מפתח רישיון Zovo כדי לפתוח את Pro."
+  },
+  "license_bad_key": {
+    "message": "המפתח אינו תקין. פורמט: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "רענון אוטומטי — ניטור וטעינה מחדש של דפים"
+  },
+  "onb_tagline": {
+    "message": "הגדר. שכח מזה. לעולם לא תלחץ טעינה מחדש שוב."
+  },
+  "onb_step1": {
+    "message": "1. פתח כל דף שברצונך לשמור מעודכן — לוח מחוונים, תוצאות חיות, מכירה פומבית."
+  },
+  "onb_step2": {
+    "message": "2. לחץ על סמל הרענון האוטומטי, בחר מרווח, לחץ התחל. ספירה לאחור חיה מתחילה מיד."
+  },
+  "onb_step3": {
+    "message": "3. מעדיף התראה במקום? בחר נטר שינויים, בחר אלמנט וסגור את הלשונית — אנחנו עדיין נעקוב אחריה."
+  },
+  "onb_trust": {
+    "message": "חינם לתמיד. ללא חשבון. ללא פרסומות. ללא מעקב. לשוניות ברקע מתרעננות לכל היותר כל 30 שניות (מגבלה של Chrome); לשוניות בחזית מגיעות למרווח המדויק שלך."
+  },
+  "onb_cta": {
+    "message": "הבנתי — קדימה"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

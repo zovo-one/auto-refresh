@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — Monitoraggio e ricarica pagina"
+  },
+  "ext_desc": {
+    "message": "Aggiorna e ricarica automaticamente qualsiasi pagina a intervalli. Monitora le pagine per rilevare le modifiche e ricevi una notifica."
+  },
+  "action_title": {
+    "message": "Auto Refresh — Monitoraggio e ricarica pagina"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Questa pagina"
+  },
+  "section_refresh": {
+    "message": "Aggiornamento automatico"
+  },
+  "label_every": {
+    "message": "Ogni"
+  },
+  "unit_seconds": {
+    "message": "secondi"
+  },
+  "opt_only_active": {
+    "message": "Aggiorna solo mentre questa scheda è attiva"
+  },
+  "opt_preserve_form": {
+    "message": "Conserva ciò che ho digitato nei moduli"
+  },
+  "opt_save_rule": {
+    "message": "Attiva automaticamente questo sito quando ritorno"
+  },
+  "note_bg_floor": {
+    "message": "Le schede in background si aggiornano al massimo ogni 30s (un limite di Chrome) — le schede in primo piano rispettano l'intervallo esatto."
+  },
+  "btn_start": {
+    "message": "Avvia aggiornamento automatico"
+  },
+  "btn_stop": {
+    "message": "Ferma"
+  },
+  "btn_pause": {
+    "message": "Pausa"
+  },
+  "btn_resume": {
+    "message": "Riprendi"
+  },
+  "btn_refresh_now": {
+    "message": "Aggiorna ora"
+  },
+  "section_monitor": {
+    "message": "Monitora le modifiche"
+  },
+  "monitor_help": {
+    "message": "Ricevi una notifica sul desktop quando questa pagina cambia — anche se chiudi la scheda."
+  },
+  "label_condition": {
+    "message": "Notifica quando"
+  },
+  "cond_any": {
+    "message": "qualcosa cambia"
+  },
+  "cond_appears": {
+    "message": "compare una parola"
+  },
+  "cond_disappears": {
+    "message": "scompare una parola"
+  },
+  "cond_price": {
+    "message": "prezzo inferiore a"
+  },
+  "label_keyword": {
+    "message": "Parola"
+  },
+  "btn_pick": {
+    "message": "Scegli un elemento"
+  },
+  "btn_watch_page": {
+    "message": "Osserva l'intera pagina"
+  },
+  "btn_add_watch": {
+    "message": "Inizia a osservare"
+  },
+  "trust_line": {
+    "message": "Gratis per sempre · Nessun account · Nessuna pubblicità · Nessun tracciamento"
+  },
+  "link_dashboard": {
+    "message": "Gestisci elenco di osservazione"
+  },
+  "status_paused": {
+    "message": "In pausa"
+  },
+  "status_next": {
+    "message": "Prossimo aggiornamento tra"
+  },
+  "watch_label": {
+    "message": "In osservazione"
+  },
+  "status_bad_page": {
+    "message": "Questa pagina non può essere aggiornata."
+  },
+  "status_perm_needed": {
+    "message": "Autorizzazione necessaria per aggiornare questo sito."
+  },
+  "pick_hint": {
+    "message": "Passa alla pagina e fai clic sull'elemento da osservare."
+  },
+  "pick_done": {
+    "message": "In osservazione:"
+  },
+  "watch_added": {
+    "message": "Monitoraggio avviato."
+  },
+  "watch_cap_hit": {
+    "message": "Limite gratuito raggiunto (3). Passa a Zovo Pro per monitoraggi illimitati."
+  },
+  "notif_change_title": {
+    "message": "Una pagina che stai osservando è cambiata"
+  },
+  "notif_change_body": {
+    "message": "È stata rilevata una modifica."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — Elenco di osservazione e impostazioni"
+  },
+  "dash_watches": {
+    "message": "Monitoraggi delle modifiche pagina"
+  },
+  "col_page": {
+    "message": "Pagina"
+  },
+  "col_condition": {
+    "message": "Condizione"
+  },
+  "col_mode": {
+    "message": "Modalità"
+  },
+  "col_status": {
+    "message": "Stato"
+  },
+  "col_actions": {
+    "message": "Azioni"
+  },
+  "dash_no_watches": {
+    "message": "Ancora nessun monitoraggio. Apri il popup su una pagina qualsiasi e scegli Monitora le modifiche."
+  },
+  "dash_rules": {
+    "message": "Regole di attivazione automatica per dominio"
+  },
+  "col_site": {
+    "message": "Sito"
+  },
+  "col_interval": {
+    "message": "Intervallo"
+  },
+  "dash_no_rules": {
+    "message": "Ancora nessuna regola di sito salvata."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro sblocca monitoraggi illimitati, condizioni avanzate, mantenimento sessione attiva, cronologia e sincronizzazione tra dispositivi — inclusi nel Zovo $$99 a vita."
+  },
+  "label_license": {
+    "message": "Chiave di licenza"
+  },
+  "btn_activate": {
+    "message": "Attiva"
+  },
+  "dash_settings": {
+    "message": "Impostazioni"
+  },
+  "opt_sound": {
+    "message": "Riproduci un suono a modifica confermata"
+  },
+  "mode_open": {
+    "message": "Scheda aperta"
+  },
+  "mode_closed": {
+    "message": "Scheda chiusa"
+  },
+  "status_on": {
+    "message": "Attivo"
+  },
+  "status_off": {
+    "message": "Disattivo"
+  },
+  "btn_remove": {
+    "message": "Rimuovi"
+  },
+  "license_active": {
+    "message": "Zovo Pro attivo. Grazie!"
+  },
+  "license_inactive": {
+    "message": "Piano gratuito. Inserisci una chiave di licenza Zovo per sbloccare Pro."
+  },
+  "license_bad_key": {
+    "message": "Questa chiave non è valida. Formato: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — Monitoraggio e ricarica pagina"
+  },
+  "onb_tagline": {
+    "message": "Imposta. Dimentica. Non premere mai più ricarica."
+  },
+  "onb_step1": {
+    "message": "1. Apri una pagina che vuoi tenere aggiornata — una dashboard, punteggi in diretta, un'asta."
+  },
+  "onb_step2": {
+    "message": "2. Fai clic sull'icona Auto Refresh, scegli un intervallo, premi Avvia. Un conto alla rovescia inizia all'istante."
+  },
+  "onb_step3": {
+    "message": "3. Preferisci un avviso? Scegli Monitora le modifiche, seleziona un elemento e chiudi la scheda — la osserveremo comunque."
+  },
+  "onb_trust": {
+    "message": "Gratis per sempre. Nessun account. Nessuna pubblicità. Nessun tracciamento. Le schede in background si aggiornano al massimo ogni 30s (un limite di Chrome); le schede in primo piano rispettano l'intervallo esatto."
+  },
+  "onb_cta": {
+    "message": "Capito — iniziamo"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

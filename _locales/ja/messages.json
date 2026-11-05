@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "自動更新 — ページ監視＆リロード"
+  },
+  "ext_desc": {
+    "message": "タイマーで任意のページを自動更新・リロード。ページの変化を監視して通知します。"
+  },
+  "action_title": {
+    "message": "自動更新 — ページ監視＆リロード"
+  },
+  "popup_title": {
+    "message": "自動更新"
+  },
+  "section_refresh": {
+    "message": "自動更新"
+  },
+  "label_every": {
+    "message": "間隔"
+  },
+  "unit_seconds": {
+    "message": "秒"
+  },
+  "opt_only_active": {
+    "message": "このタブがアクティブなときだけ更新"
+  },
+  "opt_preserve_form": {
+    "message": "フォームに入力した内容を保持する"
+  },
+  "opt_save_rule": {
+    "message": "次回このサイトを開いたら自動で開始"
+  },
+  "note_bg_floor": {
+    "message": "バックグラウンドのタブは最短30秒ごと（Chromeの制限）。表示中のタブは指定した間隔で更新します。"
+  },
+  "btn_start": {
+    "message": "自動更新を開始"
+  },
+  "btn_stop": {
+    "message": "停止"
+  },
+  "btn_pause": {
+    "message": "一時停止"
+  },
+  "btn_resume": {
+    "message": "再開"
+  },
+  "btn_refresh_now": {
+    "message": "今すぐ更新"
+  },
+  "section_monitor": {
+    "message": "変化を監視"
+  },
+  "monitor_help": {
+    "message": "ページが変化したら通知します。タブを閉じても監視を続けます。"
+  },
+  "label_condition": {
+    "message": "通知する条件"
+  },
+  "cond_any": {
+    "message": "何かが変化したとき"
+  },
+  "cond_appears": {
+    "message": "特定の語が現れたとき"
+  },
+  "cond_disappears": {
+    "message": "特定の語が消えたとき"
+  },
+  "label_keyword": {
+    "message": "キーワード"
+  },
+  "btn_pick": {
+    "message": "要素を選ぶ"
+  },
+  "btn_watch_page": {
+    "message": "ページ全体を監視"
+  },
+  "btn_add_watch": {
+    "message": "監視を開始"
+  },
+  "trust_line": {
+    "message": "ずっと無料 · アカウント不要 · 広告なし · 追跡なし"
+  },
+  "link_dashboard": {
+    "message": "監視リストを管理"
+  },
+  "status_paused": {
+    "message": "一時停止中"
+  },
+  "status_next": {
+    "message": "次の更新まで"
+  },
+  "watch_label": {
+    "message": "監視中"
+  },
+  "notif_change_title": {
+    "message": "監視中のページが変化しました"
+  },
+  "dash_title": {
+    "message": "自動更新 — 監視リストと設定"
+  },
+  "dash_watches": {
+    "message": "ページ変化の監視"
+  },
+  "dash_rules": {
+    "message": "ドメインごとの自動開始ルール"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "dash_settings": {
+    "message": "設定"
+  },
+  "btn_activate": {
+    "message": "有効化"
+  },
+  "btn_remove": {
+    "message": "削除"
+  },
+  "status_on": {
+    "message": "オン"
+  },
+  "status_off": {
+    "message": "オフ"
+  },
+  "mode_open": {
+    "message": "開いたタブ"
+  },
+  "mode_closed": {
+    "message": "閉じたタブ"
+  },
+  "onb_tagline": {
+    "message": "設定したら、あとはおまかせ。もうリロード不要。"
+  },
+  "onb_cta": {
+    "message": "はじめる"
+  },
+  "popup_this_page": {
+    "message": "このページ"
+  },
+  "cond_price": {
+    "message": "価格が指定額を下回ったとき"
+  },
+  "status_bad_page": {
+    "message": "このページは更新できません。"
+  },
+  "status_perm_needed": {
+    "message": "このサイトを更新するには権限が必要です。"
+  },
+  "pick_hint": {
+    "message": "ページに切り替えて、監視したい要素をクリックしてください。"
+  },
+  "pick_done": {
+    "message": "監視中:"
+  },
+  "watch_added": {
+    "message": "監視を開始しました。"
+  },
+  "watch_cap_hit": {
+    "message": "無料プランの上限（3件）に達しました。Zovo Pro にアップグレードすると監視が無制限になります。"
+  },
+  "notif_change_body": {
+    "message": "変化が検出されました。"
+  },
+  "col_page": {
+    "message": "ページ"
+  },
+  "col_condition": {
+    "message": "条件"
+  },
+  "col_mode": {
+    "message": "モード"
+  },
+  "col_status": {
+    "message": "状態"
+  },
+  "col_actions": {
+    "message": "操作"
+  },
+  "dash_no_watches": {
+    "message": "まだ監視はありません。任意のページでポップアップを開き、「変化を監視」を選択してください。"
+  },
+  "col_site": {
+    "message": "サイト"
+  },
+  "col_interval": {
+    "message": "間隔"
+  },
+  "dash_no_rules": {
+    "message": "保存されたサイトルールはまだありません。"
+  },
+  "pro_blurb": {
+    "message": "Pro では監視が無制限になり、高度な条件、セッション維持、履歴、複数端末間の同期が利用できます。Zovo の $$99 買い切りに含まれています。"
+  },
+  "label_license": {
+    "message": "ライセンスキー"
+  },
+  "opt_sound": {
+    "message": "変化が確認されたら音を鳴らす"
+  },
+  "license_active": {
+    "message": "Zovo Pro が有効です。ありがとうございます！"
+  },
+  "license_inactive": {
+    "message": "無料プランです。Zovo のライセンスキーを入力すると Pro が有効になります。"
+  },
+  "license_bad_key": {
+    "message": "そのキーは無効です。形式: ZOVO-XXXX-XXXX-XXXX。"
+  },
+  "onb_title": {
+    "message": "自動更新 — ページ監視＆リロード"
+  },
+  "onb_step1": {
+    "message": "1. 最新の状態に保ちたいページを開きます — ダッシュボード、ライブスコア、オークションなど。"
+  },
+  "onb_step2": {
+    "message": "2. Auto Refresh のアイコンをクリックし、間隔を選んで「開始」を押します。カウントダウンがすぐに始まります。"
+  },
+  "onb_step3": {
+    "message": "3. 通知が欲しい場合は「変化を監視」を選び、要素を指定してタブを閉じます — それでも監視を続けます。"
+  },
+  "onb_trust": {
+    "message": "ずっと無料。アカウント不要。広告なし。追跡なし。バックグラウンドのタブは最短30秒ごと（Chromeの制限）、表示中のタブは指定した間隔で更新します。"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

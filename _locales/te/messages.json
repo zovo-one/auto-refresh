@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "ఆటో రిఫ్రెష్ — పేజ్ మానిటర్ & రీలోడ్"
+  },
+  "ext_desc": {
+    "message": "టైమర్‌పై ఏ పేజీనైనా ఆటోమేటిక్‌గా రిఫ్రెష్ & రీలోడ్ చేయండి. మార్పుల కోసం పేజీలను పర్యవేక్షించి నోటిఫికేషన్ పొందండి."
+  },
+  "action_title": {
+    "message": "ఆటో రిఫ్రెష్ — పేజ్ మానిటర్ & రీలోడ్"
+  },
+  "popup_title": {
+    "message": "ఆటో రిఫ్రెష్"
+  },
+  "popup_this_page": {
+    "message": "ఈ పేజీ"
+  },
+  "section_refresh": {
+    "message": "ఆటో రిఫ్రెష్"
+  },
+  "label_every": {
+    "message": "ప్రతి"
+  },
+  "unit_seconds": {
+    "message": "సెకన్లు"
+  },
+  "opt_only_active": {
+    "message": "ఈ ట్యాబ్ యాక్టివ్‌గా ఉన్నప్పుడు మాత్రమే రిఫ్రెష్ చేయి"
+  },
+  "opt_preserve_form": {
+    "message": "ఫారమ్‌లలో నేను టైప్ చేసినది అలాగే ఉంచు"
+  },
+  "opt_save_rule": {
+    "message": "నేను తిరిగి వచ్చినప్పుడు ఈ సైట్‌ను ఆటోమేటిక్‌గా ఆర్మ్ చేయి"
+  },
+  "note_bg_floor": {
+    "message": "బ్యాక్‌గ్రౌండ్ ట్యాబ్‌లు గరిష్టంగా ప్రతి 30సె.కి రిఫ్రెష్ అవుతాయి (ఒక Chrome పరిమితి) — ఫోర్‌గ్రౌండ్ ట్యాబ్‌లు మీ ఖచ్చితమైన విరామాన్ని పాటిస్తాయి."
+  },
+  "btn_start": {
+    "message": "ఆటో-రిఫ్రెష్ ప్రారంభించు"
+  },
+  "btn_stop": {
+    "message": "ఆపు"
+  },
+  "btn_pause": {
+    "message": "పాజ్ చేయి"
+  },
+  "btn_resume": {
+    "message": "కొనసాగించు"
+  },
+  "btn_refresh_now": {
+    "message": "ఇప్పుడే రిఫ్రెష్ చేయి"
+  },
+  "section_monitor": {
+    "message": "మార్పుల కోసం పర్యవేక్షించు"
+  },
+  "monitor_help": {
+    "message": "మీరు ట్యాబ్‌ను మూసివేసినా — ఈ పేజీ మారినప్పుడు డెస్క్‌టాప్ నోటిఫికేషన్ పొందండి."
+  },
+  "label_condition": {
+    "message": "ఎప్పుడు తెలియజేయాలి"
+  },
+  "cond_any": {
+    "message": "ఏదైనా మారినప్పుడు"
+  },
+  "cond_appears": {
+    "message": "ఒక పదం కనిపించినప్పుడు"
+  },
+  "cond_disappears": {
+    "message": "ఒక పదం అదృశ్యమైనప్పుడు"
+  },
+  "cond_price": {
+    "message": "ధర దీని కంటే తక్కువ"
+  },
+  "label_keyword": {
+    "message": "పదం"
+  },
+  "btn_pick": {
+    "message": "ఒక ఎలిమెంట్‌ను ఎంచుకో"
+  },
+  "btn_watch_page": {
+    "message": "మొత్తం పేజీని గమనించు"
+  },
+  "btn_add_watch": {
+    "message": "గమనించడం ప్రారంభించు"
+  },
+  "trust_line": {
+    "message": "ఎప్పటికీ ఉచితం · ఖాతా అవసరం లేదు · ప్రకటనలు లేవు · ట్రాకింగ్ లేదు"
+  },
+  "link_dashboard": {
+    "message": "వాచ్-లిస్ట్‌ను నిర్వహించు"
+  },
+  "status_paused": {
+    "message": "పాజ్ చేయబడింది"
+  },
+  "status_next": {
+    "message": "తదుపరి రిఫ్రెష్ ఇందులో"
+  },
+  "watch_label": {
+    "message": "గమనిస్తోంది"
+  },
+  "status_bad_page": {
+    "message": "ఈ పేజీని రిఫ్రెష్ చేయలేము."
+  },
+  "status_perm_needed": {
+    "message": "ఈ సైట్‌ను రిఫ్రెష్ చేయడానికి అనుమతి అవసరం."
+  },
+  "pick_hint": {
+    "message": "పేజీకి మారి, గమనించాల్సిన ఎలిమెంట్‌పై క్లిక్ చేయండి."
+  },
+  "pick_done": {
+    "message": "గమనిస్తోంది:"
+  },
+  "watch_added": {
+    "message": "మానిటర్ ప్రారంభమైంది."
+  },
+  "watch_cap_hit": {
+    "message": "ఉచిత పరిమితి చేరుకుంది (3). అపరిమిత మానిటర్‌ల కోసం Zovo Pro కు అప్‌గ్రేడ్ చేయండి."
+  },
+  "notif_change_title": {
+    "message": "మీరు గమనిస్తున్న ఒక పేజీ మారింది"
+  },
+  "notif_change_body": {
+    "message": "ఒక మార్పు గుర్తించబడింది."
+  },
+  "dash_title": {
+    "message": "ఆటో రిఫ్రెష్ — వాచ్-లిస్ట్ & సెట్టింగ్‌లు"
+  },
+  "dash_watches": {
+    "message": "పేజీ-మార్పు మానిటర్‌లు"
+  },
+  "col_page": {
+    "message": "పేజీ"
+  },
+  "col_condition": {
+    "message": "షరతు"
+  },
+  "col_mode": {
+    "message": "మోడ్"
+  },
+  "col_status": {
+    "message": "స్థితి"
+  },
+  "col_actions": {
+    "message": "చర్యలు"
+  },
+  "dash_no_watches": {
+    "message": "ఇంకా మానిటర్‌లు లేవు. ఏదైనా పేజీలో పాప్‌అప్‌ను తెరిచి, మార్పుల కోసం పర్యవేక్షించు ఎంచుకోండి."
+  },
+  "dash_rules": {
+    "message": "డొమైన్-వారీ ఆటో-ఆర్మ్ నియమాలు"
+  },
+  "col_site": {
+    "message": "సైట్"
+  },
+  "col_interval": {
+    "message": "విరామం"
+  },
+  "dash_no_rules": {
+    "message": "ఇంకా సేవ్ చేసిన సైట్ నియమాలు లేవు."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro అపరిమిత మానిటర్‌లు, అధునాతన షరతులు, కీప్-సెషన్-అలైవ్, చరిత్ర మరియు క్రాస్-మెషిన్ సింక్‌ను అన్‌లాక్ చేస్తుంది — Zovo $$99 లైఫ్‌టైమ్‌లో కలిపి ఉంటుంది."
+  },
+  "label_license": {
+    "message": "లైసెన్స్ కీ"
+  },
+  "btn_activate": {
+    "message": "యాక్టివేట్ చేయి"
+  },
+  "dash_settings": {
+    "message": "సెట్టింగ్‌లు"
+  },
+  "opt_sound": {
+    "message": "నిర్ధారించబడిన మార్పుపై ఒక ధ్వనిని ప్లే చేయి"
+  },
+  "mode_open": {
+    "message": "తెరిచిన ట్యాబ్"
+  },
+  "mode_closed": {
+    "message": "మూసిన ట్యాబ్"
+  },
+  "status_on": {
+    "message": "ఆన్"
+  },
+  "status_off": {
+    "message": "ఆఫ్"
+  },
+  "btn_remove": {
+    "message": "తీసివేయి"
+  },
+  "license_active": {
+    "message": "Zovo Pro యాక్టివ్‌గా ఉంది. ధన్యవాదాలు!"
+  },
+  "license_inactive": {
+    "message": "ఉచిత ప్లాన్. Pro అన్‌లాక్ చేయడానికి Zovo లైసెన్స్ కీని నమోదు చేయండి."
+  },
+  "license_bad_key": {
+    "message": "ఆ కీ చెల్లదు. ఫార్మాట్: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "ఆటో రిఫ్రెష్ — పేజ్ మానిటర్ & రీలోడ్"
+  },
+  "onb_tagline": {
+    "message": "సెట్ చేయండి. మరచిపోండి. మళ్లీ ఎప్పుడూ రీలోడ్ నొక్కవద్దు."
+  },
+  "onb_step1": {
+    "message": "1. మీరు తాజాగా ఉంచాలనుకునే ఏదైనా పేజీని తెరవండి — ఒక డాష్‌బోర్డ్, లైవ్ స్కోర్‌లు, ఒక వేలం."
+  },
+  "onb_step2": {
+    "message": "2. ఆటో రిఫ్రెష్ చిహ్నంపై క్లిక్ చేసి, ఒక విరామాన్ని ఎంచుకుని, Start నొక్కండి. ఒక లైవ్ కౌంట్‌డౌన్ వెంటనే మొదలవుతుంది."
+  },
+  "onb_step3": {
+    "message": "3. బదులుగా ఒక అలర్ట్ కావాలా? మార్పుల కోసం పర్యవేక్షించు ఎంచుకుని, ఒక ఎలిమెంట్‌ను ఎంచుకుని, ట్యాబ్‌ను మూసివేయండి — మేము దానిని ఇంకా గమనిస్తాము."
+  },
+  "onb_trust": {
+    "message": "ఎప్పటికీ ఉచితం. ఖాతా అవసరం లేదు. ప్రకటనలు లేవు. ట్రాకింగ్ లేదు. బ్యాక్‌గ్రౌండ్ ట్యాబ్‌లు గరిష్టంగా ప్రతి 30సె.కి రిఫ్రెష్ అవుతాయి (ఒక Chrome పరిమితి); ఫోర్‌గ్రౌండ్ ట్యాబ్‌లు మీ ఖచ్చితమైన విరామాన్ని పాటిస్తాయి."
+  },
+  "onb_cta": {
+    "message": "అర్థమైంది — మొదలుపెడదాం"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

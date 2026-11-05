@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — Παρακολούθηση & Επαναφόρτωση σελίδας"
+  },
+  "ext_desc": {
+    "message": "Αυτόματη ανανέωση & επαναφόρτωση οποιασδήποτε σελίδας με χρονόμετρο. Παρακολουθήστε σελίδες για αλλαγές και λάβετε ειδοποιήσεις."
+  },
+  "action_title": {
+    "message": "Auto Refresh — Παρακολούθηση & Επαναφόρτωση σελίδας"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Αυτή η σελίδα"
+  },
+  "section_refresh": {
+    "message": "Αυτόματη ανανέωση"
+  },
+  "label_every": {
+    "message": "Κάθε"
+  },
+  "unit_seconds": {
+    "message": "δευτερόλεπτα"
+  },
+  "opt_only_active": {
+    "message": "Ανανέωση μόνο όταν αυτή η καρτέλα είναι ενεργή"
+  },
+  "opt_preserve_form": {
+    "message": "Διατήρηση όσων πληκτρολόγησα στις φόρμες"
+  },
+  "opt_save_rule": {
+    "message": "Αυτόματη ενεργοποίηση σε αυτόν τον ιστότοπο όταν επιστρέψω"
+  },
+  "note_bg_floor": {
+    "message": "Οι καρτέλες στο παρασκήνιο ανανεώνονται το πολύ κάθε 30 δευτ. (όριο του Chrome) — οι καρτέλες στο προσκήνιο τηρούν το ακριβές διάστημά σας."
+  },
+  "btn_start": {
+    "message": "Έναρξη αυτόματης ανανέωσης"
+  },
+  "btn_stop": {
+    "message": "Διακοπή"
+  },
+  "btn_pause": {
+    "message": "Παύση"
+  },
+  "btn_resume": {
+    "message": "Συνέχεια"
+  },
+  "btn_refresh_now": {
+    "message": "Ανανέωση τώρα"
+  },
+  "section_monitor": {
+    "message": "Παρακολούθηση για αλλαγές"
+  },
+  "monitor_help": {
+    "message": "Λάβετε ειδοποίηση επιφάνειας εργασίας όταν αλλάξει αυτή η σελίδα — ακόμη κι αν κλείσετε την καρτέλα."
+  },
+  "label_condition": {
+    "message": "Ειδοποίηση όταν"
+  },
+  "cond_any": {
+    "message": "αλλάξει οτιδήποτε"
+  },
+  "cond_appears": {
+    "message": "εμφανιστεί μια λέξη"
+  },
+  "cond_disappears": {
+    "message": "εξαφανιστεί μια λέξη"
+  },
+  "cond_price": {
+    "message": "η τιμή πέσει κάτω από"
+  },
+  "label_keyword": {
+    "message": "Λέξη"
+  },
+  "btn_pick": {
+    "message": "Επιλογή στοιχείου"
+  },
+  "btn_watch_page": {
+    "message": "Παρακολούθηση όλης της σελίδας"
+  },
+  "btn_add_watch": {
+    "message": "Έναρξη παρακολούθησης"
+  },
+  "trust_line": {
+    "message": "Δωρεάν για πάντα · Χωρίς λογαριασμό · Χωρίς διαφημίσεις · Χωρίς παρακολούθηση"
+  },
+  "link_dashboard": {
+    "message": "Διαχείριση λίστας παρακολούθησης"
+  },
+  "status_paused": {
+    "message": "Σε παύση"
+  },
+  "status_next": {
+    "message": "Επόμενη ανανέωση σε"
+  },
+  "watch_label": {
+    "message": "Σε παρακολούθηση"
+  },
+  "status_bad_page": {
+    "message": "Αυτή η σελίδα δεν μπορεί να ανανεωθεί."
+  },
+  "status_perm_needed": {
+    "message": "Απαιτείται άδεια για την ανανέωση αυτού του ιστότοπου."
+  },
+  "pick_hint": {
+    "message": "Μεταβείτε στη σελίδα και κάντε κλικ στο στοιχείο που θέλετε να παρακολουθήσετε."
+  },
+  "pick_done": {
+    "message": "Σε παρακολούθηση:"
+  },
+  "watch_added": {
+    "message": "Η παρακολούθηση ξεκίνησε."
+  },
+  "watch_cap_hit": {
+    "message": "Έφτασες το δωρεάν όριο (3). Αναβάθμισε στο Zovo Pro για απεριόριστες παρακολουθήσεις."
+  },
+  "notif_change_title": {
+    "message": "Μια σελίδα που παρακολουθείς άλλαξε"
+  },
+  "notif_change_body": {
+    "message": "Εντοπίστηκε μια αλλαγή."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — Λίστα παρακολούθησης & Ρυθμίσεις"
+  },
+  "dash_watches": {
+    "message": "Παρακολουθήσεις αλλαγών σελίδας"
+  },
+  "col_page": {
+    "message": "Σελίδα"
+  },
+  "col_condition": {
+    "message": "Συνθήκη"
+  },
+  "col_mode": {
+    "message": "Λειτουργία"
+  },
+  "col_status": {
+    "message": "Κατάσταση"
+  },
+  "col_actions": {
+    "message": "Ενέργειες"
+  },
+  "dash_no_watches": {
+    "message": "Δεν υπάρχουν ακόμη παρακολουθήσεις. Άνοιξε το αναδυόμενο παράθυρο σε οποιαδήποτε σελίδα και επίλεξε Παρακολούθηση για αλλαγές."
+  },
+  "dash_rules": {
+    "message": "Κανόνες αυτόματης ενεργοποίησης ανά τομέα"
+  },
+  "col_site": {
+    "message": "Ιστότοπος"
+  },
+  "col_interval": {
+    "message": "Διάστημα"
+  },
+  "dash_no_rules": {
+    "message": "Δεν υπάρχουν ακόμη αποθηκευμένοι κανόνες ιστότοπων."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Το Pro ξεκλειδώνει απεριόριστες παρακολουθήσεις, προηγμένες συνθήκες, διατήρηση ενεργής συνεδρίας, ιστορικό και συγχρονισμό μεταξύ συσκευών — όλα στη διάθεση Zovo $$99 εφ' όρου ζωής."
+  },
+  "label_license": {
+    "message": "Κλειδί άδειας"
+  },
+  "btn_activate": {
+    "message": "Ενεργοποίηση"
+  },
+  "dash_settings": {
+    "message": "Ρυθμίσεις"
+  },
+  "opt_sound": {
+    "message": "Αναπαραγωγή ήχου σε επιβεβαιωμένη αλλαγή"
+  },
+  "mode_open": {
+    "message": "Ανοιχτή καρτέλα"
+  },
+  "mode_closed": {
+    "message": "Κλειστή καρτέλα"
+  },
+  "status_on": {
+    "message": "Ενεργό"
+  },
+  "status_off": {
+    "message": "Ανενεργό"
+  },
+  "btn_remove": {
+    "message": "Αφαίρεση"
+  },
+  "license_active": {
+    "message": "Το Zovo Pro είναι ενεργό. Ευχαριστούμε!"
+  },
+  "license_inactive": {
+    "message": "Δωρεάν πρόγραμμα. Εισάγετε ένα κλειδί άδειας Zovo για να ξεκλειδώσετε το Pro."
+  },
+  "license_bad_key": {
+    "message": "Αυτό το κλειδί δεν είναι έγκυρο. Μορφή: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — Παρακολούθηση & Επαναφόρτωση σελίδας"
+  },
+  "onb_tagline": {
+    "message": "Ρύθμισέ το. Ξέχνα το. Μην ξαναπατήσεις ανανέωση."
+  },
+  "onb_step1": {
+    "message": "1. Άνοιξε οποιαδήποτε σελίδα θέλεις να κρατάς φρέσκια — έναν πίνακα ελέγχου, ζωντανά σκορ, μια δημοπρασία."
+  },
+  "onb_step2": {
+    "message": "2. Κάνε κλικ στο εικονίδιο Auto Refresh, διάλεξε ένα διάστημα, πάτησε Έναρξη. Μια ζωντανή αντίστροφη μέτρηση ξεκινά αμέσως."
+  },
+  "onb_step3": {
+    "message": "3. Θέλεις ειδοποίηση αντ' αυτού; Επίλεξε Παρακολούθηση για αλλαγές, διάλεξε ένα στοιχείο και κλείσε την καρτέλα — θα συνεχίσουμε να την παρακολουθούμε."
+  },
+  "onb_trust": {
+    "message": "Δωρεάν για πάντα. Χωρίς λογαριασμό. Χωρίς διαφημίσεις. Χωρίς παρακολούθηση. Οι καρτέλες στο παρασκήνιο ανανεώνονται το πολύ κάθε 30 δευτ. (όριο του Chrome)· οι καρτέλες στο προσκήνιο τηρούν το ακριβές διάστημά σας."
+  },
+  "onb_cta": {
+    "message": "Το κατάλαβα — πάμε"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

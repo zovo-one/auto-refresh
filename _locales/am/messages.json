@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — የገጽ መከታተያ እና እንደገና መጫን"
+  },
+  "ext_desc": {
+    "message": "ማንኛውንም ገጽ በሰዓት ቆጣሪ በራስ-ሰር ያድሱ እና እንደገና ይጫኑ። ገጾችን ለለውጦች ይከታተሉ እና ማሳወቂያ ያግኙ።"
+  },
+  "action_title": {
+    "message": "Auto Refresh — የገጽ መከታተያ እና እንደገና መጫን"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "ይህ ገጽ"
+  },
+  "section_refresh": {
+    "message": "በራስ-ሰር ማደስ"
+  },
+  "label_every": {
+    "message": "በየ"
+  },
+  "unit_seconds": {
+    "message": "ሰከንዶች"
+  },
+  "opt_only_active": {
+    "message": "ይህ ትር በንቁ ሆኖ ሳለ ብቻ አድስ"
+  },
+  "opt_preserve_form": {
+    "message": "በቅጾች ውስጥ የጻፍኩትን ጠብቅ"
+  },
+  "opt_save_rule": {
+    "message": "ስመለስ ይህን ጣቢያ በራስ-ሰር አዘጋጅ"
+  },
+  "note_bg_floor": {
+    "message": "ከበስተጀርባ ያሉ ትሮች ቢበዛ በየ30 ሰከንዱ ይታደሳሉ (የChrome ገደብ) — በፊት ለፊት ያሉ ትሮች ትክክለኛውን ክፍተትዎን ያሟላሉ።"
+  },
+  "btn_start": {
+    "message": "በራስ-ሰር ማደስ ጀምር"
+  },
+  "btn_stop": {
+    "message": "አቁም"
+  },
+  "btn_pause": {
+    "message": "ለአፍታ አቁም"
+  },
+  "btn_resume": {
+    "message": "ቀጥል"
+  },
+  "btn_refresh_now": {
+    "message": "አሁን አድስ"
+  },
+  "section_monitor": {
+    "message": "ለለውጦች ተከታተል"
+  },
+  "monitor_help": {
+    "message": "ይህ ገጽ ሲቀየር የዴስክቶፕ ማሳወቂያ ያግኙ — ትሩን ቢዘጉትም እንኳ።"
+  },
+  "label_condition": {
+    "message": "ማሳወቅ የሚገባው መቼ"
+  },
+  "cond_any": {
+    "message": "ማንኛውም ነገር ሲቀየር"
+  },
+  "cond_appears": {
+    "message": "አንድ ቃል ሲታይ"
+  },
+  "cond_disappears": {
+    "message": "አንድ ቃል ሲጠፋ"
+  },
+  "cond_price": {
+    "message": "ዋጋ ከዚህ በታች ሲሆን"
+  },
+  "label_keyword": {
+    "message": "ቃል"
+  },
+  "btn_pick": {
+    "message": "አንድ ኤለመንት ምረጥ"
+  },
+  "btn_watch_page": {
+    "message": "መላውን ገጽ ተመልከት"
+  },
+  "btn_add_watch": {
+    "message": "መከታተል ጀምር"
+  },
+  "trust_line": {
+    "message": "ለዘላለም ነጻ · መለያ የለም · ማስታወቂያ የለም · ክትትል የለም"
+  },
+  "link_dashboard": {
+    "message": "የክትትል ዝርዝርን አስተዳድር"
+  },
+  "status_paused": {
+    "message": "ለአፍታ ቆሟል"
+  },
+  "status_next": {
+    "message": "ቀጣይ ማደስ በ"
+  },
+  "watch_label": {
+    "message": "በመከታተል ላይ"
+  },
+  "status_bad_page": {
+    "message": "ይህ ገጽ ሊታደስ አይችልም።"
+  },
+  "status_perm_needed": {
+    "message": "ይህን ጣቢያ ለማደስ ፈቃድ ያስፈልጋል።"
+  },
+  "pick_hint": {
+    "message": "ወደ ገጹ ይቀይሩ እና ለመከታተል ኤለመንቱን ጠቅ ያድርጉ።"
+  },
+  "pick_done": {
+    "message": "በመከታተል ላይ:"
+  },
+  "watch_added": {
+    "message": "ክትትል ተጀምሯል።"
+  },
+  "watch_cap_hit": {
+    "message": "የነጻ ገደብ ደርሷል (3)። ላልተገደበ ክትትል ወደ Zovo Pro ያሻሽሉ።"
+  },
+  "notif_change_title": {
+    "message": "እየተከታተሉት ያለ ገጽ ተቀይሯል"
+  },
+  "notif_change_body": {
+    "message": "ለውጥ ተገኝቷል።"
+  },
+  "dash_title": {
+    "message": "Auto Refresh — የክትትል ዝርዝር እና ቅንብሮች"
+  },
+  "dash_watches": {
+    "message": "የገጽ-ለውጥ መከታተያዎች"
+  },
+  "col_page": {
+    "message": "ገጽ"
+  },
+  "col_condition": {
+    "message": "ሁኔታ"
+  },
+  "col_mode": {
+    "message": "ሁነታ"
+  },
+  "col_status": {
+    "message": "ሁኔታ"
+  },
+  "col_actions": {
+    "message": "እርምጃዎች"
+  },
+  "dash_no_watches": {
+    "message": "እስካሁን መከታተያ የለም። በማንኛውም ገጽ ላይ ብቅ-ባዩን ይክፈቱ እና ለለውጦች ተከታተል የሚለውን ይምረጡ።"
+  },
+  "dash_rules": {
+    "message": "በጎራ-መሠረት የራስ-ሰር ማዘጋጃ ደንቦች"
+  },
+  "col_site": {
+    "message": "ጣቢያ"
+  },
+  "col_interval": {
+    "message": "ክፍተት"
+  },
+  "dash_no_rules": {
+    "message": "እስካሁን የተቀመጡ የጣቢያ ደንቦች የሉም።"
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro ላልተገደበ ክትትል፣ የላቁ ሁኔታዎችን፣ ክፍለ-ጊዜን-በሕይወት-ማቆየትን፣ ታሪክን እና በኮምፒውተሮች መካከል ማመሳሰልን ይከፍታል — በZovo $$99 የዕድሜ ልክ ውስጥ ተጠቃሏል።"
+  },
+  "label_license": {
+    "message": "የፈቃድ ቁልፍ"
+  },
+  "btn_activate": {
+    "message": "አግብር"
+  },
+  "dash_settings": {
+    "message": "ቅንብሮች"
+  },
+  "opt_sound": {
+    "message": "በተረጋገጠ ለውጥ ላይ ድምጽ አጫውት"
+  },
+  "mode_open": {
+    "message": "ትር ክፍት"
+  },
+  "mode_closed": {
+    "message": "ትር ዝግ"
+  },
+  "status_on": {
+    "message": "በርቷል"
+  },
+  "status_off": {
+    "message": "ጠፍቷል"
+  },
+  "btn_remove": {
+    "message": "አስወግድ"
+  },
+  "license_active": {
+    "message": "Zovo Pro ገቢር ሆኗል። እናመሰግናለን!"
+  },
+  "license_inactive": {
+    "message": "ነጻ ዕቅድ። Pro ን ለመክፈት የZovo ፈቃድ ቁልፍ ያስገቡ።"
+  },
+  "license_bad_key": {
+    "message": "ያ ቁልፍ ትክክለኛ አይደለም። ቅርጸት: ZOVO-XXXX-XXXX-XXXX።"
+  },
+  "onb_title": {
+    "message": "Auto Refresh — የገጽ መከታተያ እና እንደገና መጫን"
+  },
+  "onb_tagline": {
+    "message": "አዘጋጁት። እርሱት። እንደገና ማደስን ፈጽሞ አይጫኑ።"
+  },
+  "onb_step1": {
+    "message": "1. ትኩስ ሆኖ እንዲቆይ የሚፈልጉትን ማንኛውንም ገጽ ይክፈቱ — ዳሽቦርድ፣ ቀጥታ ውጤቶች፣ ጨረታ።"
+  },
+  "onb_step2": {
+    "message": "2. የAuto Refresh አዶን ጠቅ ያድርጉ፣ ክፍተት ይምረጡ፣ Start ን ይጫኑ። ቀጥታ ቆጠራ ወዲያውኑ ይጀምራል።"
+  },
+  "onb_step3": {
+    "message": "3. በምትኩ ማንቂያ ይፈልጋሉ? ለለውጦች ተከታተል የሚለውን ይምረጡ፣ ኤለመንት ይምረጡ፣ እና ትሩን ይዝጉ — እኛ አሁንም እንከታተለዋለን።"
+  },
+  "onb_trust": {
+    "message": "ለዘላለም ነጻ። መለያ የለም። ማስታወቂያ የለም። ክትትል የለም። ከበስተጀርባ ያሉ ትሮች ቢበዛ በየ30 ሰከንዱ ይታደሳሉ (የChrome ገደብ)፤ በፊት ለፊት ያሉ ትሮች ትክክለኛውን ክፍተትዎን ያሟላሉ።"
+  },
+  "onb_cta": {
+    "message": "ገባኝ — እንጀምር"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

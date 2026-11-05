@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "بازخوانی خودکار — پایش و بارگذاری مجدد صفحه"
+  },
+  "ext_desc": {
+    "message": "هر صفحه‌ای را به‌صورت زمان‌بندی‌شده به‌طور خودکار بازخوانی و بارگذاری مجدد کنید. صفحه‌ها را برای تغییرات پایش کنید و اطلاع بگیرید."
+  },
+  "action_title": {
+    "message": "بازخوانی خودکار — پایش و بارگذاری مجدد صفحه"
+  },
+  "popup_title": {
+    "message": "بازخوانی خودکار"
+  },
+  "popup_this_page": {
+    "message": "این صفحه"
+  },
+  "section_refresh": {
+    "message": "بازخوانی خودکار"
+  },
+  "label_every": {
+    "message": "هر"
+  },
+  "unit_seconds": {
+    "message": "ثانیه"
+  },
+  "opt_only_active": {
+    "message": "فقط زمانی که این زبانه فعال است بازخوانی شود"
+  },
+  "opt_preserve_form": {
+    "message": "آنچه در فرم‌ها تایپ کرده‌ام حفظ شود"
+  },
+  "opt_save_rule": {
+    "message": "هنگام بازگشت، این سایت را به‌طور خودکار فعال کن"
+  },
+  "note_bg_floor": {
+    "message": "زبانه‌های پس‌زمینه حداکثر هر ۳۰ ثانیه بازخوانی می‌شوند (محدودیت Chrome) — زبانه‌های پیش‌زمینه دقیقاً با بازهٔ شما اجرا می‌شوند."
+  },
+  "btn_start": {
+    "message": "شروع بازخوانی خودکار"
+  },
+  "btn_stop": {
+    "message": "توقف"
+  },
+  "btn_pause": {
+    "message": "مکث"
+  },
+  "btn_resume": {
+    "message": "ادامه"
+  },
+  "btn_refresh_now": {
+    "message": "اکنون بازخوانی کن"
+  },
+  "section_monitor": {
+    "message": "پایش تغییرات"
+  },
+  "monitor_help": {
+    "message": "وقتی این صفحه تغییر کرد یک اعلان دسکتاپ دریافت کنید — حتی اگر زبانه را ببندید."
+  },
+  "label_condition": {
+    "message": "اطلاع بده وقتی"
+  },
+  "cond_any": {
+    "message": "هر چیزی تغییر کند"
+  },
+  "cond_appears": {
+    "message": "یک واژه ظاهر شود"
+  },
+  "cond_disappears": {
+    "message": "یک واژه ناپدید شود"
+  },
+  "cond_price": {
+    "message": "قیمت کمتر از"
+  },
+  "label_keyword": {
+    "message": "واژه"
+  },
+  "btn_pick": {
+    "message": "انتخاب یک عنصر"
+  },
+  "btn_watch_page": {
+    "message": "پایش کل صفحه"
+  },
+  "btn_add_watch": {
+    "message": "شروع پایش"
+  },
+  "trust_line": {
+    "message": "برای همیشه رایگان · بدون حساب · بدون تبلیغات · بدون ردیابی"
+  },
+  "link_dashboard": {
+    "message": "مدیریت فهرست پایش"
+  },
+  "status_paused": {
+    "message": "متوقف شده"
+  },
+  "status_next": {
+    "message": "بازخوانی بعدی تا"
+  },
+  "watch_label": {
+    "message": "در حال پایش"
+  },
+  "status_bad_page": {
+    "message": "این صفحه قابل بازخوانی نیست."
+  },
+  "status_perm_needed": {
+    "message": "برای بازخوانی این سایت به اجازه نیاز است."
+  },
+  "pick_hint": {
+    "message": "به صفحه بروید و روی عنصری که می‌خواهید پایش شود کلیک کنید."
+  },
+  "pick_done": {
+    "message": "در حال پایش:"
+  },
+  "watch_added": {
+    "message": "پایش آغاز شد."
+  },
+  "watch_cap_hit": {
+    "message": "به محدودیت رایگان رسیدید (۳). برای پایش نامحدود به Zovo Pro ارتقا دهید."
+  },
+  "notif_change_title": {
+    "message": "صفحه‌ای که پایش می‌کنید تغییر کرد"
+  },
+  "notif_change_body": {
+    "message": "یک تغییر شناسایی شد."
+  },
+  "dash_title": {
+    "message": "بازخوانی خودکار — فهرست پایش و تنظیمات"
+  },
+  "dash_watches": {
+    "message": "پایشگرهای تغییر صفحه"
+  },
+  "col_page": {
+    "message": "صفحه"
+  },
+  "col_condition": {
+    "message": "شرط"
+  },
+  "col_mode": {
+    "message": "حالت"
+  },
+  "col_status": {
+    "message": "وضعیت"
+  },
+  "col_actions": {
+    "message": "اقدامات"
+  },
+  "dash_no_watches": {
+    "message": "هنوز پایشگری وجود ندارد. در هر صفحه‌ای پنجرهٔ بازشو را باز کنید و پایش تغییرات را انتخاب کنید."
+  },
+  "dash_rules": {
+    "message": "قواعد فعال‌سازی خودکار بر اساس دامنه"
+  },
+  "col_site": {
+    "message": "سایت"
+  },
+  "col_interval": {
+    "message": "بازه"
+  },
+  "dash_no_rules": {
+    "message": "هنوز قاعدهٔ سایتی ذخیره نشده است."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro پایش نامحدود، شرط‌های پیشرفته، زنده نگه داشتن نشست، تاریخچه و همگام‌سازی بین دستگاه‌ها را باز می‌کند — همه در بستهٔ مادام‌العمر $$99 زوو گنجانده شده است."
+  },
+  "label_license": {
+    "message": "کلید مجوز"
+  },
+  "btn_activate": {
+    "message": "فعال‌سازی"
+  },
+  "dash_settings": {
+    "message": "تنظیمات"
+  },
+  "opt_sound": {
+    "message": "پخش صدا هنگام تغییر تأییدشده"
+  },
+  "mode_open": {
+    "message": "زبانهٔ باز"
+  },
+  "mode_closed": {
+    "message": "زبانهٔ بسته"
+  },
+  "status_on": {
+    "message": "روشن"
+  },
+  "status_off": {
+    "message": "خاموش"
+  },
+  "btn_remove": {
+    "message": "حذف"
+  },
+  "license_active": {
+    "message": "Zovo Pro فعال است. سپاسگزاریم!"
+  },
+  "license_inactive": {
+    "message": "پلن رایگان. برای باز کردن Pro یک کلید مجوز Zovo وارد کنید."
+  },
+  "license_bad_key": {
+    "message": "این کلید معتبر نیست. قالب: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "بازخوانی خودکار — پایش و بارگذاری مجدد صفحه"
+  },
+  "onb_tagline": {
+    "message": "تنظیمش کنید. فراموشش کنید. دیگر هرگز بارگذاری مجدد نزنید."
+  },
+  "onb_step1": {
+    "message": "۱. هر صفحه‌ای را که می‌خواهید تازه بماند باز کنید — یک داشبورد، نتایج زنده، یا یک حراج."
+  },
+  "onb_step2": {
+    "message": "۲. روی نماد بازخوانی خودکار کلیک کنید، یک بازه انتخاب کنید و Start را بزنید. یک شمارش معکوس زنده فوراً آغاز می‌شود."
+  },
+  "onb_step3": {
+    "message": "۳. به‌جای آن هشدار می‌خواهید؟ پایش تغییرات را انتخاب کنید، یک عنصر برگزینید و زبانه را ببندید — ما همچنان آن را پایش می‌کنیم."
+  },
+  "onb_trust": {
+    "message": "برای همیشه رایگان. بدون حساب. بدون تبلیغات. بدون ردیابی. زبانه‌های پس‌زمینه حداکثر هر ۳۰ ثانیه بازخوانی می‌شوند (محدودیت Chrome)؛ زبانه‌های پیش‌زمینه دقیقاً با بازهٔ شما اجرا می‌شوند."
+  },
+  "onb_cta": {
+    "message": "متوجه شدم — بزن بریم"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

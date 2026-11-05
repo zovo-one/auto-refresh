@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "التحديث التلقائي — مراقبة الصفحة وإعادة التحميل"
+  },
+  "ext_desc": {
+    "message": "حدّث وأعد تحميل أي صفحة تلقائيًا وفق مؤقّت. راقب الصفحات بحثًا عن التغييرات واحصل على إشعار."
+  },
+  "action_title": {
+    "message": "التحديث التلقائي — مراقبة الصفحة وإعادة التحميل"
+  },
+  "popup_title": {
+    "message": "التحديث التلقائي"
+  },
+  "popup_this_page": {
+    "message": "هذه الصفحة"
+  },
+  "section_refresh": {
+    "message": "التحديث التلقائي"
+  },
+  "label_every": {
+    "message": "كل"
+  },
+  "unit_seconds": {
+    "message": "ثانية"
+  },
+  "opt_only_active": {
+    "message": "حدّث فقط أثناء نشاط هذه العلامة التبويبية"
+  },
+  "opt_preserve_form": {
+    "message": "احتفظ بما كتبته في النماذج"
+  },
+  "opt_save_rule": {
+    "message": "فعّل هذا الموقع تلقائيًا عند عودتي"
+  },
+  "note_bg_floor": {
+    "message": "تُحدَّث العلامات التبويبية في الخلفية كل 30 ثانية على الأكثر (قيد من Chrome) — أما علامات المقدمة فتلتزم بالفاصل الزمني الذي تحدده بدقة."
+  },
+  "btn_start": {
+    "message": "ابدأ التحديث التلقائي"
+  },
+  "btn_stop": {
+    "message": "إيقاف"
+  },
+  "btn_pause": {
+    "message": "إيقاف مؤقت"
+  },
+  "btn_resume": {
+    "message": "استئناف"
+  },
+  "btn_refresh_now": {
+    "message": "حدّث الآن"
+  },
+  "section_monitor": {
+    "message": "مراقبة التغييرات"
+  },
+  "monitor_help": {
+    "message": "احصل على إشعار على سطح المكتب عند تغيّر هذه الصفحة — حتى لو أغلقت العلامة التبويبية."
+  },
+  "label_condition": {
+    "message": "أشعرني عند"
+  },
+  "cond_any": {
+    "message": "أي تغيير"
+  },
+  "cond_appears": {
+    "message": "ظهور كلمة"
+  },
+  "cond_disappears": {
+    "message": "اختفاء كلمة"
+  },
+  "cond_price": {
+    "message": "انخفاض السعر دون"
+  },
+  "label_keyword": {
+    "message": "كلمة"
+  },
+  "btn_pick": {
+    "message": "اختر عنصرًا"
+  },
+  "btn_watch_page": {
+    "message": "راقب الصفحة كاملة"
+  },
+  "btn_add_watch": {
+    "message": "ابدأ المراقبة"
+  },
+  "trust_line": {
+    "message": "مجاني للأبد · بلا حساب · بلا إعلانات · بلا تتبّع"
+  },
+  "link_dashboard": {
+    "message": "إدارة قائمة المراقبة"
+  },
+  "status_paused": {
+    "message": "متوقّف مؤقتًا"
+  },
+  "status_next": {
+    "message": "التحديث التالي خلال"
+  },
+  "watch_label": {
+    "message": "قيد المراقبة"
+  },
+  "status_bad_page": {
+    "message": "لا يمكن تحديث هذه الصفحة."
+  },
+  "status_perm_needed": {
+    "message": "يلزم إذن لتحديث هذا الموقع."
+  },
+  "pick_hint": {
+    "message": "انتقل إلى الصفحة وانقر على العنصر المراد مراقبته."
+  },
+  "pick_done": {
+    "message": "قيد المراقبة:"
+  },
+  "watch_added": {
+    "message": "بدأت المراقبة."
+  },
+  "watch_cap_hit": {
+    "message": "بلغت الحد المجاني (3). قم بالترقية إلى Zovo Pro لمراقبة غير محدودة."
+  },
+  "notif_change_title": {
+    "message": "تغيّرت صفحة تراقبها"
+  },
+  "notif_change_body": {
+    "message": "تم رصد تغيير."
+  },
+  "dash_title": {
+    "message": "التحديث التلقائي — قائمة المراقبة والإعدادات"
+  },
+  "dash_watches": {
+    "message": "مراقبات تغيّر الصفحات"
+  },
+  "col_page": {
+    "message": "الصفحة"
+  },
+  "col_condition": {
+    "message": "الشرط"
+  },
+  "col_mode": {
+    "message": "الوضع"
+  },
+  "col_status": {
+    "message": "الحالة"
+  },
+  "col_actions": {
+    "message": "الإجراءات"
+  },
+  "dash_no_watches": {
+    "message": "لا توجد مراقبات بعد. افتح النافذة المنبثقة على أي صفحة واختر مراقبة التغييرات."
+  },
+  "dash_rules": {
+    "message": "قواعد التفعيل التلقائي لكل نطاق"
+  },
+  "col_site": {
+    "message": "الموقع"
+  },
+  "col_interval": {
+    "message": "الفاصل الزمني"
+  },
+  "dash_no_rules": {
+    "message": "لا توجد قواعد مواقع محفوظة بعد."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "يفتح Pro مراقبات غير محدودة، وشروطًا متقدمة، وإبقاء الجلسة نشطة، والسجل، والمزامنة عبر الأجهزة — ضمن باقة Zovo مدى الحياة بسعر $$99."
+  },
+  "label_license": {
+    "message": "مفتاح الترخيص"
+  },
+  "btn_activate": {
+    "message": "تفعيل"
+  },
+  "dash_settings": {
+    "message": "الإعدادات"
+  },
+  "opt_sound": {
+    "message": "تشغيل صوت عند تأكيد أي تغيير"
+  },
+  "mode_open": {
+    "message": "علامة تبويب مفتوحة"
+  },
+  "mode_closed": {
+    "message": "علامة تبويب مغلقة"
+  },
+  "status_on": {
+    "message": "مفعّل"
+  },
+  "status_off": {
+    "message": "متوقّف"
+  },
+  "btn_remove": {
+    "message": "إزالة"
+  },
+  "license_active": {
+    "message": "Zovo Pro مفعّل. شكرًا لك!"
+  },
+  "license_inactive": {
+    "message": "الخطة المجانية. أدخل مفتاح ترخيص Zovo لفتح Pro."
+  },
+  "license_bad_key": {
+    "message": "هذا المفتاح غير صالح. الصيغة: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "التحديث التلقائي — مراقبة الصفحة وإعادة التحميل"
+  },
+  "onb_tagline": {
+    "message": "اضبطه وانسه. لن تضطر لإعادة التحميل مجددًا."
+  },
+  "onb_step1": {
+    "message": "1. افتح أي صفحة تريد إبقاءها محدّثة — لوحة معلومات، نتائج مباشرة، أو مزاد."
+  },
+  "onb_step2": {
+    "message": "2. انقر على أيقونة التحديث التلقائي، اختر فاصلًا زمنيًا، واضغط بدء. يبدأ العدّ التنازلي المباشر فورًا."
+  },
+  "onb_step3": {
+    "message": "3. تريد تنبيهًا بدلًا من ذلك؟ اختر مراقبة التغييرات، حدّد عنصرًا، وأغلق العلامة التبويبية — وسنواصل مراقبتها."
+  },
+  "onb_trust": {
+    "message": "مجاني للأبد. بلا حساب. بلا إعلانات. بلا تتبّع. تُحدَّث علامات الخلفية كل 30 ثانية على الأكثر (قيد من Chrome)؛ أما علامات المقدمة فتلتزم بالفاصل الزمني الذي تحدده بدقة."
+  },
+  "onb_cta": {
+    "message": "فهمت — هيا بنا"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

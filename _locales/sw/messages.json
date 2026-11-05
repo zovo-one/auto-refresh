@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — Mfuatiliaji na Upakiaji Upya wa Ukurasa"
+  },
+  "ext_desc": {
+    "message": "Onyesha upya na pakia upya ukurasa wowote kwa kipima muda. Fuatilia kurasa kwa mabadiliko na upokee arifa."
+  },
+  "action_title": {
+    "message": "Auto Refresh — Mfuatiliaji na Upakiaji Upya wa Ukurasa"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Ukurasa huu"
+  },
+  "section_refresh": {
+    "message": "Onyesha upya kiotomatiki"
+  },
+  "label_every": {
+    "message": "Kila"
+  },
+  "unit_seconds": {
+    "message": "sekunde"
+  },
+  "opt_only_active": {
+    "message": "Onyesha upya tu wakati kichupo hiki kinatumika"
+  },
+  "opt_preserve_form": {
+    "message": "Hifadhi nilichoandika katika fomu"
+  },
+  "opt_save_rule": {
+    "message": "Washa tovuti hii kiotomatiki nitakaporudi"
+  },
+  "note_bg_floor": {
+    "message": "Vichupo vya nyuma huonyeshwa upya kila sekunde 30 zaidi (kikomo cha Chrome) — vichupo vya mbele hufikia muda wako halisi."
+  },
+  "btn_start": {
+    "message": "Anza kuonyesha upya kiotomatiki"
+  },
+  "btn_stop": {
+    "message": "Simamisha"
+  },
+  "btn_pause": {
+    "message": "Sitisha"
+  },
+  "btn_resume": {
+    "message": "Endelea"
+  },
+  "btn_refresh_now": {
+    "message": "Onyesha upya sasa"
+  },
+  "section_monitor": {
+    "message": "Fuatilia mabadiliko"
+  },
+  "monitor_help": {
+    "message": "Pokea arifa ya kompyuta wakati ukurasa huu unabadilika — hata ukifunga kichupo."
+  },
+  "label_condition": {
+    "message": "Arifu wakati"
+  },
+  "cond_any": {
+    "message": "chochote kinabadilika"
+  },
+  "cond_appears": {
+    "message": "neno linatokea"
+  },
+  "cond_disappears": {
+    "message": "neno linatoweka"
+  },
+  "cond_price": {
+    "message": "bei iko chini ya"
+  },
+  "label_keyword": {
+    "message": "Neno"
+  },
+  "btn_pick": {
+    "message": "Chagua kipengele"
+  },
+  "btn_watch_page": {
+    "message": "Fuatilia ukurasa mzima"
+  },
+  "btn_add_watch": {
+    "message": "Anza kufuatilia"
+  },
+  "trust_line": {
+    "message": "Bila malipo milele · Bila akaunti · Bila matangazo · Bila ufuatiliaji"
+  },
+  "link_dashboard": {
+    "message": "Dhibiti orodha ya ufuatiliaji"
+  },
+  "status_paused": {
+    "message": "Imesitishwa"
+  },
+  "status_next": {
+    "message": "Onyesho upya lijalo baada ya"
+  },
+  "watch_label": {
+    "message": "Inafuatilia"
+  },
+  "status_bad_page": {
+    "message": "Ukurasa huu hauwezi kuonyeshwa upya."
+  },
+  "status_perm_needed": {
+    "message": "Ruhusa inahitajika ili kuonyesha upya tovuti hii."
+  },
+  "pick_hint": {
+    "message": "Nenda kwenye ukurasa na ubofye kipengele cha kufuatilia."
+  },
+  "pick_done": {
+    "message": "Inafuatilia:"
+  },
+  "watch_added": {
+    "message": "Ufuatiliaji umeanza."
+  },
+  "watch_cap_hit": {
+    "message": "Kikomo cha bure kimefikiwa (3). Boresha hadi Zovo Pro kwa ufuatiliaji usio na kikomo."
+  },
+  "notif_change_title": {
+    "message": "Ukurasa unaoufuatilia umebadilika"
+  },
+  "notif_change_body": {
+    "message": "Mabadiliko yamegunduliwa."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — Orodha ya Ufuatiliaji na Mipangilio"
+  },
+  "dash_watches": {
+    "message": "Wafuatiliaji wa mabadiliko ya ukurasa"
+  },
+  "col_page": {
+    "message": "Ukurasa"
+  },
+  "col_condition": {
+    "message": "Sharti"
+  },
+  "col_mode": {
+    "message": "Hali"
+  },
+  "col_status": {
+    "message": "Hali"
+  },
+  "col_actions": {
+    "message": "Vitendo"
+  },
+  "dash_no_watches": {
+    "message": "Hakuna wafuatiliaji bado. Fungua kidirisha kwenye ukurasa wowote na uchague Fuatilia mabadiliko."
+  },
+  "dash_rules": {
+    "message": "Sheria za kuwasha kiotomatiki kwa kila kikoa"
+  },
+  "col_site": {
+    "message": "Tovuti"
+  },
+  "col_interval": {
+    "message": "Muda"
+  },
+  "dash_no_rules": {
+    "message": "Hakuna sheria za tovuti zilizohifadhiwa bado."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro hufungua wafuatiliaji wasio na kikomo, masharti ya kina, kuweka kipindi hai, historia na usawazishaji kati ya mashine — vimejumuishwa katika Zovo ya $$99 ya maisha."
+  },
+  "label_license": {
+    "message": "Ufunguo wa leseni"
+  },
+  "btn_activate": {
+    "message": "Amilisha"
+  },
+  "dash_settings": {
+    "message": "Mipangilio"
+  },
+  "opt_sound": {
+    "message": "Cheza sauti wakati mabadiliko yamethibitishwa"
+  },
+  "mode_open": {
+    "message": "Kichupo kilichofunguliwa"
+  },
+  "mode_closed": {
+    "message": "Kichupo kilichofungwa"
+  },
+  "status_on": {
+    "message": "Imewashwa"
+  },
+  "status_off": {
+    "message": "Imezimwa"
+  },
+  "btn_remove": {
+    "message": "Ondoa"
+  },
+  "license_active": {
+    "message": "Zovo Pro imeamilishwa. Asante!"
+  },
+  "license_inactive": {
+    "message": "Mpango wa bure. Weka ufunguo wa leseni ya Zovo ili kufungua Pro."
+  },
+  "license_bad_key": {
+    "message": "Ufunguo huo si halali. Muundo: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — Mfuatiliaji na Upakiaji Upya wa Ukurasa"
+  },
+  "onb_tagline": {
+    "message": "Iweke. Isahau. Usibofye upakiaji upya tena."
+  },
+  "onb_step1": {
+    "message": "1. Fungua ukurasa wowote unaotaka kuweka mpya — dashibodi, alama za moja kwa moja, mnada."
+  },
+  "onb_step2": {
+    "message": "2. Bofya aikoni ya Auto Refresh, chagua muda, bofya Anza. Kihesabu cha moja kwa moja kinaanza papo hapo."
+  },
+  "onb_step3": {
+    "message": "3. Unataka arifa badala yake? Chagua Fuatilia mabadiliko, chagua kipengele, na ufunge kichupo — bado tutakifuatilia."
+  },
+  "onb_trust": {
+    "message": "Bila malipo milele. Bila akaunti. Bila matangazo. Bila ufuatiliaji. Vichupo vya nyuma huonyeshwa upya kila sekunde 30 zaidi (kikomo cha Chrome); vichupo vya mbele hufikia muda wako halisi."
+  },
+  "onb_cta": {
+    "message": "Nimeelewa — twende"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}

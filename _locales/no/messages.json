@@ -1,0 +1,248 @@
+{
+  "ext_name": {
+    "message": "Auto Refresh — Sideovervåking og oppdatering"
+  },
+  "ext_desc": {
+    "message": "Oppdater og last inn hvilken som helst side automatisk på et tidsintervall. Overvåk sider for endringer og få varsel."
+  },
+  "action_title": {
+    "message": "Auto Refresh — Sideovervåking og oppdatering"
+  },
+  "popup_title": {
+    "message": "Auto Refresh"
+  },
+  "popup_this_page": {
+    "message": "Denne siden"
+  },
+  "section_refresh": {
+    "message": "Automatisk oppdatering"
+  },
+  "label_every": {
+    "message": "Hvert"
+  },
+  "unit_seconds": {
+    "message": "sekund"
+  },
+  "opt_only_active": {
+    "message": "Oppdater bare mens denne fanen er aktiv"
+  },
+  "opt_preserve_form": {
+    "message": "Behold det jeg har skrevet i skjemaer"
+  },
+  "opt_save_rule": {
+    "message": "Aktiver dette nettstedet automatisk når jeg kommer tilbake"
+  },
+  "note_bg_floor": {
+    "message": "Bakgrunnsfaner oppdateres høyst hvert 30. sekund (en Chrome-begrensning) — faner i forgrunnen treffer det nøyaktige intervallet ditt."
+  },
+  "btn_start": {
+    "message": "Start automatisk oppdatering"
+  },
+  "btn_stop": {
+    "message": "Stopp"
+  },
+  "btn_pause": {
+    "message": "Pause"
+  },
+  "btn_resume": {
+    "message": "Fortsett"
+  },
+  "btn_refresh_now": {
+    "message": "Oppdater nå"
+  },
+  "section_monitor": {
+    "message": "Overvåk for endringer"
+  },
+  "monitor_help": {
+    "message": "Få et skrivebordsvarsel når denne siden endres — selv om du lukker fanen."
+  },
+  "label_condition": {
+    "message": "Varsle når"
+  },
+  "cond_any": {
+    "message": "noe endres"
+  },
+  "cond_appears": {
+    "message": "et ord dukker opp"
+  },
+  "cond_disappears": {
+    "message": "et ord forsvinner"
+  },
+  "cond_price": {
+    "message": "prisen faller under"
+  },
+  "label_keyword": {
+    "message": "Ord"
+  },
+  "btn_pick": {
+    "message": "Velg et element"
+  },
+  "btn_watch_page": {
+    "message": "Overvåk hele siden"
+  },
+  "btn_add_watch": {
+    "message": "Begynn å overvåke"
+  },
+  "trust_line": {
+    "message": "Gratis for alltid · Ingen konto · Ingen annonser · Ingen sporing"
+  },
+  "link_dashboard": {
+    "message": "Administrer overvåkingsliste"
+  },
+  "status_paused": {
+    "message": "Satt på pause"
+  },
+  "status_next": {
+    "message": "Neste oppdatering om"
+  },
+  "watch_label": {
+    "message": "Overvåker"
+  },
+  "status_bad_page": {
+    "message": "Denne siden kan ikke oppdateres."
+  },
+  "status_perm_needed": {
+    "message": "Tillatelse kreves for å oppdatere dette nettstedet."
+  },
+  "pick_hint": {
+    "message": "Bytt til siden og klikk på elementet du vil overvåke."
+  },
+  "pick_done": {
+    "message": "Overvåker:"
+  },
+  "watch_added": {
+    "message": "Overvåking startet."
+  },
+  "watch_cap_hit": {
+    "message": "Gratisgrensen er nådd (3). Oppgrader til Zovo Pro for ubegrenset antall overvåkinger."
+  },
+  "notif_change_title": {
+    "message": "En side du overvåker, har endret seg"
+  },
+  "notif_change_body": {
+    "message": "En endring ble oppdaget."
+  },
+  "dash_title": {
+    "message": "Auto Refresh — Overvåkingsliste og innstillinger"
+  },
+  "dash_watches": {
+    "message": "Overvåkinger for sideendringer"
+  },
+  "col_page": {
+    "message": "Side"
+  },
+  "col_condition": {
+    "message": "Betingelse"
+  },
+  "col_mode": {
+    "message": "Modus"
+  },
+  "col_status": {
+    "message": "Status"
+  },
+  "col_actions": {
+    "message": "Handlinger"
+  },
+  "dash_no_watches": {
+    "message": "Ingen overvåkinger ennå. Åpne popup-vinduet på en hvilken som helst side og velg Overvåk for endringer."
+  },
+  "dash_rules": {
+    "message": "Regler for automatisk aktivering per domene"
+  },
+  "col_site": {
+    "message": "Nettsted"
+  },
+  "col_interval": {
+    "message": "Intervall"
+  },
+  "dash_no_rules": {
+    "message": "Ingen lagrede nettstedsregler ennå."
+  },
+  "dash_pro": {
+    "message": "Zovo Pro"
+  },
+  "pro_blurb": {
+    "message": "Pro låser opp ubegrenset antall overvåkinger, avanserte betingelser, hold-økt-i-live, historikk og synkronisering på tvers av maskiner — inkludert i Zovo $$99 for livstid."
+  },
+  "label_license": {
+    "message": "Lisensnøkkel"
+  },
+  "btn_activate": {
+    "message": "Aktiver"
+  },
+  "dash_settings": {
+    "message": "Innstillinger"
+  },
+  "opt_sound": {
+    "message": "Spill av en lyd ved en bekreftet endring"
+  },
+  "mode_open": {
+    "message": "Åpen fane"
+  },
+  "mode_closed": {
+    "message": "Lukket fane"
+  },
+  "status_on": {
+    "message": "På"
+  },
+  "status_off": {
+    "message": "Av"
+  },
+  "btn_remove": {
+    "message": "Fjern"
+  },
+  "license_active": {
+    "message": "Zovo Pro er aktiv. Takk!"
+  },
+  "license_inactive": {
+    "message": "Gratisplan. Skriv inn en Zovo-lisensnøkkel for å låse opp Pro."
+  },
+  "license_bad_key": {
+    "message": "Den nøkkelen er ikke gyldig. Format: ZOVO-XXXX-XXXX-XXXX."
+  },
+  "onb_title": {
+    "message": "Auto Refresh — Sideovervåking og oppdatering"
+  },
+  "onb_tagline": {
+    "message": "Still den inn. Glem den. Trykk aldri på oppdater igjen."
+  },
+  "onb_step1": {
+    "message": "1. Åpne en hvilken som helst side du vil holde oppdatert — et dashbord, direktesendte resultater, en auksjon."
+  },
+  "onb_step2": {
+    "message": "2. Klikk på Auto Refresh-ikonet, velg et intervall, og trykk Start. En direkte nedtelling begynner umiddelbart."
+  },
+  "onb_step3": {
+    "message": "3. Vil du heller ha et varsel? Velg Overvåk for endringer, velg et element, og lukk fanen — vi overvåker den fortsatt."
+  },
+  "onb_trust": {
+    "message": "Gratis for alltid. Ingen konto. Ingen annonser. Ingen sporing. Bakgrunnsfaner oppdateres høyst hvert 30. sekund (en Chrome-begrensning); faner i forgrunnen treffer det nøyaktige intervallet ditt."
+  },
+  "onb_cta": {
+    "message": "Skjønner — la oss sette i gang"
+  },
+  "aria_presets": {
+    "message": "Interval presets"
+  },
+  "link_get_pro": {
+    "message": "Get Zovo Pro"
+  },
+  "logo_alt": {
+    "message": "Auto Refresh logo"
+  },
+  "ph_keyword": {
+    "message": "in stock"
+  },
+  "ph_license": {
+    "message": "ZOVO-XXXX-XXXX-XXXX"
+  },
+  "privacy_link": {
+    "message": "Privacy policy"
+  },
+  "pro_see_pricing": {
+    "message": "See plans & pricing at zovo.one"
+  },
+  "support_line": {
+    "message": "Questions or a bug? Email support@zovo.one"
+  }
+}
